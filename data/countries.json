@@ -1,0 +1,3255 @@
+[
+  {
+    "name": "中国",
+    "flag": "🇨🇳",
+    "continent": "亚洲",
+    "has_models": true,
+    "model_count": 102,
+    "models": [
+      {
+        "name": "通义千问",
+        "company": "阿里云",
+        "type": "通用大语言模型",
+        "source": "manual",
+        "source_id": "",
+        "company_country": "中国",
+        "verified": true,
+        "display_name": "通义千问",
+        "family": "阿里云"
+      },
+      {
+        "name": "文心大模型",
+        "company": "百度",
+        "type": "通用大语言模型",
+        "source": "manual",
+        "source_id": "",
+        "company_country": "中国",
+        "verified": true,
+        "display_name": "文心大模型",
+        "family": "百度"
+      },
+      {
+        "name": "混元",
+        "company": "腾讯",
+        "type": "通用大语言模型",
+        "source": "manual",
+        "source_id": "",
+        "company_country": "中国",
+        "verified": true,
+        "display_name": "混元",
+        "family": "腾讯"
+      },
+      {
+        "name": "豆包大模型",
+        "company": "字节跳动",
+        "type": "通用大语言模型",
+        "source": "manual",
+        "source_id": "",
+        "company_country": "中国",
+        "verified": true,
+        "display_name": "豆包大模型",
+        "family": "字节跳动"
+      },
+      {
+        "name": "讯飞星火",
+        "company": "科大讯飞",
+        "type": "通用大语言模型",
+        "source": "manual",
+        "source_id": "",
+        "company_country": "中国",
+        "verified": true,
+        "display_name": "讯飞星火",
+        "family": "科大讯飞"
+      },
+      {
+        "name": "GLM",
+        "company": "智谱",
+        "type": "通用大语言模型",
+        "source": "manual",
+        "source_id": "",
+        "company_country": "中国",
+        "verified": true,
+        "display_name": "GLM",
+        "family": "GLM"
+      },
+      {
+        "name": "DeepSeek",
+        "company": "深度求索",
+        "type": "通用大语言模型",
+        "source": "manual",
+        "source_id": "",
+        "company_country": "中国",
+        "verified": true,
+        "display_name": "DeepSeek",
+        "family": "DeepSeek"
+      },
+      {
+        "name": "DeepSeek-R1",
+        "company": "深度求索",
+        "type": "推理大模型",
+        "source": "manual",
+        "source_id": "",
+        "company_country": "中国",
+        "verified": true,
+        "display_name": "DeepSeek-R1",
+        "family": "DeepSeek"
+      },
+      {
+        "name": "MiniMax: MiniMax M2.7",
+        "company": "MiniMax",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "minimax/minimax-m2.7",
+        "company_country": "中国",
+        "verified": false,
+        "display_name": "MiniMax M2.7",
+        "family": "MiniMax"
+      },
+      {
+        "name": "Z.ai: GLM 5 Turbo",
+        "company": "智谱",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "z-ai/glm-5-turbo",
+        "company_country": "中国",
+        "verified": false,
+        "display_name": "GLM 5 Turbo",
+        "family": "GLM"
+      },
+      {
+        "name": "Qwen: Qwen3.5-9B",
+        "company": "阿里云",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "qwen/qwen3.5-9b",
+        "company_country": "中国",
+        "verified": false,
+        "display_name": "Qwen3.5-9B",
+        "family": "Qwen"
+      },
+      {
+        "name": "Qwen: Qwen3.5-35B-A3B",
+        "company": "阿里云",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "qwen/qwen3.5-35b-a3b",
+        "company_country": "中国",
+        "verified": false,
+        "display_name": "Qwen3.5-35B-A3B",
+        "family": "Qwen"
+      },
+      {
+        "name": "Qwen: Qwen3.5-27B",
+        "company": "阿里云",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "qwen/qwen3.5-27b",
+        "company_country": "中国",
+        "verified": false,
+        "display_name": "Qwen3.5-27B",
+        "family": "Qwen"
+      },
+      {
+        "name": "Qwen: Qwen3.5-122B-A10B",
+        "company": "阿里云",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "qwen/qwen3.5-122b-a10b",
+        "company_country": "中国",
+        "verified": false,
+        "display_name": "Qwen3.5-122B-A10B",
+        "family": "Qwen"
+      },
+      {
+        "name": "Qwen: Qwen3.5-Flash",
+        "company": "阿里云",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "qwen/qwen3.5-flash-02-23",
+        "company_country": "中国",
+        "verified": false,
+        "display_name": "Qwen3.5-Flash",
+        "family": "Qwen"
+      },
+      {
+        "name": "Qwen: Qwen3.5 Plus 2026-02-15",
+        "company": "阿里云",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "qwen/qwen3.5-plus-02-15",
+        "company_country": "中国",
+        "verified": false,
+        "display_name": "Qwen3.5 Plus 2026-02-15",
+        "family": "Qwen"
+      },
+      {
+        "name": "Qwen: Qwen3.5 397B A17B",
+        "company": "阿里云",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "qwen/qwen3.5-397b-a17b",
+        "company_country": "中国",
+        "verified": false,
+        "display_name": "Qwen3.5 397B A17B",
+        "family": "Qwen"
+      },
+      {
+        "name": "MiniMax: MiniMax M2.5 (free)",
+        "company": "MiniMax",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "minimax/minimax-m2.5:free",
+        "company_country": "中国",
+        "verified": false,
+        "display_name": "MiniMax M2.5",
+        "family": "MiniMax"
+      },
+      {
+        "name": "MiniMax: MiniMax M2.5",
+        "company": "MiniMax",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "minimax/minimax-m2.5",
+        "company_country": "中国",
+        "verified": false,
+        "display_name": "MiniMax M2.5",
+        "family": "MiniMax"
+      },
+      {
+        "name": "Z.ai: GLM 5",
+        "company": "智谱",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "z-ai/glm-5",
+        "company_country": "中国",
+        "verified": false,
+        "display_name": "GLM 5",
+        "family": "GLM"
+      },
+      {
+        "name": "Qwen: Qwen3 Max Thinking",
+        "company": "阿里云",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "qwen/qwen3-max-thinking",
+        "company_country": "中国",
+        "verified": false,
+        "display_name": "Qwen3 Max Thinking",
+        "family": "Qwen"
+      },
+      {
+        "name": "Qwen: Qwen3 Coder Next",
+        "company": "阿里云",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "qwen/qwen3-coder-next",
+        "company_country": "中国",
+        "verified": false,
+        "display_name": "Qwen3 Coder Next",
+        "family": "Qwen"
+      },
+      {
+        "name": "StepFun: Step 3.5 Flash (free)",
+        "company": "阶跃星辰",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "stepfun/step-3.5-flash:free",
+        "company_country": "中国",
+        "verified": false,
+        "display_name": "Step 3.5 Flash",
+        "family": "Step"
+      },
+      {
+        "name": "StepFun: Step 3.5 Flash",
+        "company": "阶跃星辰",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "stepfun/step-3.5-flash",
+        "company_country": "中国",
+        "verified": false,
+        "display_name": "Step 3.5 Flash",
+        "family": "Step"
+      },
+      {
+        "name": "MoonshotAI: Kimi K2.5",
+        "company": "Moonshot AI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "moonshotai/kimi-k2.5",
+        "company_country": "中国",
+        "verified": false,
+        "display_name": "Kimi K2.5",
+        "family": "Kimi"
+      },
+      {
+        "name": "MiniMax: MiniMax M2-her",
+        "company": "MiniMax",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "minimax/minimax-m2-her",
+        "company_country": "中国",
+        "verified": false,
+        "display_name": "MiniMax M2-her",
+        "family": "MiniMax"
+      },
+      {
+        "name": "Z.ai: GLM 4.7 Flash",
+        "company": "智谱",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "z-ai/glm-4.7-flash",
+        "company_country": "中国",
+        "verified": false,
+        "display_name": "GLM 4.7 Flash",
+        "family": "GLM"
+      },
+      {
+        "name": "MiniMax: MiniMax M2.1",
+        "company": "MiniMax",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "minimax/minimax-m2.1",
+        "company_country": "中国",
+        "verified": false,
+        "display_name": "MiniMax M2.1",
+        "family": "MiniMax"
+      },
+      {
+        "name": "Z.ai: GLM 4.7",
+        "company": "智谱",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "z-ai/glm-4.7",
+        "company_country": "中国",
+        "verified": false,
+        "display_name": "GLM 4.7",
+        "family": "GLM"
+      },
+      {
+        "name": "Z.ai: GLM 4.6V",
+        "company": "智谱",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "z-ai/glm-4.6v",
+        "company_country": "中国",
+        "verified": false,
+        "display_name": "GLM 4.6V",
+        "family": "GLM"
+      },
+      {
+        "name": "DeepSeek: DeepSeek V3.2 Speciale",
+        "company": "DeepSeek",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "deepseek/deepseek-v3.2-speciale",
+        "company_country": "中国",
+        "verified": false,
+        "display_name": "DeepSeek V3.2 Speciale",
+        "family": "DeepSeek"
+      },
+      {
+        "name": "DeepSeek: DeepSeek V3.2",
+        "company": "DeepSeek",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "deepseek/deepseek-v3.2",
+        "company_country": "中国",
+        "verified": false,
+        "display_name": "DeepSeek V3.2",
+        "family": "DeepSeek"
+      },
+      {
+        "name": "MoonshotAI: Kimi K2 Thinking",
+        "company": "Moonshot AI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "moonshotai/kimi-k2-thinking",
+        "company_country": "中国",
+        "verified": false,
+        "display_name": "Kimi K2 Thinking",
+        "family": "Kimi"
+      },
+      {
+        "name": "MiniMax: MiniMax M2",
+        "company": "MiniMax",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "minimax/minimax-m2",
+        "company_country": "中国",
+        "verified": false,
+        "display_name": "MiniMax M2",
+        "family": "MiniMax"
+      },
+      {
+        "name": "Qwen: Qwen3 VL 32B Instruct",
+        "company": "阿里云",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "qwen/qwen3-vl-32b-instruct",
+        "company_country": "中国",
+        "verified": false,
+        "display_name": "Qwen3 VL 32B Instruct",
+        "family": "Qwen"
+      },
+      {
+        "name": "Qwen: Qwen3 VL 8B Thinking",
+        "company": "阿里云",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "qwen/qwen3-vl-8b-thinking",
+        "company_country": "中国",
+        "verified": false,
+        "display_name": "Qwen3 VL 8B Thinking",
+        "family": "Qwen"
+      },
+      {
+        "name": "Qwen: Qwen3 VL 8B Instruct",
+        "company": "阿里云",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "qwen/qwen3-vl-8b-instruct",
+        "company_country": "中国",
+        "verified": false,
+        "display_name": "Qwen3 VL 8B Instruct",
+        "family": "Qwen"
+      },
+      {
+        "name": "Baidu: ERNIE 4.5 21B A3B Thinking",
+        "company": "百度",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "baidu/ernie-4.5-21b-a3b-thinking",
+        "company_country": "中国",
+        "verified": false,
+        "display_name": "ERNIE 4.5 21B A3B Thinking",
+        "family": "ERNIE"
+      },
+      {
+        "name": "Qwen: Qwen3 VL 30B A3B Thinking",
+        "company": "阿里云",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "qwen/qwen3-vl-30b-a3b-thinking",
+        "company_country": "中国",
+        "verified": false,
+        "display_name": "Qwen3 VL 30B A3B Thinking",
+        "family": "Qwen"
+      },
+      {
+        "name": "Qwen: Qwen3 VL 30B A3B Instruct",
+        "company": "阿里云",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "qwen/qwen3-vl-30b-a3b-instruct",
+        "company_country": "中国",
+        "verified": false,
+        "display_name": "Qwen3 VL 30B A3B Instruct",
+        "family": "Qwen"
+      },
+      {
+        "name": "Z.ai: GLM 4.6",
+        "company": "智谱",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "z-ai/glm-4.6",
+        "company_country": "中国",
+        "verified": false,
+        "display_name": "GLM 4.6",
+        "family": "GLM"
+      },
+      {
+        "name": "DeepSeek: DeepSeek V3.2 Exp",
+        "company": "DeepSeek",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "deepseek/deepseek-v3.2-exp",
+        "company_country": "中国",
+        "verified": false,
+        "display_name": "DeepSeek V3.2 Exp",
+        "family": "DeepSeek"
+      },
+      {
+        "name": "Qwen: Qwen3 VL 235B A22B Thinking",
+        "company": "阿里云",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "qwen/qwen3-vl-235b-a22b-thinking",
+        "company_country": "中国",
+        "verified": false,
+        "display_name": "Qwen3 VL 235B A22B Thinking",
+        "family": "Qwen"
+      },
+      {
+        "name": "Qwen: Qwen3 VL 235B A22B Instruct",
+        "company": "阿里云",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "qwen/qwen3-vl-235b-a22b-instruct",
+        "company_country": "中国",
+        "verified": false,
+        "display_name": "Qwen3 VL 235B A22B Instruct",
+        "family": "Qwen"
+      },
+      {
+        "name": "Qwen: Qwen3 Max",
+        "company": "阿里云",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "qwen/qwen3-max",
+        "company_country": "中国",
+        "verified": false,
+        "display_name": "Qwen3 Max",
+        "family": "Qwen"
+      },
+      {
+        "name": "Qwen: Qwen3 Coder Plus",
+        "company": "阿里云",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "qwen/qwen3-coder-plus",
+        "company_country": "中国",
+        "verified": false,
+        "display_name": "Qwen3 Coder Plus",
+        "family": "Qwen"
+      },
+      {
+        "name": "DeepSeek: DeepSeek V3.1 Terminus",
+        "company": "DeepSeek",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "deepseek/deepseek-v3.1-terminus",
+        "company_country": "中国",
+        "verified": false,
+        "display_name": "DeepSeek V3.1 Terminus",
+        "family": "DeepSeek"
+      },
+      {
+        "name": "Tongyi DeepResearch 30B A3B",
+        "company": "阿里云",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "alibaba/tongyi-deepresearch-30b-a3b",
+        "company_country": "中国",
+        "verified": false,
+        "display_name": "Tongyi DeepResearch 30B A3B",
+        "family": "阿里云"
+      },
+      {
+        "name": "Qwen: Qwen3 Coder Flash",
+        "company": "阿里云",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "qwen/qwen3-coder-flash",
+        "company_country": "中国",
+        "verified": false,
+        "display_name": "Qwen3 Coder Flash",
+        "family": "Qwen"
+      },
+      {
+        "name": "Qwen: Qwen3 Next 80B A3B Thinking",
+        "company": "阿里云",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "qwen/qwen3-next-80b-a3b-thinking",
+        "company_country": "中国",
+        "verified": false,
+        "display_name": "Qwen3 Next 80B A3B Thinking",
+        "family": "Qwen"
+      },
+      {
+        "name": "Qwen: Qwen3 Next 80B A3B Instruct (free)",
+        "company": "阿里云",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "qwen/qwen3-next-80b-a3b-instruct:free",
+        "company_country": "中国",
+        "verified": false,
+        "display_name": "Qwen3 Next 80B A3B Instruct",
+        "family": "Qwen"
+      },
+      {
+        "name": "Qwen: Qwen3 Next 80B A3B Instruct",
+        "company": "阿里云",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "qwen/qwen3-next-80b-a3b-instruct",
+        "company_country": "中国",
+        "verified": false,
+        "display_name": "Qwen3 Next 80B A3B Instruct",
+        "family": "Qwen"
+      },
+      {
+        "name": "Qwen: Qwen Plus 0728 (thinking)",
+        "company": "阿里云",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "qwen/qwen-plus-2025-07-28:thinking",
+        "company_country": "中国",
+        "verified": false,
+        "display_name": "Qwen Plus 0728 (thinking)",
+        "family": "Qwen"
+      },
+      {
+        "name": "Qwen: Qwen Plus 0728",
+        "company": "阿里云",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "qwen/qwen-plus-2025-07-28",
+        "company_country": "中国",
+        "verified": false,
+        "display_name": "Qwen Plus 0728",
+        "family": "Qwen"
+      },
+      {
+        "name": "MoonshotAI: Kimi K2 0905",
+        "company": "Moonshot AI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "moonshotai/kimi-k2-0905",
+        "company_country": "中国",
+        "verified": false,
+        "display_name": "Kimi K2 0905",
+        "family": "Kimi"
+      },
+      {
+        "name": "Qwen: Qwen3 30B A3B Thinking 2507",
+        "company": "阿里云",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "qwen/qwen3-30b-a3b-thinking-2507",
+        "company_country": "中国",
+        "verified": false,
+        "display_name": "Qwen3 30B A3B Thinking 2507",
+        "family": "Qwen"
+      },
+      {
+        "name": "DeepSeek: DeepSeek V3.1",
+        "company": "DeepSeek",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "deepseek/deepseek-chat-v3.1",
+        "company_country": "中国",
+        "verified": false,
+        "display_name": "DeepSeek V3.1",
+        "family": "DeepSeek"
+      },
+      {
+        "name": "Baidu: ERNIE 4.5 21B A3B",
+        "company": "百度",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "baidu/ernie-4.5-21b-a3b",
+        "company_country": "中国",
+        "verified": false,
+        "display_name": "ERNIE 4.5 21B A3B",
+        "family": "ERNIE"
+      },
+      {
+        "name": "Baidu: ERNIE 4.5 VL 28B A3B",
+        "company": "百度",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "baidu/ernie-4.5-vl-28b-a3b",
+        "company_country": "中国",
+        "verified": false,
+        "display_name": "ERNIE 4.5 VL 28B A3B",
+        "family": "ERNIE"
+      },
+      {
+        "name": "Z.ai: GLM 4.5V",
+        "company": "智谱",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "z-ai/glm-4.5v",
+        "company_country": "中国",
+        "verified": false,
+        "display_name": "GLM 4.5V",
+        "family": "GLM"
+      },
+      {
+        "name": "Qwen: Qwen3 Coder 30B A3B Instruct",
+        "company": "阿里云",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "qwen/qwen3-coder-30b-a3b-instruct",
+        "company_country": "中国",
+        "verified": false,
+        "display_name": "Qwen3 Coder 30B A3B Instruct",
+        "family": "Qwen"
+      },
+      {
+        "name": "Qwen: Qwen3 30B A3B Instruct 2507",
+        "company": "阿里云",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "qwen/qwen3-30b-a3b-instruct-2507",
+        "company_country": "中国",
+        "verified": false,
+        "display_name": "Qwen3 30B A3B Instruct 2507",
+        "family": "Qwen"
+      },
+      {
+        "name": "Z.ai: GLM 4.5",
+        "company": "智谱",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "z-ai/glm-4.5",
+        "company_country": "中国",
+        "verified": false,
+        "display_name": "GLM 4.5",
+        "family": "GLM"
+      },
+      {
+        "name": "Z.ai: GLM 4.5 Air (free)",
+        "company": "智谱",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "z-ai/glm-4.5-air:free",
+        "company_country": "中国",
+        "verified": false,
+        "display_name": "GLM 4.5 Air",
+        "family": "GLM"
+      },
+      {
+        "name": "Z.ai: GLM 4.5 Air",
+        "company": "智谱",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "z-ai/glm-4.5-air",
+        "company_country": "中国",
+        "verified": false,
+        "display_name": "GLM 4.5 Air",
+        "family": "GLM"
+      },
+      {
+        "name": "Qwen: Qwen3 235B A22B Thinking 2507",
+        "company": "阿里云",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "qwen/qwen3-235b-a22b-thinking-2507",
+        "company_country": "中国",
+        "verified": false,
+        "display_name": "Qwen3 235B A22B Thinking 2507",
+        "family": "Qwen"
+      },
+      {
+        "name": "Z.ai: GLM 4 32B ",
+        "company": "智谱",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "z-ai/glm-4-32b",
+        "company_country": "中国",
+        "verified": false,
+        "display_name": "GLM 4 32B",
+        "family": "GLM"
+      },
+      {
+        "name": "Qwen: Qwen3 Coder 480B A35B (free)",
+        "company": "阿里云",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "qwen/qwen3-coder:free",
+        "company_country": "中国",
+        "verified": false,
+        "display_name": "Qwen3 Coder 480B A35B",
+        "family": "Qwen"
+      },
+      {
+        "name": "Qwen: Qwen3 Coder 480B A35B",
+        "company": "阿里云",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "qwen/qwen3-coder",
+        "company_country": "中国",
+        "verified": false,
+        "display_name": "Qwen3 Coder 480B A35B",
+        "family": "Qwen"
+      },
+      {
+        "name": "ByteDance: UI-TARS 7B ",
+        "company": "字节跳动",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "bytedance/ui-tars-1.5-7b",
+        "company_country": "中国",
+        "verified": false,
+        "display_name": "UI-TARS 7B",
+        "family": "字节跳动"
+      },
+      {
+        "name": "Qwen: Qwen3 235B A22B Instruct 2507",
+        "company": "阿里云",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "qwen/qwen3-235b-a22b-2507",
+        "company_country": "中国",
+        "verified": false,
+        "display_name": "Qwen3 235B A22B Instruct 2507",
+        "family": "Qwen"
+      },
+      {
+        "name": "MoonshotAI: Kimi K2 0711",
+        "company": "Moonshot AI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "moonshotai/kimi-k2",
+        "company_country": "中国",
+        "verified": false,
+        "display_name": "Kimi K2 0711",
+        "family": "Kimi"
+      },
+      {
+        "name": "Tencent: Hunyuan A13B Instruct",
+        "company": "腾讯",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "tencent/hunyuan-a13b-instruct",
+        "company_country": "中国",
+        "verified": false,
+        "display_name": "Hunyuan A13B Instruct",
+        "family": "Hunyuan"
+      },
+      {
+        "name": "Baidu: ERNIE 4.5 VL 424B A47B ",
+        "company": "百度",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "baidu/ernie-4.5-vl-424b-a47b",
+        "company_country": "中国",
+        "verified": false,
+        "display_name": "ERNIE 4.5 VL 424B A47B",
+        "family": "ERNIE"
+      },
+      {
+        "name": "Baidu: ERNIE 4.5 300B A47B ",
+        "company": "百度",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "baidu/ernie-4.5-300b-a47b",
+        "company_country": "中国",
+        "verified": false,
+        "display_name": "ERNIE 4.5 300B A47B",
+        "family": "ERNIE"
+      },
+      {
+        "name": "MiniMax: MiniMax M1",
+        "company": "MiniMax",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "minimax/minimax-m1",
+        "company_country": "中国",
+        "verified": false,
+        "display_name": "MiniMax M1",
+        "family": "MiniMax"
+      },
+      {
+        "name": "DeepSeek: R1 0528",
+        "company": "DeepSeek",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "deepseek/deepseek-r1-0528",
+        "company_country": "中国",
+        "verified": false,
+        "display_name": "R1 0528",
+        "family": "DeepSeek"
+      },
+      {
+        "name": "Qwen: Qwen3 4B (free)",
+        "company": "阿里云",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "qwen/qwen3-4b:free",
+        "company_country": "中国",
+        "verified": false,
+        "display_name": "Qwen3 4B",
+        "family": "Qwen"
+      },
+      {
+        "name": "Qwen: Qwen3 30B A3B",
+        "company": "阿里云",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "qwen/qwen3-30b-a3b",
+        "company_country": "中国",
+        "verified": false,
+        "display_name": "Qwen3 30B A3B",
+        "family": "Qwen"
+      },
+      {
+        "name": "Qwen: Qwen3 8B",
+        "company": "阿里云",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "qwen/qwen3-8b",
+        "company_country": "中国",
+        "verified": false,
+        "display_name": "Qwen3 8B",
+        "family": "Qwen"
+      },
+      {
+        "name": "Qwen: Qwen3 14B",
+        "company": "阿里云",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "qwen/qwen3-14b",
+        "company_country": "中国",
+        "verified": false,
+        "display_name": "Qwen3 14B",
+        "family": "Qwen"
+      },
+      {
+        "name": "Qwen: Qwen3 32B",
+        "company": "阿里云",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "qwen/qwen3-32b",
+        "company_country": "中国",
+        "verified": false,
+        "display_name": "Qwen3 32B",
+        "family": "Qwen"
+      },
+      {
+        "name": "Qwen: Qwen3 235B A22B",
+        "company": "阿里云",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "qwen/qwen3-235b-a22b",
+        "company_country": "中国",
+        "verified": false,
+        "display_name": "Qwen3 235B A22B",
+        "family": "Qwen"
+      },
+      {
+        "name": "Qwen: Qwen2.5 Coder 7B Instruct",
+        "company": "阿里云",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "qwen/qwen2.5-coder-7b-instruct",
+        "company_country": "中国",
+        "verified": false,
+        "display_name": "Qwen2.5 Coder 7B Instruct",
+        "family": "Qwen"
+      },
+      {
+        "name": "Qwen: Qwen2.5 VL 32B Instruct",
+        "company": "阿里云",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "qwen/qwen2.5-vl-32b-instruct",
+        "company_country": "中国",
+        "verified": false,
+        "display_name": "Qwen2.5 VL 32B Instruct",
+        "family": "Qwen"
+      },
+      {
+        "name": "DeepSeek: DeepSeek V3 0324",
+        "company": "DeepSeek",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "deepseek/deepseek-chat-v3-0324",
+        "company_country": "中国",
+        "verified": false,
+        "display_name": "DeepSeek V3 0324",
+        "family": "DeepSeek"
+      },
+      {
+        "name": "Qwen: QwQ 32B",
+        "company": "阿里云",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "qwen/qwq-32b",
+        "company_country": "中国",
+        "verified": false,
+        "display_name": "QwQ 32B",
+        "family": "阿里云"
+      },
+      {
+        "name": "Qwen: Qwen VL Plus",
+        "company": "阿里云",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "qwen/qwen-vl-plus",
+        "company_country": "中国",
+        "verified": false,
+        "display_name": "Qwen VL Plus",
+        "family": "Qwen"
+      },
+      {
+        "name": "Qwen: Qwen VL Max",
+        "company": "阿里云",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "qwen/qwen-vl-max",
+        "company_country": "中国",
+        "verified": false,
+        "display_name": "Qwen VL Max",
+        "family": "Qwen"
+      },
+      {
+        "name": "Qwen: Qwen-Turbo",
+        "company": "阿里云",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "qwen/qwen-turbo",
+        "company_country": "中国",
+        "verified": false,
+        "display_name": "Qwen-Turbo",
+        "family": "Qwen"
+      },
+      {
+        "name": "Qwen: Qwen2.5 VL 72B Instruct",
+        "company": "阿里云",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "qwen/qwen2.5-vl-72b-instruct",
+        "company_country": "中国",
+        "verified": false,
+        "display_name": "Qwen2.5 VL 72B Instruct",
+        "family": "Qwen"
+      },
+      {
+        "name": "Qwen: Qwen-Plus",
+        "company": "阿里云",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "qwen/qwen-plus",
+        "company_country": "中国",
+        "verified": false,
+        "display_name": "Qwen-Plus",
+        "family": "Qwen"
+      },
+      {
+        "name": "Qwen: Qwen-Max ",
+        "company": "阿里云",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "qwen/qwen-max",
+        "company_country": "中国",
+        "verified": false,
+        "display_name": "Qwen-Max",
+        "family": "Qwen"
+      },
+      {
+        "name": "DeepSeek: R1 Distill Qwen 32B",
+        "company": "DeepSeek",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "deepseek/deepseek-r1-distill-qwen-32b",
+        "company_country": "中国",
+        "verified": false,
+        "display_name": "R1 Distill Qwen 32B",
+        "family": "Qwen"
+      },
+      {
+        "name": "DeepSeek: R1 Distill Llama 70B",
+        "company": "DeepSeek",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "deepseek/deepseek-r1-distill-llama-70b",
+        "company_country": "中国",
+        "verified": false,
+        "display_name": "R1 Distill Llama 70B",
+        "family": "Llama"
+      },
+      {
+        "name": "DeepSeek: R1",
+        "company": "DeepSeek",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "deepseek/deepseek-r1",
+        "company_country": "中国",
+        "verified": false,
+        "display_name": "R1",
+        "family": "DeepSeek"
+      },
+      {
+        "name": "MiniMax: MiniMax-01",
+        "company": "MiniMax",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "minimax/minimax-01",
+        "company_country": "中国",
+        "verified": false,
+        "display_name": "MiniMax-01",
+        "family": "MiniMax"
+      },
+      {
+        "name": "DeepSeek: DeepSeek V3",
+        "company": "DeepSeek",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "deepseek/deepseek-chat",
+        "company_country": "中国",
+        "verified": false,
+        "display_name": "DeepSeek V3",
+        "family": "DeepSeek"
+      },
+      {
+        "name": "Qwen2.5 Coder 32B Instruct",
+        "company": "阿里云",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "qwen/qwen-2.5-coder-32b-instruct",
+        "company_country": "中国",
+        "verified": false,
+        "display_name": "Qwen2.5 Coder 32B Instruct",
+        "family": "Qwen"
+      },
+      {
+        "name": "Qwen: Qwen2.5 7B Instruct",
+        "company": "阿里云",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "qwen/qwen-2.5-7b-instruct",
+        "company_country": "中国",
+        "verified": false,
+        "display_name": "Qwen2.5 7B Instruct",
+        "family": "Qwen"
+      },
+      {
+        "name": "Qwen2.5 72B Instruct",
+        "company": "阿里云",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "qwen/qwen-2.5-72b-instruct",
+        "company_country": "中国",
+        "verified": false,
+        "display_name": "Qwen2.5 72B Instruct",
+        "family": "Qwen"
+      },
+      {
+        "name": "Qwen: Qwen2.5-VL 7B Instruct",
+        "company": "阿里云",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "qwen/qwen-2.5-vl-7b-instruct",
+        "company_country": "中国",
+        "verified": false,
+        "display_name": "Qwen2.5-VL 7B Instruct",
+        "family": "Qwen"
+      }
+    ],
+    "verified_model_count": 8,
+    "pending_model_count": 94,
+    "family_summary": [
+      {
+        "family": "Qwen",
+        "count": 50,
+        "verified_count": 0,
+        "pending_count": 50
+      },
+      {
+        "family": "GLM",
+        "count": 12,
+        "verified_count": 1,
+        "pending_count": 11
+      },
+      {
+        "family": "DeepSeek",
+        "count": 11,
+        "verified_count": 2,
+        "pending_count": 9
+      },
+      {
+        "family": "MiniMax",
+        "count": 8,
+        "verified_count": 0,
+        "pending_count": 8
+      },
+      {
+        "family": "ERNIE",
+        "count": 5,
+        "verified_count": 0,
+        "pending_count": 5
+      },
+      {
+        "family": "Kimi",
+        "count": 4,
+        "verified_count": 0,
+        "pending_count": 4
+      },
+      {
+        "family": "阿里云",
+        "count": 3,
+        "verified_count": 1,
+        "pending_count": 2
+      },
+      {
+        "family": "字节跳动",
+        "count": 2,
+        "verified_count": 1,
+        "pending_count": 1
+      },
+      {
+        "family": "Step",
+        "count": 2,
+        "verified_count": 0,
+        "pending_count": 2
+      },
+      {
+        "family": "百度",
+        "count": 1,
+        "verified_count": 1,
+        "pending_count": 0
+      },
+      {
+        "family": "腾讯",
+        "count": 1,
+        "verified_count": 1,
+        "pending_count": 0
+      },
+      {
+        "family": "科大讯飞",
+        "count": 1,
+        "verified_count": 1,
+        "pending_count": 0
+      },
+      {
+        "family": "Hunyuan",
+        "count": 1,
+        "verified_count": 0,
+        "pending_count": 1
+      },
+      {
+        "family": "Llama",
+        "count": 1,
+        "verified_count": 0,
+        "pending_count": 1
+      }
+    ]
+  },
+  {
+    "name": "日本",
+    "flag": "🇯🇵",
+    "continent": "亚洲",
+    "has_models": true,
+    "model_count": 2,
+    "models": [
+      {
+        "name": "Fugaku-LLM",
+        "company": "日本研究机构/产业联合",
+        "type": "大语言模型",
+        "source": "manual",
+        "source_id": "",
+        "company_country": "日本",
+        "verified": true,
+        "display_name": "Fugaku-LLM",
+        "family": "日本研究机构/产业联合"
+      },
+      {
+        "name": "PLaMo",
+        "company": "Preferred Networks",
+        "type": "大语言模型",
+        "source": "manual",
+        "source_id": "",
+        "company_country": "日本",
+        "verified": true,
+        "display_name": "PLaMo",
+        "family": "Preferred Networks"
+      }
+    ],
+    "verified_model_count": 2,
+    "pending_model_count": 0,
+    "family_summary": [
+      {
+        "family": "日本研究机构/产业联合",
+        "count": 1,
+        "verified_count": 1,
+        "pending_count": 0
+      },
+      {
+        "family": "Preferred Networks",
+        "count": 1,
+        "verified_count": 1,
+        "pending_count": 0
+      }
+    ]
+  },
+  {
+    "name": "韩国",
+    "flag": "🇰🇷",
+    "continent": "亚洲",
+    "has_models": true,
+    "model_count": 2,
+    "models": [
+      {
+        "name": "HyperCLOVA X",
+        "company": "NAVER",
+        "type": "大语言模型",
+        "source": "manual",
+        "source_id": "",
+        "company_country": "韩国",
+        "verified": true,
+        "display_name": "HyperCLOVA X",
+        "family": "NAVER"
+      },
+      {
+        "name": "KoGPT",
+        "company": "Kakao",
+        "type": "大语言模型",
+        "source": "manual",
+        "source_id": "",
+        "company_country": "韩国",
+        "verified": true,
+        "display_name": "KoGPT",
+        "family": "GPT"
+      }
+    ],
+    "verified_model_count": 2,
+    "pending_model_count": 0,
+    "family_summary": [
+      {
+        "family": "NAVER",
+        "count": 1,
+        "verified_count": 1,
+        "pending_count": 0
+      },
+      {
+        "family": "GPT",
+        "count": 1,
+        "verified_count": 1,
+        "pending_count": 0
+      }
+    ]
+  },
+  {
+    "name": "新加坡",
+    "flag": "🇸🇬",
+    "continent": "亚洲",
+    "has_models": true,
+    "model_count": 1,
+    "models": [
+      {
+        "name": "SEA-LION",
+        "company": "AI Singapore",
+        "type": "区域多语言大模型",
+        "source": "manual",
+        "source_id": "",
+        "company_country": "新加坡",
+        "verified": true,
+        "display_name": "SEA-LION",
+        "family": "AI Singapore"
+      }
+    ],
+    "verified_model_count": 1,
+    "pending_model_count": 0,
+    "family_summary": [
+      {
+        "family": "AI Singapore",
+        "count": 1,
+        "verified_count": 1,
+        "pending_count": 0
+      }
+    ]
+  },
+  {
+    "name": "印度",
+    "flag": "🇮🇳",
+    "continent": "亚洲",
+    "has_models": true,
+    "model_count": 1,
+    "models": [
+      {
+        "name": "Krutrim",
+        "company": "Ola",
+        "type": "大语言模型",
+        "source": "manual",
+        "source_id": "",
+        "company_country": "印度",
+        "verified": true,
+        "display_name": "Krutrim",
+        "family": "Ola"
+      }
+    ],
+    "verified_model_count": 1,
+    "pending_model_count": 0,
+    "family_summary": [
+      {
+        "family": "Ola",
+        "count": 1,
+        "verified_count": 1,
+        "pending_count": 0
+      }
+    ]
+  },
+  {
+    "name": "阿联酋",
+    "flag": "🇦🇪",
+    "continent": "亚洲",
+    "has_models": true,
+    "model_count": 1,
+    "models": [
+      {
+        "name": "Jais",
+        "company": "G42 / Cerebras",
+        "type": "阿拉伯语大语言模型",
+        "source": "manual",
+        "source_id": "",
+        "company_country": "阿联酋",
+        "verified": true,
+        "display_name": "Jais",
+        "family": "G42 / Cerebras"
+      }
+    ],
+    "verified_model_count": 1,
+    "pending_model_count": 0,
+    "family_summary": [
+      {
+        "family": "G42 / Cerebras",
+        "count": 1,
+        "verified_count": 1,
+        "pending_count": 0
+      }
+    ]
+  },
+  {
+    "name": "德国",
+    "flag": "🇩🇪",
+    "continent": "欧洲",
+    "has_models": true,
+    "model_count": 1,
+    "models": [
+      {
+        "name": "Teuken",
+        "company": "Aleph Alpha / 欧洲合作方",
+        "type": "多语言大模型",
+        "source": "manual",
+        "source_id": "",
+        "company_country": "德国",
+        "verified": true,
+        "display_name": "Teuken",
+        "family": "Aleph Alpha / 欧洲合作方"
+      }
+    ],
+    "verified_model_count": 1,
+    "pending_model_count": 0,
+    "family_summary": [
+      {
+        "family": "Aleph Alpha / 欧洲合作方",
+        "count": 1,
+        "verified_count": 1,
+        "pending_count": 0
+      }
+    ]
+  },
+  {
+    "name": "法国",
+    "flag": "🇫🇷",
+    "continent": "欧洲",
+    "has_models": true,
+    "model_count": 27,
+    "models": [
+      {
+        "name": "Mistral",
+        "company": "Mistral AI",
+        "type": "大语言模型",
+        "source": "manual",
+        "source_id": "",
+        "company_country": "法国",
+        "verified": true,
+        "display_name": "Mistral",
+        "family": "Mistral"
+      },
+      {
+        "name": "Mistral: Mistral Small 4",
+        "company": "Mistral AI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "mistralai/mistral-small-2603",
+        "company_country": "法国",
+        "verified": false,
+        "display_name": "Mistral Small 4",
+        "family": "Mistral"
+      },
+      {
+        "name": "Mistral: Mistral Small Creative",
+        "company": "Mistral AI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "mistralai/mistral-small-creative",
+        "company_country": "法国",
+        "verified": false,
+        "display_name": "Mistral Small Creative",
+        "family": "Mistral"
+      },
+      {
+        "name": "Mistral: Devstral 2 2512",
+        "company": "Mistral AI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "mistralai/devstral-2512",
+        "company_country": "法国",
+        "verified": false,
+        "display_name": "Devstral 2 2512",
+        "family": "Devstral"
+      },
+      {
+        "name": "Mistral: Ministral 3 14B 2512",
+        "company": "Mistral AI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "mistralai/ministral-14b-2512",
+        "company_country": "法国",
+        "verified": false,
+        "display_name": "Ministral 3 14B 2512",
+        "family": "Ministral"
+      },
+      {
+        "name": "Mistral: Ministral 3 8B 2512",
+        "company": "Mistral AI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "mistralai/ministral-8b-2512",
+        "company_country": "法国",
+        "verified": false,
+        "display_name": "Ministral 3 8B 2512",
+        "family": "Ministral"
+      },
+      {
+        "name": "Mistral: Ministral 3 3B 2512",
+        "company": "Mistral AI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "mistralai/ministral-3b-2512",
+        "company_country": "法国",
+        "verified": false,
+        "display_name": "Ministral 3 3B 2512",
+        "family": "Ministral"
+      },
+      {
+        "name": "Mistral: Mistral Large 3 2512",
+        "company": "Mistral AI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "mistralai/mistral-large-2512",
+        "company_country": "法国",
+        "verified": false,
+        "display_name": "Mistral Large 3 2512",
+        "family": "Mistral"
+      },
+      {
+        "name": "Mistral: Voxtral Small 24B 2507",
+        "company": "Mistral AI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "mistralai/voxtral-small-24b-2507",
+        "company_country": "法国",
+        "verified": false,
+        "display_name": "Voxtral Small 24B 2507",
+        "family": "Mistral AI"
+      },
+      {
+        "name": "Mistral: Mistral Medium 3.1",
+        "company": "Mistral AI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "mistralai/mistral-medium-3.1",
+        "company_country": "法国",
+        "verified": false,
+        "display_name": "Mistral Medium 3.1",
+        "family": "Mistral"
+      },
+      {
+        "name": "Mistral: Codestral 2508",
+        "company": "Mistral AI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "mistralai/codestral-2508",
+        "company_country": "法国",
+        "verified": false,
+        "display_name": "Codestral 2508",
+        "family": "Codestral"
+      },
+      {
+        "name": "Mistral: Devstral Medium",
+        "company": "Mistral AI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "mistralai/devstral-medium",
+        "company_country": "法国",
+        "verified": false,
+        "display_name": "Devstral Medium",
+        "family": "Devstral"
+      },
+      {
+        "name": "Mistral: Devstral Small 1.1",
+        "company": "Mistral AI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "mistralai/devstral-small",
+        "company_country": "法国",
+        "verified": false,
+        "display_name": "Devstral Small 1.1",
+        "family": "Devstral"
+      },
+      {
+        "name": "Mistral: Mistral Small 3.2 24B",
+        "company": "Mistral AI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "mistralai/mistral-small-3.2-24b-instruct",
+        "company_country": "法国",
+        "verified": false,
+        "display_name": "Mistral Small 3.2 24B",
+        "family": "Mistral"
+      },
+      {
+        "name": "Mistral: Mistral Medium 3",
+        "company": "Mistral AI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "mistralai/mistral-medium-3",
+        "company_country": "法国",
+        "verified": false,
+        "display_name": "Mistral Medium 3",
+        "family": "Mistral"
+      },
+      {
+        "name": "Mistral: Mistral Small 3.1 24B (free)",
+        "company": "Mistral AI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "mistralai/mistral-small-3.1-24b-instruct:free",
+        "company_country": "法国",
+        "verified": false,
+        "display_name": "Mistral Small 3.1 24B",
+        "family": "Mistral"
+      },
+      {
+        "name": "Mistral: Mistral Small 3.1 24B",
+        "company": "Mistral AI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "mistralai/mistral-small-3.1-24b-instruct",
+        "company_country": "法国",
+        "verified": false,
+        "display_name": "Mistral Small 3.1 24B",
+        "family": "Mistral"
+      },
+      {
+        "name": "Mistral: Saba",
+        "company": "Mistral AI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "mistralai/mistral-saba",
+        "company_country": "法国",
+        "verified": false,
+        "display_name": "Saba",
+        "family": "Mistral AI"
+      },
+      {
+        "name": "Mistral: Mistral Small 3",
+        "company": "Mistral AI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "mistralai/mistral-small-24b-instruct-2501",
+        "company_country": "法国",
+        "verified": false,
+        "display_name": "Mistral Small 3",
+        "family": "Mistral"
+      },
+      {
+        "name": "Mistral Large 2411",
+        "company": "Mistral AI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "mistralai/mistral-large-2411",
+        "company_country": "法国",
+        "verified": false,
+        "display_name": "Mistral Large 2411",
+        "family": "Mistral"
+      },
+      {
+        "name": "Mistral Large 2407",
+        "company": "Mistral AI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "mistralai/mistral-large-2407",
+        "company_country": "法国",
+        "verified": false,
+        "display_name": "Mistral Large 2407",
+        "family": "Mistral"
+      },
+      {
+        "name": "Mistral: Pixtral Large 2411",
+        "company": "Mistral AI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "mistralai/pixtral-large-2411",
+        "company_country": "法国",
+        "verified": false,
+        "display_name": "Pixtral Large 2411",
+        "family": "Mistral AI"
+      },
+      {
+        "name": "Mistral: Mistral Nemo",
+        "company": "Mistral AI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "mistralai/mistral-nemo",
+        "company_country": "法国",
+        "verified": false,
+        "display_name": "Mistral Nemo",
+        "family": "Mistral"
+      },
+      {
+        "name": "Mistral: Mixtral 8x22B Instruct",
+        "company": "Mistral AI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "mistralai/mixtral-8x22b-instruct",
+        "company_country": "法国",
+        "verified": false,
+        "display_name": "Mixtral 8x22B Instruct",
+        "family": "Mixtral"
+      },
+      {
+        "name": "Mistral Large",
+        "company": "Mistral AI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "mistralai/mistral-large",
+        "company_country": "法国",
+        "verified": false,
+        "display_name": "Mistral Large",
+        "family": "Mistral"
+      },
+      {
+        "name": "Mistral: Mixtral 8x7B Instruct",
+        "company": "Mistral AI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "mistralai/mixtral-8x7b-instruct",
+        "company_country": "法国",
+        "verified": false,
+        "display_name": "Mixtral 8x7B Instruct",
+        "family": "Mixtral"
+      },
+      {
+        "name": "Mistral: Mistral 7B Instruct v0.1",
+        "company": "Mistral AI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "mistralai/mistral-7b-instruct-v0.1",
+        "company_country": "法国",
+        "verified": false,
+        "display_name": "Mistral 7B Instruct v0.1",
+        "family": "Mistral"
+      }
+    ],
+    "verified_model_count": 1,
+    "pending_model_count": 26,
+    "family_summary": [
+      {
+        "family": "Mistral",
+        "count": 15,
+        "verified_count": 1,
+        "pending_count": 14
+      },
+      {
+        "family": "Devstral",
+        "count": 3,
+        "verified_count": 0,
+        "pending_count": 3
+      },
+      {
+        "family": "Ministral",
+        "count": 3,
+        "verified_count": 0,
+        "pending_count": 3
+      },
+      {
+        "family": "Mistral AI",
+        "count": 3,
+        "verified_count": 0,
+        "pending_count": 3
+      },
+      {
+        "family": "Mixtral",
+        "count": 2,
+        "verified_count": 0,
+        "pending_count": 2
+      },
+      {
+        "family": "Codestral",
+        "count": 1,
+        "verified_count": 0,
+        "pending_count": 1
+      }
+    ]
+  },
+  {
+    "name": "英国",
+    "flag": "🇬🇧",
+    "continent": "欧洲",
+    "has_models": true,
+    "model_count": 1,
+    "models": [
+      {
+        "name": "Phoenix",
+        "company": "Arondite / 本地生态",
+        "type": "行业大模型",
+        "source": "manual",
+        "source_id": "",
+        "company_country": "英国",
+        "verified": true,
+        "display_name": "Phoenix",
+        "family": "Arondite / 本地生态"
+      }
+    ],
+    "verified_model_count": 1,
+    "pending_model_count": 0,
+    "family_summary": [
+      {
+        "family": "Arondite / 本地生态",
+        "count": 1,
+        "verified_count": 1,
+        "pending_count": 0
+      }
+    ]
+  },
+  {
+    "name": "美国",
+    "flag": "🇺🇸",
+    "continent": "北美洲",
+    "has_models": true,
+    "model_count": 119,
+    "models": [
+      {
+        "name": "GPT",
+        "company": "OpenAI",
+        "type": "通用大语言模型",
+        "source": "manual",
+        "source_id": "",
+        "company_country": "美国",
+        "verified": true,
+        "display_name": "GPT",
+        "family": "GPT"
+      },
+      {
+        "name": "Claude",
+        "company": "Anthropic",
+        "type": "通用大语言模型",
+        "source": "manual",
+        "source_id": "",
+        "company_country": "美国",
+        "verified": true,
+        "display_name": "Claude",
+        "family": "Claude"
+      },
+      {
+        "name": "Llama",
+        "company": "Meta",
+        "type": "开源大语言模型",
+        "source": "manual",
+        "source_id": "",
+        "company_country": "美国",
+        "verified": true,
+        "display_name": "Llama",
+        "family": "Llama"
+      },
+      {
+        "name": "Gemini",
+        "company": "Google",
+        "type": "多模态大模型",
+        "source": "manual",
+        "source_id": "",
+        "company_country": "美国",
+        "verified": true,
+        "display_name": "Gemini",
+        "family": "Gemini"
+      },
+      {
+        "name": "Grok",
+        "company": "xAI",
+        "type": "通用大语言模型",
+        "source": "manual",
+        "source_id": "",
+        "company_country": "美国",
+        "verified": true,
+        "display_name": "Grok",
+        "family": "Grok"
+      },
+      {
+        "name": "Jurassic",
+        "company": "AI21 Labs",
+        "type": "大语言模型",
+        "source": "manual",
+        "source_id": "",
+        "company_country": "美国",
+        "verified": true,
+        "display_name": "Jurassic",
+        "family": "AI21 Labs"
+      },
+      {
+        "name": "OpenAI: GPT-5.4 Nano",
+        "company": "OpenAI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "openai/gpt-5.4-nano",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "GPT-5.4 Nano",
+        "family": "GPT"
+      },
+      {
+        "name": "OpenAI: GPT-5.4 Mini",
+        "company": "OpenAI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "openai/gpt-5.4-mini",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "GPT-5.4 Mini",
+        "family": "GPT"
+      },
+      {
+        "name": "xAI: Grok 4.20 Multi-Agent Beta",
+        "company": "xAI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "x-ai/grok-4.20-multi-agent-beta",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Grok 4.20 Multi-Agent Beta",
+        "family": "Grok"
+      },
+      {
+        "name": "xAI: Grok 4.20 Beta",
+        "company": "xAI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "x-ai/grok-4.20-beta",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Grok 4.20 Beta",
+        "family": "Grok"
+      },
+      {
+        "name": "OpenAI: GPT-5.4 Pro",
+        "company": "OpenAI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "openai/gpt-5.4-pro",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "GPT-5.4 Pro",
+        "family": "GPT"
+      },
+      {
+        "name": "OpenAI: GPT-5.4",
+        "company": "OpenAI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "openai/gpt-5.4",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "GPT-5.4",
+        "family": "GPT"
+      },
+      {
+        "name": "OpenAI: GPT-5.3 Chat",
+        "company": "OpenAI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "openai/gpt-5.3-chat",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "GPT-5.3 Chat",
+        "family": "GPT"
+      },
+      {
+        "name": "Google: Gemini 3.1 Flash Lite Preview",
+        "company": "Google",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "google/gemini-3.1-flash-lite-preview",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Gemini 3.1 Flash Lite Preview",
+        "family": "Gemini"
+      },
+      {
+        "name": "Google: Nano Banana 2 (Gemini 3.1 Flash Image Preview)",
+        "company": "Google",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "google/gemini-3.1-flash-image-preview",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Nano Banana 2 (Gemini 3.1 Flash Image Preview)",
+        "family": "Gemini"
+      },
+      {
+        "name": "Google: Gemini 3.1 Pro Preview Custom Tools",
+        "company": "Google",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "google/gemini-3.1-pro-preview-customtools",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Gemini 3.1 Pro Preview Custom Tools",
+        "family": "Gemini"
+      },
+      {
+        "name": "OpenAI: GPT-5.3-Codex",
+        "company": "OpenAI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "openai/gpt-5.3-codex",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "GPT-5.3-Codex",
+        "family": "GPT"
+      },
+      {
+        "name": "Google: Gemini 3.1 Pro Preview",
+        "company": "Google",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "google/gemini-3.1-pro-preview",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Gemini 3.1 Pro Preview",
+        "family": "Gemini"
+      },
+      {
+        "name": "Anthropic: Claude Sonnet 4.6",
+        "company": "Anthropic",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "anthropic/claude-sonnet-4.6",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Claude Sonnet 4.6",
+        "family": "Claude"
+      },
+      {
+        "name": "Anthropic: Claude Opus 4.6",
+        "company": "Anthropic",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "anthropic/claude-opus-4.6",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Claude Opus 4.6",
+        "family": "Claude"
+      },
+      {
+        "name": "OpenAI: GPT Audio",
+        "company": "OpenAI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "openai/gpt-audio",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "GPT Audio",
+        "family": "GPT"
+      },
+      {
+        "name": "OpenAI: GPT Audio Mini",
+        "company": "OpenAI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "openai/gpt-audio-mini",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "GPT Audio Mini",
+        "family": "GPT"
+      },
+      {
+        "name": "OpenAI: GPT-5.2-Codex",
+        "company": "OpenAI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "openai/gpt-5.2-codex",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "GPT-5.2-Codex",
+        "family": "GPT"
+      },
+      {
+        "name": "Google: Gemini 3 Flash Preview",
+        "company": "Google",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "google/gemini-3-flash-preview",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Gemini 3 Flash Preview",
+        "family": "Gemini"
+      },
+      {
+        "name": "OpenAI: GPT-5.2 Chat",
+        "company": "OpenAI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "openai/gpt-5.2-chat",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "GPT-5.2 Chat",
+        "family": "GPT"
+      },
+      {
+        "name": "OpenAI: GPT-5.2 Pro",
+        "company": "OpenAI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "openai/gpt-5.2-pro",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "GPT-5.2 Pro",
+        "family": "GPT"
+      },
+      {
+        "name": "OpenAI: GPT-5.2",
+        "company": "OpenAI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "openai/gpt-5.2",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "GPT-5.2",
+        "family": "GPT"
+      },
+      {
+        "name": "OpenAI: GPT-5.1-Codex-Max",
+        "company": "OpenAI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "openai/gpt-5.1-codex-max",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "GPT-5.1-Codex-Max",
+        "family": "GPT"
+      },
+      {
+        "name": "Anthropic: Claude Opus 4.5",
+        "company": "Anthropic",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "anthropic/claude-opus-4.5",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Claude Opus 4.5",
+        "family": "Claude"
+      },
+      {
+        "name": "Google: Nano Banana Pro (Gemini 3 Pro Image Preview)",
+        "company": "Google",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "google/gemini-3-pro-image-preview",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Nano Banana Pro (Gemini 3 Pro Image Preview)",
+        "family": "Gemini"
+      },
+      {
+        "name": "xAI: Grok 4.1 Fast",
+        "company": "xAI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "x-ai/grok-4.1-fast",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Grok 4.1 Fast",
+        "family": "Grok"
+      },
+      {
+        "name": "Google: Gemini 3 Pro Preview",
+        "company": "Google",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "google/gemini-3-pro-preview",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Gemini 3 Pro Preview",
+        "family": "Gemini"
+      },
+      {
+        "name": "OpenAI: GPT-5.1",
+        "company": "OpenAI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "openai/gpt-5.1",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "GPT-5.1",
+        "family": "GPT"
+      },
+      {
+        "name": "OpenAI: GPT-5.1 Chat",
+        "company": "OpenAI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "openai/gpt-5.1-chat",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "GPT-5.1 Chat",
+        "family": "GPT"
+      },
+      {
+        "name": "OpenAI: GPT-5.1-Codex",
+        "company": "OpenAI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "openai/gpt-5.1-codex",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "GPT-5.1-Codex",
+        "family": "GPT"
+      },
+      {
+        "name": "OpenAI: GPT-5.1-Codex-Mini",
+        "company": "OpenAI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "openai/gpt-5.1-codex-mini",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "GPT-5.1-Codex-Mini",
+        "family": "GPT"
+      },
+      {
+        "name": "OpenAI: gpt-oss-safeguard-20b",
+        "company": "OpenAI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "openai/gpt-oss-safeguard-20b",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "gpt-oss-safeguard-20b",
+        "family": "GPT"
+      },
+      {
+        "name": "OpenAI: GPT-5 Image Mini",
+        "company": "OpenAI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "openai/gpt-5-image-mini",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "GPT-5 Image Mini",
+        "family": "GPT"
+      },
+      {
+        "name": "Anthropic: Claude Haiku 4.5",
+        "company": "Anthropic",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "anthropic/claude-haiku-4.5",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Claude Haiku 4.5",
+        "family": "Claude"
+      },
+      {
+        "name": "OpenAI: GPT-5 Image",
+        "company": "OpenAI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "openai/gpt-5-image",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "GPT-5 Image",
+        "family": "GPT"
+      },
+      {
+        "name": "OpenAI: o3 Deep Research",
+        "company": "OpenAI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "openai/o3-deep-research",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "o3 Deep Research",
+        "family": "OpenAI o-series"
+      },
+      {
+        "name": "OpenAI: o4 Mini Deep Research",
+        "company": "OpenAI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "openai/o4-mini-deep-research",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "o4 Mini Deep Research",
+        "family": "OpenAI o-series"
+      },
+      {
+        "name": "Google: Nano Banana (Gemini 2.5 Flash Image)",
+        "company": "Google",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "google/gemini-2.5-flash-image",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Nano Banana (Gemini 2.5 Flash Image)",
+        "family": "Gemini"
+      },
+      {
+        "name": "OpenAI: GPT-5 Pro",
+        "company": "OpenAI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "openai/gpt-5-pro",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "GPT-5 Pro",
+        "family": "GPT"
+      },
+      {
+        "name": "Anthropic: Claude Sonnet 4.5",
+        "company": "Anthropic",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "anthropic/claude-sonnet-4.5",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Claude Sonnet 4.5",
+        "family": "Claude"
+      },
+      {
+        "name": "Google: Gemini 2.5 Flash Lite Preview 09-2025",
+        "company": "Google",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "google/gemini-2.5-flash-lite-preview-09-2025",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Gemini 2.5 Flash Lite Preview 09-2025",
+        "family": "Gemini"
+      },
+      {
+        "name": "OpenAI: GPT-5 Codex",
+        "company": "OpenAI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "openai/gpt-5-codex",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "GPT-5 Codex",
+        "family": "GPT"
+      },
+      {
+        "name": "xAI: Grok 4 Fast",
+        "company": "xAI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "x-ai/grok-4-fast",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Grok 4 Fast",
+        "family": "Grok"
+      },
+      {
+        "name": "xAI: Grok Code Fast 1",
+        "company": "xAI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "x-ai/grok-code-fast-1",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Grok Code Fast 1",
+        "family": "Grok"
+      },
+      {
+        "name": "OpenAI: GPT-4o Audio",
+        "company": "OpenAI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "openai/gpt-4o-audio-preview",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "GPT-4o Audio",
+        "family": "GPT"
+      },
+      {
+        "name": "AI21: Jamba Large 1.7",
+        "company": "AI21 Labs",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "ai21/jamba-large-1.7",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Jamba Large 1.7",
+        "family": "AI21 Labs"
+      },
+      {
+        "name": "OpenAI: GPT-5 Chat",
+        "company": "OpenAI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "openai/gpt-5-chat",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "GPT-5 Chat",
+        "family": "GPT"
+      },
+      {
+        "name": "OpenAI: GPT-5",
+        "company": "OpenAI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "openai/gpt-5",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "GPT-5",
+        "family": "GPT"
+      },
+      {
+        "name": "OpenAI: GPT-5 Mini",
+        "company": "OpenAI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "openai/gpt-5-mini",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "GPT-5 Mini",
+        "family": "GPT"
+      },
+      {
+        "name": "OpenAI: GPT-5 Nano",
+        "company": "OpenAI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "openai/gpt-5-nano",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "GPT-5 Nano",
+        "family": "GPT"
+      },
+      {
+        "name": "OpenAI: gpt-oss-120b (free)",
+        "company": "OpenAI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "openai/gpt-oss-120b:free",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "gpt-oss-120b",
+        "family": "GPT"
+      },
+      {
+        "name": "OpenAI: gpt-oss-120b",
+        "company": "OpenAI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "openai/gpt-oss-120b",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "gpt-oss-120b",
+        "family": "GPT"
+      },
+      {
+        "name": "OpenAI: gpt-oss-20b (free)",
+        "company": "OpenAI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "openai/gpt-oss-20b:free",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "gpt-oss-20b",
+        "family": "GPT"
+      },
+      {
+        "name": "OpenAI: gpt-oss-20b",
+        "company": "OpenAI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "openai/gpt-oss-20b",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "gpt-oss-20b",
+        "family": "GPT"
+      },
+      {
+        "name": "Anthropic: Claude Opus 4.1",
+        "company": "Anthropic",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "anthropic/claude-opus-4.1",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Claude Opus 4.1",
+        "family": "Claude"
+      },
+      {
+        "name": "Google: Gemini 2.5 Flash Lite",
+        "company": "Google",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "google/gemini-2.5-flash-lite",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Gemini 2.5 Flash Lite",
+        "family": "Gemini"
+      },
+      {
+        "name": "xAI: Grok 4",
+        "company": "xAI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "x-ai/grok-4",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Grok 4",
+        "family": "Grok"
+      },
+      {
+        "name": "Google: Gemma 3n 2B (free)",
+        "company": "Google",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "google/gemma-3n-e2b-it:free",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Gemma 3n 2B",
+        "family": "Gemma"
+      },
+      {
+        "name": "Google: Gemini 2.5 Flash",
+        "company": "Google",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "google/gemini-2.5-flash",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Gemini 2.5 Flash",
+        "family": "Gemini"
+      },
+      {
+        "name": "Google: Gemini 2.5 Pro",
+        "company": "Google",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "google/gemini-2.5-pro",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Gemini 2.5 Pro",
+        "family": "Gemini"
+      },
+      {
+        "name": "OpenAI: o3 Pro",
+        "company": "OpenAI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "openai/o3-pro",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "o3 Pro",
+        "family": "OpenAI o-series"
+      },
+      {
+        "name": "xAI: Grok 3 Mini",
+        "company": "xAI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "x-ai/grok-3-mini",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Grok 3 Mini",
+        "family": "Grok"
+      },
+      {
+        "name": "xAI: Grok 3",
+        "company": "xAI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "x-ai/grok-3",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Grok 3",
+        "family": "Grok"
+      },
+      {
+        "name": "Google: Gemini 2.5 Pro Preview 06-05",
+        "company": "Google",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "google/gemini-2.5-pro-preview",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Gemini 2.5 Pro Preview 06-05",
+        "family": "Gemini"
+      },
+      {
+        "name": "Anthropic: Claude Opus 4",
+        "company": "Anthropic",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "anthropic/claude-opus-4",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Claude Opus 4",
+        "family": "Claude"
+      },
+      {
+        "name": "Anthropic: Claude Sonnet 4",
+        "company": "Anthropic",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "anthropic/claude-sonnet-4",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Claude Sonnet 4",
+        "family": "Claude"
+      },
+      {
+        "name": "Google: Gemma 3n 4B (free)",
+        "company": "Google",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "google/gemma-3n-e4b-it:free",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Gemma 3n 4B",
+        "family": "Gemma"
+      },
+      {
+        "name": "Google: Gemma 3n 4B",
+        "company": "Google",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "google/gemma-3n-e4b-it",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Gemma 3n 4B",
+        "family": "Gemma"
+      },
+      {
+        "name": "Google: Gemini 2.5 Pro Preview 05-06",
+        "company": "Google",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "google/gemini-2.5-pro-preview-05-06",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Gemini 2.5 Pro Preview 05-06",
+        "family": "Gemini"
+      },
+      {
+        "name": "OpenAI: o4 Mini High",
+        "company": "OpenAI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "openai/o4-mini-high",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "o4 Mini High",
+        "family": "OpenAI o-series"
+      },
+      {
+        "name": "OpenAI: o3",
+        "company": "OpenAI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "openai/o3",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "o3",
+        "family": "OpenAI o-series"
+      },
+      {
+        "name": "OpenAI: o4 Mini",
+        "company": "OpenAI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "openai/o4-mini",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "o4 Mini",
+        "family": "OpenAI o-series"
+      },
+      {
+        "name": "OpenAI: GPT-4.1",
+        "company": "OpenAI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "openai/gpt-4.1",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "GPT-4.1",
+        "family": "GPT"
+      },
+      {
+        "name": "OpenAI: GPT-4.1 Mini",
+        "company": "OpenAI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "openai/gpt-4.1-mini",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "GPT-4.1 Mini",
+        "family": "GPT"
+      },
+      {
+        "name": "OpenAI: GPT-4.1 Nano",
+        "company": "OpenAI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "openai/gpt-4.1-nano",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "GPT-4.1 Nano",
+        "family": "GPT"
+      },
+      {
+        "name": "xAI: Grok 3 Mini Beta",
+        "company": "xAI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "x-ai/grok-3-mini-beta",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Grok 3 Mini Beta",
+        "family": "Grok"
+      },
+      {
+        "name": "xAI: Grok 3 Beta",
+        "company": "xAI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "x-ai/grok-3-beta",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Grok 3 Beta",
+        "family": "Grok"
+      },
+      {
+        "name": "OpenAI: o1-pro",
+        "company": "OpenAI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "openai/o1-pro",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "o1-pro",
+        "family": "OpenAI o-series"
+      },
+      {
+        "name": "Google: Gemma 3 4B (free)",
+        "company": "Google",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "google/gemma-3-4b-it:free",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Gemma 3 4B",
+        "family": "Gemma"
+      },
+      {
+        "name": "Google: Gemma 3 4B",
+        "company": "Google",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "google/gemma-3-4b-it",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Gemma 3 4B",
+        "family": "Gemma"
+      },
+      {
+        "name": "Google: Gemma 3 12B (free)",
+        "company": "Google",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "google/gemma-3-12b-it:free",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Gemma 3 12B",
+        "family": "Gemma"
+      },
+      {
+        "name": "Google: Gemma 3 12B",
+        "company": "Google",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "google/gemma-3-12b-it",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Gemma 3 12B",
+        "family": "Gemma"
+      },
+      {
+        "name": "OpenAI: GPT-4o-mini Search Preview",
+        "company": "OpenAI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "openai/gpt-4o-mini-search-preview",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "GPT-4o-mini Search Preview",
+        "family": "GPT"
+      },
+      {
+        "name": "OpenAI: GPT-4o Search Preview",
+        "company": "OpenAI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "openai/gpt-4o-search-preview",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "GPT-4o Search Preview",
+        "family": "GPT"
+      },
+      {
+        "name": "Google: Gemma 3 27B (free)",
+        "company": "Google",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "google/gemma-3-27b-it:free",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Gemma 3 27B",
+        "family": "Gemma"
+      },
+      {
+        "name": "Google: Gemma 3 27B",
+        "company": "Google",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "google/gemma-3-27b-it",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Gemma 3 27B",
+        "family": "Gemma"
+      },
+      {
+        "name": "Google: Gemini 2.0 Flash Lite",
+        "company": "Google",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "google/gemini-2.0-flash-lite-001",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Gemini 2.0 Flash Lite",
+        "family": "Gemini"
+      },
+      {
+        "name": "Anthropic: Claude 3.7 Sonnet",
+        "company": "Anthropic",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "anthropic/claude-3.7-sonnet",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Claude 3.7 Sonnet",
+        "family": "Claude"
+      },
+      {
+        "name": "Anthropic: Claude 3.7 Sonnet (thinking)",
+        "company": "Anthropic",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "anthropic/claude-3.7-sonnet:thinking",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Claude 3.7 Sonnet (thinking)",
+        "family": "Claude"
+      },
+      {
+        "name": "OpenAI: o3 Mini High",
+        "company": "OpenAI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "openai/o3-mini-high",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "o3 Mini High",
+        "family": "OpenAI o-series"
+      },
+      {
+        "name": "Google: Gemini 2.0 Flash",
+        "company": "Google",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "google/gemini-2.0-flash-001",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Gemini 2.0 Flash",
+        "family": "Gemini"
+      },
+      {
+        "name": "OpenAI: o3 Mini",
+        "company": "OpenAI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "openai/o3-mini",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "o3 Mini",
+        "family": "OpenAI o-series"
+      },
+      {
+        "name": "OpenAI: o1",
+        "company": "OpenAI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "openai/o1",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "o1",
+        "family": "OpenAI o-series"
+      },
+      {
+        "name": "OpenAI: GPT-4o (2024-11-20)",
+        "company": "OpenAI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "openai/gpt-4o-2024-11-20",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "GPT-4o (2024-11-20)",
+        "family": "GPT"
+      },
+      {
+        "name": "Anthropic: Claude 3.5 Haiku",
+        "company": "Anthropic",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "anthropic/claude-3.5-haiku",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Claude 3.5 Haiku",
+        "family": "Claude"
+      },
+      {
+        "name": "Anthropic: Claude 3.5 Sonnet",
+        "company": "Anthropic",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "anthropic/claude-3.5-sonnet",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Claude 3.5 Sonnet",
+        "family": "Claude"
+      },
+      {
+        "name": "OpenAI: GPT-4o (2024-08-06)",
+        "company": "OpenAI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "openai/gpt-4o-2024-08-06",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "GPT-4o (2024-08-06)",
+        "family": "GPT"
+      },
+      {
+        "name": "OpenAI: GPT-4o-mini (2024-07-18)",
+        "company": "OpenAI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "openai/gpt-4o-mini-2024-07-18",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "GPT-4o-mini (2024-07-18)",
+        "family": "GPT"
+      },
+      {
+        "name": "OpenAI: GPT-4o-mini",
+        "company": "OpenAI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "openai/gpt-4o-mini",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "GPT-4o-mini",
+        "family": "GPT"
+      },
+      {
+        "name": "Google: Gemma 2 27B",
+        "company": "Google",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "google/gemma-2-27b-it",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Gemma 2 27B",
+        "family": "Gemma"
+      },
+      {
+        "name": "Google: Gemma 2 9B",
+        "company": "Google",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "google/gemma-2-9b-it",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Gemma 2 9B",
+        "family": "Gemma"
+      },
+      {
+        "name": "OpenAI: GPT-4o (2024-05-13)",
+        "company": "OpenAI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "openai/gpt-4o-2024-05-13",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "GPT-4o (2024-05-13)",
+        "family": "GPT"
+      },
+      {
+        "name": "OpenAI: GPT-4o",
+        "company": "OpenAI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "openai/gpt-4o",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "GPT-4o",
+        "family": "GPT"
+      },
+      {
+        "name": "OpenAI: GPT-4o (extended)",
+        "company": "OpenAI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "openai/gpt-4o:extended",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "GPT-4o (extended)",
+        "family": "GPT"
+      },
+      {
+        "name": "OpenAI: GPT-4 Turbo",
+        "company": "OpenAI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "openai/gpt-4-turbo",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "GPT-4 Turbo",
+        "family": "GPT"
+      },
+      {
+        "name": "Anthropic: Claude 3 Haiku",
+        "company": "Anthropic",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "anthropic/claude-3-haiku",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Claude 3 Haiku",
+        "family": "Claude"
+      },
+      {
+        "name": "OpenAI: GPT-3.5 Turbo (older v0613)",
+        "company": "OpenAI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "openai/gpt-3.5-turbo-0613",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "GPT-3.5 Turbo (older v0613)",
+        "family": "GPT"
+      },
+      {
+        "name": "OpenAI: GPT-4 Turbo Preview",
+        "company": "OpenAI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "openai/gpt-4-turbo-preview",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "GPT-4 Turbo Preview",
+        "family": "GPT"
+      },
+      {
+        "name": "OpenAI: GPT-4 Turbo (older v1106)",
+        "company": "OpenAI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "openai/gpt-4-1106-preview",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "GPT-4 Turbo (older v1106)",
+        "family": "GPT"
+      },
+      {
+        "name": "OpenAI: GPT-3.5 Turbo Instruct",
+        "company": "OpenAI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "openai/gpt-3.5-turbo-instruct",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "GPT-3.5 Turbo Instruct",
+        "family": "GPT"
+      },
+      {
+        "name": "OpenAI: GPT-3.5 Turbo 16k",
+        "company": "OpenAI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "openai/gpt-3.5-turbo-16k",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "GPT-3.5 Turbo 16k",
+        "family": "GPT"
+      },
+      {
+        "name": "OpenAI: GPT-4 (older v0314)",
+        "company": "OpenAI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "openai/gpt-4-0314",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "GPT-4 (older v0314)",
+        "family": "GPT"
+      },
+      {
+        "name": "OpenAI: GPT-4",
+        "company": "OpenAI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "openai/gpt-4",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "GPT-4",
+        "family": "GPT"
+      },
+      {
+        "name": "OpenAI: GPT-3.5 Turbo",
+        "company": "OpenAI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "openai/gpt-3.5-turbo",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "GPT-3.5 Turbo",
+        "family": "GPT"
+      }
+    ],
+    "verified_model_count": 6,
+    "pending_model_count": 113,
+    "family_summary": [
+      {
+        "family": "GPT",
+        "count": 53,
+        "verified_count": 1,
+        "pending_count": 52
+      },
+      {
+        "family": "Gemini",
+        "count": 17,
+        "verified_count": 1,
+        "pending_count": 16
+      },
+      {
+        "family": "Claude",
+        "count": 14,
+        "verified_count": 1,
+        "pending_count": 13
+      },
+      {
+        "family": "Grok",
+        "count": 11,
+        "verified_count": 1,
+        "pending_count": 10
+      },
+      {
+        "family": "Gemma",
+        "count": 11,
+        "verified_count": 0,
+        "pending_count": 11
+      },
+      {
+        "family": "OpenAI o-series",
+        "count": 10,
+        "verified_count": 0,
+        "pending_count": 10
+      },
+      {
+        "family": "AI21 Labs",
+        "count": 2,
+        "verified_count": 1,
+        "pending_count": 1
+      },
+      {
+        "family": "Llama",
+        "count": 1,
+        "verified_count": 1,
+        "pending_count": 0
+      }
+    ]
+  },
+  {
+    "name": "加拿大",
+    "flag": "🇨🇦",
+    "continent": "北美洲",
+    "has_models": true,
+    "model_count": 5,
+    "models": [
+      {
+        "name": "Command",
+        "company": "Cohere",
+        "type": "企业大语言模型",
+        "source": "manual",
+        "source_id": "",
+        "company_country": "加拿大",
+        "verified": true,
+        "display_name": "Command",
+        "family": "Command"
+      },
+      {
+        "name": "Cohere: Command A",
+        "company": "Cohere",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "cohere/command-a",
+        "company_country": "加拿大",
+        "verified": false,
+        "display_name": "Command A",
+        "family": "Command"
+      },
+      {
+        "name": "Cohere: Command R7B (12-2024)",
+        "company": "Cohere",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "cohere/command-r7b-12-2024",
+        "company_country": "加拿大",
+        "verified": false,
+        "display_name": "Command R7B (12-2024)",
+        "family": "Command"
+      },
+      {
+        "name": "Cohere: Command R (08-2024)",
+        "company": "Cohere",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "cohere/command-r-08-2024",
+        "company_country": "加拿大",
+        "verified": false,
+        "display_name": "Command R (08-2024)",
+        "family": "Command"
+      },
+      {
+        "name": "Cohere: Command R+ (08-2024)",
+        "company": "Cohere",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "cohere/command-r-plus-08-2024",
+        "company_country": "加拿大",
+        "verified": false,
+        "display_name": "Command R+ (08-2024)",
+        "family": "Command"
+      }
+    ],
+    "verified_model_count": 1,
+    "pending_model_count": 4,
+    "family_summary": [
+      {
+        "family": "Command",
+        "count": 5,
+        "verified_count": 1,
+        "pending_count": 4
+      }
+    ]
+  }
+]

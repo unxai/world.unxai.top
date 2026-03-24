@@ -1,0 +1,296 @@
+[
+  {
+    "country": "中国",
+    "continent": "亚洲",
+    "families": [
+      {
+        "family": "Qwen",
+        "count": 50,
+        "verified_count": 0,
+        "pending_count": 50
+      },
+      {
+        "family": "GLM",
+        "count": 12,
+        "verified_count": 1,
+        "pending_count": 11
+      },
+      {
+        "family": "DeepSeek",
+        "count": 11,
+        "verified_count": 2,
+        "pending_count": 9
+      },
+      {
+        "family": "MiniMax",
+        "count": 8,
+        "verified_count": 0,
+        "pending_count": 8
+      },
+      {
+        "family": "ERNIE",
+        "count": 5,
+        "verified_count": 0,
+        "pending_count": 5
+      },
+      {
+        "family": "Kimi",
+        "count": 4,
+        "verified_count": 0,
+        "pending_count": 4
+      },
+      {
+        "family": "阿里云",
+        "count": 3,
+        "verified_count": 1,
+        "pending_count": 2
+      },
+      {
+        "family": "字节跳动",
+        "count": 2,
+        "verified_count": 1,
+        "pending_count": 1
+      },
+      {
+        "family": "Step",
+        "count": 2,
+        "verified_count": 0,
+        "pending_count": 2
+      },
+      {
+        "family": "百度",
+        "count": 1,
+        "verified_count": 1,
+        "pending_count": 0
+      },
+      {
+        "family": "腾讯",
+        "count": 1,
+        "verified_count": 1,
+        "pending_count": 0
+      },
+      {
+        "family": "科大讯飞",
+        "count": 1,
+        "verified_count": 1,
+        "pending_count": 0
+      },
+      {
+        "family": "Hunyuan",
+        "count": 1,
+        "verified_count": 0,
+        "pending_count": 1
+      },
+      {
+        "family": "Llama",
+        "count": 1,
+        "verified_count": 0,
+        "pending_count": 1
+      }
+    ]
+  },
+  {
+    "country": "日本",
+    "continent": "亚洲",
+    "families": [
+      {
+        "family": "日本研究机构/产业联合",
+        "count": 1,
+        "verified_count": 1,
+        "pending_count": 0
+      },
+      {
+        "family": "Preferred Networks",
+        "count": 1,
+        "verified_count": 1,
+        "pending_count": 0
+      }
+    ]
+  },
+  {
+    "country": "韩国",
+    "continent": "亚洲",
+    "families": [
+      {
+        "family": "NAVER",
+        "count": 1,
+        "verified_count": 1,
+        "pending_count": 0
+      },
+      {
+        "family": "GPT",
+        "count": 1,
+        "verified_count": 1,
+        "pending_count": 0
+      }
+    ]
+  },
+  {
+    "country": "新加坡",
+    "continent": "亚洲",
+    "families": [
+      {
+        "family": "AI Singapore",
+        "count": 1,
+        "verified_count": 1,
+        "pending_count": 0
+      }
+    ]
+  },
+  {
+    "country": "印度",
+    "continent": "亚洲",
+    "families": [
+      {
+        "family": "Ola",
+        "count": 1,
+        "verified_count": 1,
+        "pending_count": 0
+      }
+    ]
+  },
+  {
+    "country": "阿联酋",
+    "continent": "亚洲",
+    "families": [
+      {
+        "family": "G42 / Cerebras",
+        "count": 1,
+        "verified_count": 1,
+        "pending_count": 0
+      }
+    ]
+  },
+  {
+    "country": "德国",
+    "continent": "欧洲",
+    "families": [
+      {
+        "family": "Aleph Alpha / 欧洲合作方",
+        "count": 1,
+        "verified_count": 1,
+        "pending_count": 0
+      }
+    ]
+  },
+  {
+    "country": "法国",
+    "continent": "欧洲",
+    "families": [
+      {
+        "family": "Mistral",
+        "count": 15,
+        "verified_count": 1,
+        "pending_count": 14
+      },
+      {
+        "family": "Devstral",
+        "count": 3,
+        "verified_count": 0,
+        "pending_count": 3
+      },
+      {
+        "family": "Ministral",
+        "count": 3,
+        "verified_count": 0,
+        "pending_count": 3
+      },
+      {
+        "family": "Mistral AI",
+        "count": 3,
+        "verified_count": 0,
+        "pending_count": 3
+      },
+      {
+        "family": "Mixtral",
+        "count": 2,
+        "verified_count": 0,
+        "pending_count": 2
+      },
+      {
+        "family": "Codestral",
+        "count": 1,
+        "verified_count": 0,
+        "pending_count": 1
+      }
+    ]
+  },
+  {
+    "country": "英国",
+    "continent": "欧洲",
+    "families": [
+      {
+        "family": "Arondite / 本地生态",
+        "count": 1,
+        "verified_count": 1,
+        "pending_count": 0
+      }
+    ]
+  },
+  {
+    "country": "美国",
+    "continent": "北美洲",
+    "families": [
+      {
+        "family": "GPT",
+        "count": 53,
+        "verified_count": 1,
+        "pending_count": 52
+      },
+      {
+        "family": "Gemini",
+        "count": 17,
+        "verified_count": 1,
+        "pending_count": 16
+      },
+      {
+        "family": "Claude",
+        "count": 14,
+        "verified_count": 1,
+        "pending_count": 13
+      },
+      {
+        "family": "Grok",
+        "count": 11,
+        "verified_count": 1,
+        "pending_count": 10
+      },
+      {
+        "family": "Gemma",
+        "count": 11,
+        "verified_count": 0,
+        "pending_count": 11
+      },
+      {
+        "family": "OpenAI o-series",
+        "count": 10,
+        "verified_count": 0,
+        "pending_count": 10
+      },
+      {
+        "family": "AI21 Labs",
+        "count": 2,
+        "verified_count": 1,
+        "pending_count": 1
+      },
+      {
+        "family": "Llama",
+        "count": 1,
+        "verified_count": 1,
+        "pending_count": 0
+      }
+    ]
+  },
+  {
+    "country": "加拿大",
+    "continent": "北美洲",
+    "families": [
+      {
+        "family": "Command",
+        "count": 5,
+        "verified_count": 1,
+        "pending_count": 4
+      }
+    ]
+  }
+]

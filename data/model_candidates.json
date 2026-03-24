@@ -1,0 +1,2406 @@
+{
+  "source": "https://openrouter.ai/api/v1/models",
+  "count": 350,
+  "items": [
+    {
+      "name": "Xiaomi: MiMo-V2-Omni",
+      "company": "xiaomi",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "xiaomi/mimo-v2-omni"
+    },
+    {
+      "name": "Xiaomi: MiMo-V2-Pro",
+      "company": "xiaomi",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "xiaomi/mimo-v2-pro"
+    },
+    {
+      "name": "MiniMax: MiniMax M2.7",
+      "company": "minimax",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "minimax/minimax-m2.7"
+    },
+    {
+      "name": "OpenAI: GPT-5.4 Nano",
+      "company": "openai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "openai/gpt-5.4-nano"
+    },
+    {
+      "name": "OpenAI: GPT-5.4 Mini",
+      "company": "openai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "openai/gpt-5.4-mini"
+    },
+    {
+      "name": "Mistral: Mistral Small 4",
+      "company": "mistralai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "mistralai/mistral-small-2603"
+    },
+    {
+      "name": "Z.ai: GLM 5 Turbo",
+      "company": "z-ai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "z-ai/glm-5-turbo"
+    },
+    {
+      "name": "xAI: Grok 4.20 Multi-Agent Beta",
+      "company": "x-ai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "x-ai/grok-4.20-multi-agent-beta"
+    },
+    {
+      "name": "xAI: Grok 4.20 Beta",
+      "company": "x-ai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "x-ai/grok-4.20-beta"
+    },
+    {
+      "name": "NVIDIA: Nemotron 3 Super (free)",
+      "company": "nvidia",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "nvidia/nemotron-3-super-120b-a12b:free"
+    },
+    {
+      "name": "NVIDIA: Nemotron 3 Super",
+      "company": "nvidia",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "nvidia/nemotron-3-super-120b-a12b"
+    },
+    {
+      "name": "ByteDance Seed: Seed-2.0-Lite",
+      "company": "bytedance-seed",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "bytedance-seed/seed-2.0-lite"
+    },
+    {
+      "name": "Qwen: Qwen3.5-9B",
+      "company": "qwen",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "qwen/qwen3.5-9b"
+    },
+    {
+      "name": "OpenAI: GPT-5.4 Pro",
+      "company": "openai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "openai/gpt-5.4-pro"
+    },
+    {
+      "name": "OpenAI: GPT-5.4",
+      "company": "openai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "openai/gpt-5.4"
+    },
+    {
+      "name": "Inception: Mercury 2",
+      "company": "inception",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "inception/mercury-2"
+    },
+    {
+      "name": "OpenAI: GPT-5.3 Chat",
+      "company": "openai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "openai/gpt-5.3-chat"
+    },
+    {
+      "name": "Google: Gemini 3.1 Flash Lite Preview",
+      "company": "google",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "google/gemini-3.1-flash-lite-preview"
+    },
+    {
+      "name": "ByteDance Seed: Seed-2.0-Mini",
+      "company": "bytedance-seed",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "bytedance-seed/seed-2.0-mini"
+    },
+    {
+      "name": "Google: Nano Banana 2 (Gemini 3.1 Flash Image Preview)",
+      "company": "google",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "google/gemini-3.1-flash-image-preview"
+    },
+    {
+      "name": "Qwen: Qwen3.5-35B-A3B",
+      "company": "qwen",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "qwen/qwen3.5-35b-a3b"
+    },
+    {
+      "name": "Qwen: Qwen3.5-27B",
+      "company": "qwen",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "qwen/qwen3.5-27b"
+    },
+    {
+      "name": "Qwen: Qwen3.5-122B-A10B",
+      "company": "qwen",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "qwen/qwen3.5-122b-a10b"
+    },
+    {
+      "name": "Qwen: Qwen3.5-Flash",
+      "company": "qwen",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "qwen/qwen3.5-flash-02-23"
+    },
+    {
+      "name": "LiquidAI: LFM2-24B-A2B",
+      "company": "liquid",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "liquid/lfm-2-24b-a2b"
+    },
+    {
+      "name": "Google: Gemini 3.1 Pro Preview Custom Tools",
+      "company": "google",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "google/gemini-3.1-pro-preview-customtools"
+    },
+    {
+      "name": "OpenAI: GPT-5.3-Codex",
+      "company": "openai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "openai/gpt-5.3-codex"
+    },
+    {
+      "name": "AionLabs: Aion-2.0",
+      "company": "aion-labs",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "aion-labs/aion-2.0"
+    },
+    {
+      "name": "Google: Gemini 3.1 Pro Preview",
+      "company": "google",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "google/gemini-3.1-pro-preview"
+    },
+    {
+      "name": "Anthropic: Claude Sonnet 4.6",
+      "company": "anthropic",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "anthropic/claude-sonnet-4.6"
+    },
+    {
+      "name": "Qwen: Qwen3.5 Plus 2026-02-15",
+      "company": "qwen",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "qwen/qwen3.5-plus-02-15"
+    },
+    {
+      "name": "Qwen: Qwen3.5 397B A17B",
+      "company": "qwen",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "qwen/qwen3.5-397b-a17b"
+    },
+    {
+      "name": "MiniMax: MiniMax M2.5 (free)",
+      "company": "minimax",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "minimax/minimax-m2.5:free"
+    },
+    {
+      "name": "MiniMax: MiniMax M2.5",
+      "company": "minimax",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "minimax/minimax-m2.5"
+    },
+    {
+      "name": "Z.ai: GLM 5",
+      "company": "z-ai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "z-ai/glm-5"
+    },
+    {
+      "name": "Qwen: Qwen3 Max Thinking",
+      "company": "qwen",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "qwen/qwen3-max-thinking"
+    },
+    {
+      "name": "Anthropic: Claude Opus 4.6",
+      "company": "anthropic",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "anthropic/claude-opus-4.6"
+    },
+    {
+      "name": "Qwen: Qwen3 Coder Next",
+      "company": "qwen",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "qwen/qwen3-coder-next"
+    },
+    {
+      "name": "Free Models Router",
+      "company": "openrouter",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "openrouter/free"
+    },
+    {
+      "name": "StepFun: Step 3.5 Flash (free)",
+      "company": "stepfun",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "stepfun/step-3.5-flash:free"
+    },
+    {
+      "name": "StepFun: Step 3.5 Flash",
+      "company": "stepfun",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "stepfun/step-3.5-flash"
+    },
+    {
+      "name": "Arcee AI: Trinity Large Preview (free)",
+      "company": "arcee-ai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "arcee-ai/trinity-large-preview:free"
+    },
+    {
+      "name": "MoonshotAI: Kimi K2.5",
+      "company": "moonshotai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "moonshotai/kimi-k2.5"
+    },
+    {
+      "name": "Upstage: Solar Pro 3",
+      "company": "upstage",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "upstage/solar-pro-3"
+    },
+    {
+      "name": "MiniMax: MiniMax M2-her",
+      "company": "minimax",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "minimax/minimax-m2-her"
+    },
+    {
+      "name": "Writer: Palmyra X5",
+      "company": "writer",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "writer/palmyra-x5"
+    },
+    {
+      "name": "LiquidAI: LFM2.5-1.2B-Thinking (free)",
+      "company": "liquid",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "liquid/lfm-2.5-1.2b-thinking:free"
+    },
+    {
+      "name": "LiquidAI: LFM2.5-1.2B-Instruct (free)",
+      "company": "liquid",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "liquid/lfm-2.5-1.2b-instruct:free"
+    },
+    {
+      "name": "OpenAI: GPT Audio",
+      "company": "openai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "openai/gpt-audio"
+    },
+    {
+      "name": "OpenAI: GPT Audio Mini",
+      "company": "openai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "openai/gpt-audio-mini"
+    },
+    {
+      "name": "Z.ai: GLM 4.7 Flash",
+      "company": "z-ai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "z-ai/glm-4.7-flash"
+    },
+    {
+      "name": "OpenAI: GPT-5.2-Codex",
+      "company": "openai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "openai/gpt-5.2-codex"
+    },
+    {
+      "name": "AllenAI: Molmo2 8B",
+      "company": "allenai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "allenai/molmo-2-8b"
+    },
+    {
+      "name": "AllenAI: Olmo 3.1 32B Instruct",
+      "company": "allenai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "allenai/olmo-3.1-32b-instruct"
+    },
+    {
+      "name": "ByteDance Seed: Seed 1.6 Flash",
+      "company": "bytedance-seed",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "bytedance-seed/seed-1.6-flash"
+    },
+    {
+      "name": "ByteDance Seed: Seed 1.6",
+      "company": "bytedance-seed",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "bytedance-seed/seed-1.6"
+    },
+    {
+      "name": "MiniMax: MiniMax M2.1",
+      "company": "minimax",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "minimax/minimax-m2.1"
+    },
+    {
+      "name": "Z.ai: GLM 4.7",
+      "company": "z-ai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "z-ai/glm-4.7"
+    },
+    {
+      "name": "Google: Gemini 3 Flash Preview",
+      "company": "google",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "google/gemini-3-flash-preview"
+    },
+    {
+      "name": "Mistral: Mistral Small Creative",
+      "company": "mistralai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "mistralai/mistral-small-creative"
+    },
+    {
+      "name": "AllenAI: Olmo 3.1 32B Think",
+      "company": "allenai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "allenai/olmo-3.1-32b-think"
+    },
+    {
+      "name": "Xiaomi: MiMo-V2-Flash",
+      "company": "xiaomi",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "xiaomi/mimo-v2-flash"
+    },
+    {
+      "name": "NVIDIA: Nemotron 3 Nano 30B A3B (free)",
+      "company": "nvidia",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "nvidia/nemotron-3-nano-30b-a3b:free"
+    },
+    {
+      "name": "NVIDIA: Nemotron 3 Nano 30B A3B",
+      "company": "nvidia",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "nvidia/nemotron-3-nano-30b-a3b"
+    },
+    {
+      "name": "OpenAI: GPT-5.2 Chat",
+      "company": "openai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "openai/gpt-5.2-chat"
+    },
+    {
+      "name": "OpenAI: GPT-5.2 Pro",
+      "company": "openai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "openai/gpt-5.2-pro"
+    },
+    {
+      "name": "OpenAI: GPT-5.2",
+      "company": "openai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "openai/gpt-5.2"
+    },
+    {
+      "name": "Mistral: Devstral 2 2512",
+      "company": "mistralai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "mistralai/devstral-2512"
+    },
+    {
+      "name": "Relace: Relace Search",
+      "company": "relace",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "relace/relace-search"
+    },
+    {
+      "name": "Z.ai: GLM 4.6V",
+      "company": "z-ai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "z-ai/glm-4.6v"
+    },
+    {
+      "name": "Nex AGI: DeepSeek V3.1 Nex N1",
+      "company": "nex-agi",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "nex-agi/deepseek-v3.1-nex-n1"
+    },
+    {
+      "name": "EssentialAI: Rnj 1 Instruct",
+      "company": "essentialai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "essentialai/rnj-1-instruct"
+    },
+    {
+      "name": "Body Builder (beta)",
+      "company": "openrouter",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "openrouter/bodybuilder"
+    },
+    {
+      "name": "OpenAI: GPT-5.1-Codex-Max",
+      "company": "openai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "openai/gpt-5.1-codex-max"
+    },
+    {
+      "name": "Amazon: Nova 2 Lite",
+      "company": "amazon",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "amazon/nova-2-lite-v1"
+    },
+    {
+      "name": "Mistral: Ministral 3 14B 2512",
+      "company": "mistralai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "mistralai/ministral-14b-2512"
+    },
+    {
+      "name": "Mistral: Ministral 3 8B 2512",
+      "company": "mistralai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "mistralai/ministral-8b-2512"
+    },
+    {
+      "name": "Mistral: Ministral 3 3B 2512",
+      "company": "mistralai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "mistralai/ministral-3b-2512"
+    },
+    {
+      "name": "Mistral: Mistral Large 3 2512",
+      "company": "mistralai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "mistralai/mistral-large-2512"
+    },
+    {
+      "name": "Arcee AI: Trinity Mini (free)",
+      "company": "arcee-ai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "arcee-ai/trinity-mini:free"
+    },
+    {
+      "name": "Arcee AI: Trinity Mini",
+      "company": "arcee-ai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "arcee-ai/trinity-mini"
+    },
+    {
+      "name": "DeepSeek: DeepSeek V3.2 Speciale",
+      "company": "deepseek",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "deepseek/deepseek-v3.2-speciale"
+    },
+    {
+      "name": "DeepSeek: DeepSeek V3.2",
+      "company": "deepseek",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "deepseek/deepseek-v3.2"
+    },
+    {
+      "name": "Prime Intellect: INTELLECT-3",
+      "company": "prime-intellect",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "prime-intellect/intellect-3"
+    },
+    {
+      "name": "Anthropic: Claude Opus 4.5",
+      "company": "anthropic",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "anthropic/claude-opus-4.5"
+    },
+    {
+      "name": "AllenAI: Olmo 3 32B Think",
+      "company": "allenai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "allenai/olmo-3-32b-think"
+    },
+    {
+      "name": "AllenAI: Olmo 3 7B Instruct",
+      "company": "allenai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "allenai/olmo-3-7b-instruct"
+    },
+    {
+      "name": "AllenAI: Olmo 3 7B Think",
+      "company": "allenai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "allenai/olmo-3-7b-think"
+    },
+    {
+      "name": "Google: Nano Banana Pro (Gemini 3 Pro Image Preview)",
+      "company": "google",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "google/gemini-3-pro-image-preview"
+    },
+    {
+      "name": "xAI: Grok 4.1 Fast",
+      "company": "x-ai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "x-ai/grok-4.1-fast"
+    },
+    {
+      "name": "Google: Gemini 3 Pro Preview",
+      "company": "google",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "google/gemini-3-pro-preview"
+    },
+    {
+      "name": "Deep Cogito: Cogito v2.1 671B",
+      "company": "deepcogito",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "deepcogito/cogito-v2.1-671b"
+    },
+    {
+      "name": "OpenAI: GPT-5.1",
+      "company": "openai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "openai/gpt-5.1"
+    },
+    {
+      "name": "OpenAI: GPT-5.1 Chat",
+      "company": "openai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "openai/gpt-5.1-chat"
+    },
+    {
+      "name": "OpenAI: GPT-5.1-Codex",
+      "company": "openai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "openai/gpt-5.1-codex"
+    },
+    {
+      "name": "OpenAI: GPT-5.1-Codex-Mini",
+      "company": "openai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "openai/gpt-5.1-codex-mini"
+    },
+    {
+      "name": "Kwaipilot: KAT-Coder-Pro V1",
+      "company": "kwaipilot",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "kwaipilot/kat-coder-pro"
+    },
+    {
+      "name": "MoonshotAI: Kimi K2 Thinking",
+      "company": "moonshotai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "moonshotai/kimi-k2-thinking"
+    },
+    {
+      "name": "Amazon: Nova Premier 1.0",
+      "company": "amazon",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "amazon/nova-premier-v1"
+    },
+    {
+      "name": "Perplexity: Sonar Pro Search",
+      "company": "perplexity",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "perplexity/sonar-pro-search"
+    },
+    {
+      "name": "Mistral: Voxtral Small 24B 2507",
+      "company": "mistralai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "mistralai/voxtral-small-24b-2507"
+    },
+    {
+      "name": "OpenAI: gpt-oss-safeguard-20b",
+      "company": "openai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "openai/gpt-oss-safeguard-20b"
+    },
+    {
+      "name": "NVIDIA: Nemotron Nano 12B 2 VL (free)",
+      "company": "nvidia",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "nvidia/nemotron-nano-12b-v2-vl:free"
+    },
+    {
+      "name": "NVIDIA: Nemotron Nano 12B 2 VL",
+      "company": "nvidia",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "nvidia/nemotron-nano-12b-v2-vl"
+    },
+    {
+      "name": "MiniMax: MiniMax M2",
+      "company": "minimax",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "minimax/minimax-m2"
+    },
+    {
+      "name": "Qwen: Qwen3 VL 32B Instruct",
+      "company": "qwen",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "qwen/qwen3-vl-32b-instruct"
+    },
+    {
+      "name": "LiquidAI: LFM2-8B-A1B",
+      "company": "liquid",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "liquid/lfm2-8b-a1b"
+    },
+    {
+      "name": "LiquidAI: LFM2-2.6B",
+      "company": "liquid",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "liquid/lfm-2.2-6b"
+    },
+    {
+      "name": "IBM: Granite 4.0 Micro",
+      "company": "ibm-granite",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "ibm-granite/granite-4.0-h-micro"
+    },
+    {
+      "name": "OpenAI: GPT-5 Image Mini",
+      "company": "openai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "openai/gpt-5-image-mini"
+    },
+    {
+      "name": "Anthropic: Claude Haiku 4.5",
+      "company": "anthropic",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "anthropic/claude-haiku-4.5"
+    },
+    {
+      "name": "Qwen: Qwen3 VL 8B Thinking",
+      "company": "qwen",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "qwen/qwen3-vl-8b-thinking"
+    },
+    {
+      "name": "Qwen: Qwen3 VL 8B Instruct",
+      "company": "qwen",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "qwen/qwen3-vl-8b-instruct"
+    },
+    {
+      "name": "OpenAI: GPT-5 Image",
+      "company": "openai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "openai/gpt-5-image"
+    },
+    {
+      "name": "OpenAI: o3 Deep Research",
+      "company": "openai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "openai/o3-deep-research"
+    },
+    {
+      "name": "OpenAI: o4 Mini Deep Research",
+      "company": "openai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "openai/o4-mini-deep-research"
+    },
+    {
+      "name": "NVIDIA: Llama 3.3 Nemotron Super 49B V1.5",
+      "company": "nvidia",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "nvidia/llama-3.3-nemotron-super-49b-v1.5"
+    },
+    {
+      "name": "Baidu: ERNIE 4.5 21B A3B Thinking",
+      "company": "baidu",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "baidu/ernie-4.5-21b-a3b-thinking"
+    },
+    {
+      "name": "Google: Nano Banana (Gemini 2.5 Flash Image)",
+      "company": "google",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "google/gemini-2.5-flash-image"
+    },
+    {
+      "name": "Qwen: Qwen3 VL 30B A3B Thinking",
+      "company": "qwen",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "qwen/qwen3-vl-30b-a3b-thinking"
+    },
+    {
+      "name": "Qwen: Qwen3 VL 30B A3B Instruct",
+      "company": "qwen",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "qwen/qwen3-vl-30b-a3b-instruct"
+    },
+    {
+      "name": "OpenAI: GPT-5 Pro",
+      "company": "openai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "openai/gpt-5-pro"
+    },
+    {
+      "name": "Z.ai: GLM 4.6",
+      "company": "z-ai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "z-ai/glm-4.6"
+    },
+    {
+      "name": "Anthropic: Claude Sonnet 4.5",
+      "company": "anthropic",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "anthropic/claude-sonnet-4.5"
+    },
+    {
+      "name": "DeepSeek: DeepSeek V3.2 Exp",
+      "company": "deepseek",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "deepseek/deepseek-v3.2-exp"
+    },
+    {
+      "name": "TheDrummer: Cydonia 24B V4.1",
+      "company": "thedrummer",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "thedrummer/cydonia-24b-v4.1"
+    },
+    {
+      "name": "Relace: Relace Apply 3",
+      "company": "relace",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "relace/relace-apply-3"
+    },
+    {
+      "name": "Google: Gemini 2.5 Flash Lite Preview 09-2025",
+      "company": "google",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "google/gemini-2.5-flash-lite-preview-09-2025"
+    },
+    {
+      "name": "Qwen: Qwen3 VL 235B A22B Thinking",
+      "company": "qwen",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "qwen/qwen3-vl-235b-a22b-thinking"
+    },
+    {
+      "name": "Qwen: Qwen3 VL 235B A22B Instruct",
+      "company": "qwen",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "qwen/qwen3-vl-235b-a22b-instruct"
+    },
+    {
+      "name": "Qwen: Qwen3 Max",
+      "company": "qwen",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "qwen/qwen3-max"
+    },
+    {
+      "name": "Qwen: Qwen3 Coder Plus",
+      "company": "qwen",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "qwen/qwen3-coder-plus"
+    },
+    {
+      "name": "OpenAI: GPT-5 Codex",
+      "company": "openai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "openai/gpt-5-codex"
+    },
+    {
+      "name": "DeepSeek: DeepSeek V3.1 Terminus",
+      "company": "deepseek",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "deepseek/deepseek-v3.1-terminus"
+    },
+    {
+      "name": "xAI: Grok 4 Fast",
+      "company": "x-ai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "x-ai/grok-4-fast"
+    },
+    {
+      "name": "Tongyi DeepResearch 30B A3B",
+      "company": "alibaba",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "alibaba/tongyi-deepresearch-30b-a3b"
+    },
+    {
+      "name": "Qwen: Qwen3 Coder Flash",
+      "company": "qwen",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "qwen/qwen3-coder-flash"
+    },
+    {
+      "name": "Qwen: Qwen3 Next 80B A3B Thinking",
+      "company": "qwen",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "qwen/qwen3-next-80b-a3b-thinking"
+    },
+    {
+      "name": "Qwen: Qwen3 Next 80B A3B Instruct (free)",
+      "company": "qwen",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "qwen/qwen3-next-80b-a3b-instruct:free"
+    },
+    {
+      "name": "Qwen: Qwen3 Next 80B A3B Instruct",
+      "company": "qwen",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "qwen/qwen3-next-80b-a3b-instruct"
+    },
+    {
+      "name": "Meituan: LongCat Flash Chat",
+      "company": "meituan",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "meituan/longcat-flash-chat"
+    },
+    {
+      "name": "Qwen: Qwen Plus 0728 (thinking)",
+      "company": "qwen",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "qwen/qwen-plus-2025-07-28:thinking"
+    },
+    {
+      "name": "Qwen: Qwen Plus 0728",
+      "company": "qwen",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "qwen/qwen-plus-2025-07-28"
+    },
+    {
+      "name": "NVIDIA: Nemotron Nano 9B V2 (free)",
+      "company": "nvidia",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "nvidia/nemotron-nano-9b-v2:free"
+    },
+    {
+      "name": "NVIDIA: Nemotron Nano 9B V2",
+      "company": "nvidia",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "nvidia/nemotron-nano-9b-v2"
+    },
+    {
+      "name": "MoonshotAI: Kimi K2 0905",
+      "company": "moonshotai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "moonshotai/kimi-k2-0905"
+    },
+    {
+      "name": "Qwen: Qwen3 30B A3B Thinking 2507",
+      "company": "qwen",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "qwen/qwen3-30b-a3b-thinking-2507"
+    },
+    {
+      "name": "xAI: Grok Code Fast 1",
+      "company": "x-ai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "x-ai/grok-code-fast-1"
+    },
+    {
+      "name": "Nous: Hermes 4 70B",
+      "company": "nousresearch",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "nousresearch/hermes-4-70b"
+    },
+    {
+      "name": "Nous: Hermes 4 405B",
+      "company": "nousresearch",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "nousresearch/hermes-4-405b"
+    },
+    {
+      "name": "DeepSeek: DeepSeek V3.1",
+      "company": "deepseek",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "deepseek/deepseek-chat-v3.1"
+    },
+    {
+      "name": "OpenAI: GPT-4o Audio",
+      "company": "openai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "openai/gpt-4o-audio-preview"
+    },
+    {
+      "name": "Mistral: Mistral Medium 3.1",
+      "company": "mistralai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "mistralai/mistral-medium-3.1"
+    },
+    {
+      "name": "Baidu: ERNIE 4.5 21B A3B",
+      "company": "baidu",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "baidu/ernie-4.5-21b-a3b"
+    },
+    {
+      "name": "Baidu: ERNIE 4.5 VL 28B A3B",
+      "company": "baidu",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "baidu/ernie-4.5-vl-28b-a3b"
+    },
+    {
+      "name": "Z.ai: GLM 4.5V",
+      "company": "z-ai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "z-ai/glm-4.5v"
+    },
+    {
+      "name": "AI21: Jamba Large 1.7",
+      "company": "ai21",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "ai21/jamba-large-1.7"
+    },
+    {
+      "name": "OpenAI: GPT-5 Chat",
+      "company": "openai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "openai/gpt-5-chat"
+    },
+    {
+      "name": "OpenAI: GPT-5",
+      "company": "openai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "openai/gpt-5"
+    },
+    {
+      "name": "OpenAI: GPT-5 Mini",
+      "company": "openai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "openai/gpt-5-mini"
+    },
+    {
+      "name": "OpenAI: GPT-5 Nano",
+      "company": "openai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "openai/gpt-5-nano"
+    },
+    {
+      "name": "OpenAI: gpt-oss-120b (free)",
+      "company": "openai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "openai/gpt-oss-120b:free"
+    },
+    {
+      "name": "OpenAI: gpt-oss-120b",
+      "company": "openai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "openai/gpt-oss-120b"
+    },
+    {
+      "name": "OpenAI: gpt-oss-20b (free)",
+      "company": "openai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "openai/gpt-oss-20b:free"
+    },
+    {
+      "name": "OpenAI: gpt-oss-20b",
+      "company": "openai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "openai/gpt-oss-20b"
+    },
+    {
+      "name": "Anthropic: Claude Opus 4.1",
+      "company": "anthropic",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "anthropic/claude-opus-4.1"
+    },
+    {
+      "name": "Mistral: Codestral 2508",
+      "company": "mistralai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "mistralai/codestral-2508"
+    },
+    {
+      "name": "Qwen: Qwen3 Coder 30B A3B Instruct",
+      "company": "qwen",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "qwen/qwen3-coder-30b-a3b-instruct"
+    },
+    {
+      "name": "Qwen: Qwen3 30B A3B Instruct 2507",
+      "company": "qwen",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "qwen/qwen3-30b-a3b-instruct-2507"
+    },
+    {
+      "name": "Z.ai: GLM 4.5",
+      "company": "z-ai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "z-ai/glm-4.5"
+    },
+    {
+      "name": "Z.ai: GLM 4.5 Air (free)",
+      "company": "z-ai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "z-ai/glm-4.5-air:free"
+    },
+    {
+      "name": "Z.ai: GLM 4.5 Air",
+      "company": "z-ai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "z-ai/glm-4.5-air"
+    },
+    {
+      "name": "Qwen: Qwen3 235B A22B Thinking 2507",
+      "company": "qwen",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "qwen/qwen3-235b-a22b-thinking-2507"
+    },
+    {
+      "name": "Z.ai: GLM 4 32B ",
+      "company": "z-ai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "z-ai/glm-4-32b"
+    },
+    {
+      "name": "Qwen: Qwen3 Coder 480B A35B (free)",
+      "company": "qwen",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "qwen/qwen3-coder:free"
+    },
+    {
+      "name": "Qwen: Qwen3 Coder 480B A35B",
+      "company": "qwen",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "qwen/qwen3-coder"
+    },
+    {
+      "name": "ByteDance: UI-TARS 7B ",
+      "company": "bytedance",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "bytedance/ui-tars-1.5-7b"
+    },
+    {
+      "name": "Google: Gemini 2.5 Flash Lite",
+      "company": "google",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "google/gemini-2.5-flash-lite"
+    },
+    {
+      "name": "Qwen: Qwen3 235B A22B Instruct 2507",
+      "company": "qwen",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "qwen/qwen3-235b-a22b-2507"
+    },
+    {
+      "name": "Switchpoint Router",
+      "company": "switchpoint",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "switchpoint/router"
+    },
+    {
+      "name": "MoonshotAI: Kimi K2 0711",
+      "company": "moonshotai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "moonshotai/kimi-k2"
+    },
+    {
+      "name": "Mistral: Devstral Medium",
+      "company": "mistralai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "mistralai/devstral-medium"
+    },
+    {
+      "name": "Mistral: Devstral Small 1.1",
+      "company": "mistralai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "mistralai/devstral-small"
+    },
+    {
+      "name": "Venice: Uncensored (free)",
+      "company": "cognitivecomputations",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "cognitivecomputations/dolphin-mistral-24b-venice-edition:free"
+    },
+    {
+      "name": "xAI: Grok 4",
+      "company": "x-ai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "x-ai/grok-4"
+    },
+    {
+      "name": "Google: Gemma 3n 2B (free)",
+      "company": "google",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "google/gemma-3n-e2b-it:free"
+    },
+    {
+      "name": "Tencent: Hunyuan A13B Instruct",
+      "company": "tencent",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "tencent/hunyuan-a13b-instruct"
+    },
+    {
+      "name": "TNG: DeepSeek R1T2 Chimera",
+      "company": "tngtech",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "tngtech/deepseek-r1t2-chimera"
+    },
+    {
+      "name": "Morph: Morph V3 Large",
+      "company": "morph",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "morph/morph-v3-large"
+    },
+    {
+      "name": "Morph: Morph V3 Fast",
+      "company": "morph",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "morph/morph-v3-fast"
+    },
+    {
+      "name": "Baidu: ERNIE 4.5 VL 424B A47B ",
+      "company": "baidu",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "baidu/ernie-4.5-vl-424b-a47b"
+    },
+    {
+      "name": "Baidu: ERNIE 4.5 300B A47B ",
+      "company": "baidu",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "baidu/ernie-4.5-300b-a47b"
+    },
+    {
+      "name": "Inception: Mercury",
+      "company": "inception",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "inception/mercury"
+    },
+    {
+      "name": "Mistral: Mistral Small 3.2 24B",
+      "company": "mistralai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "mistralai/mistral-small-3.2-24b-instruct"
+    },
+    {
+      "name": "MiniMax: MiniMax M1",
+      "company": "minimax",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "minimax/minimax-m1"
+    },
+    {
+      "name": "Google: Gemini 2.5 Flash",
+      "company": "google",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "google/gemini-2.5-flash"
+    },
+    {
+      "name": "Google: Gemini 2.5 Pro",
+      "company": "google",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "google/gemini-2.5-pro"
+    },
+    {
+      "name": "OpenAI: o3 Pro",
+      "company": "openai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "openai/o3-pro"
+    },
+    {
+      "name": "xAI: Grok 3 Mini",
+      "company": "x-ai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "x-ai/grok-3-mini"
+    },
+    {
+      "name": "xAI: Grok 3",
+      "company": "x-ai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "x-ai/grok-3"
+    },
+    {
+      "name": "Google: Gemini 2.5 Pro Preview 06-05",
+      "company": "google",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "google/gemini-2.5-pro-preview"
+    },
+    {
+      "name": "DeepSeek: R1 0528",
+      "company": "deepseek",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "deepseek/deepseek-r1-0528"
+    },
+    {
+      "name": "Anthropic: Claude Opus 4",
+      "company": "anthropic",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "anthropic/claude-opus-4"
+    },
+    {
+      "name": "Anthropic: Claude Sonnet 4",
+      "company": "anthropic",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "anthropic/claude-sonnet-4"
+    },
+    {
+      "name": "Google: Gemma 3n 4B (free)",
+      "company": "google",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "google/gemma-3n-e4b-it:free"
+    },
+    {
+      "name": "Google: Gemma 3n 4B",
+      "company": "google",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "google/gemma-3n-e4b-it"
+    },
+    {
+      "name": "Mistral: Mistral Medium 3",
+      "company": "mistralai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "mistralai/mistral-medium-3"
+    },
+    {
+      "name": "Google: Gemini 2.5 Pro Preview 05-06",
+      "company": "google",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "google/gemini-2.5-pro-preview-05-06"
+    },
+    {
+      "name": "Arcee AI: Spotlight",
+      "company": "arcee-ai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "arcee-ai/spotlight"
+    },
+    {
+      "name": "Arcee AI: Maestro Reasoning",
+      "company": "arcee-ai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "arcee-ai/maestro-reasoning"
+    },
+    {
+      "name": "Arcee AI: Virtuoso Large",
+      "company": "arcee-ai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "arcee-ai/virtuoso-large"
+    },
+    {
+      "name": "Arcee AI: Coder Large",
+      "company": "arcee-ai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "arcee-ai/coder-large"
+    },
+    {
+      "name": "Inception: Mercury Coder",
+      "company": "inception",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "inception/mercury-coder"
+    },
+    {
+      "name": "Qwen: Qwen3 4B (free)",
+      "company": "qwen",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "qwen/qwen3-4b:free"
+    },
+    {
+      "name": "Meta: Llama Guard 4 12B",
+      "company": "meta-llama",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "meta-llama/llama-guard-4-12b"
+    },
+    {
+      "name": "Qwen: Qwen3 30B A3B",
+      "company": "qwen",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "qwen/qwen3-30b-a3b"
+    },
+    {
+      "name": "Qwen: Qwen3 8B",
+      "company": "qwen",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "qwen/qwen3-8b"
+    },
+    {
+      "name": "Qwen: Qwen3 14B",
+      "company": "qwen",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "qwen/qwen3-14b"
+    },
+    {
+      "name": "Qwen: Qwen3 32B",
+      "company": "qwen",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "qwen/qwen3-32b"
+    },
+    {
+      "name": "Qwen: Qwen3 235B A22B",
+      "company": "qwen",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "qwen/qwen3-235b-a22b"
+    },
+    {
+      "name": "OpenAI: o4 Mini High",
+      "company": "openai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "openai/o4-mini-high"
+    },
+    {
+      "name": "OpenAI: o3",
+      "company": "openai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "openai/o3"
+    },
+    {
+      "name": "OpenAI: o4 Mini",
+      "company": "openai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "openai/o4-mini"
+    },
+    {
+      "name": "Qwen: Qwen2.5 Coder 7B Instruct",
+      "company": "qwen",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "qwen/qwen2.5-coder-7b-instruct"
+    },
+    {
+      "name": "OpenAI: GPT-4.1",
+      "company": "openai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "openai/gpt-4.1"
+    },
+    {
+      "name": "OpenAI: GPT-4.1 Mini",
+      "company": "openai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "openai/gpt-4.1-mini"
+    },
+    {
+      "name": "OpenAI: GPT-4.1 Nano",
+      "company": "openai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "openai/gpt-4.1-nano"
+    },
+    {
+      "name": "EleutherAI: Llemma 7b",
+      "company": "eleutherai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "eleutherai/llemma_7b"
+    },
+    {
+      "name": "AlfredPros: CodeLLaMa 7B Instruct Solidity",
+      "company": "alfredpros",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "alfredpros/codellama-7b-instruct-solidity"
+    },
+    {
+      "name": "xAI: Grok 3 Mini Beta",
+      "company": "x-ai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "x-ai/grok-3-mini-beta"
+    },
+    {
+      "name": "xAI: Grok 3 Beta",
+      "company": "x-ai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "x-ai/grok-3-beta"
+    },
+    {
+      "name": "Meta: Llama 4 Maverick",
+      "company": "meta-llama",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "meta-llama/llama-4-maverick"
+    },
+    {
+      "name": "Meta: Llama 4 Scout",
+      "company": "meta-llama",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "meta-llama/llama-4-scout"
+    },
+    {
+      "name": "Qwen: Qwen2.5 VL 32B Instruct",
+      "company": "qwen",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "qwen/qwen2.5-vl-32b-instruct"
+    },
+    {
+      "name": "DeepSeek: DeepSeek V3 0324",
+      "company": "deepseek",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "deepseek/deepseek-chat-v3-0324"
+    },
+    {
+      "name": "OpenAI: o1-pro",
+      "company": "openai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "openai/o1-pro"
+    },
+    {
+      "name": "Mistral: Mistral Small 3.1 24B (free)",
+      "company": "mistralai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "mistralai/mistral-small-3.1-24b-instruct:free"
+    },
+    {
+      "name": "Mistral: Mistral Small 3.1 24B",
+      "company": "mistralai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "mistralai/mistral-small-3.1-24b-instruct"
+    },
+    {
+      "name": "AllenAI: Olmo 2 32B Instruct",
+      "company": "allenai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "allenai/olmo-2-0325-32b-instruct"
+    },
+    {
+      "name": "Google: Gemma 3 4B (free)",
+      "company": "google",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "google/gemma-3-4b-it:free"
+    },
+    {
+      "name": "Google: Gemma 3 4B",
+      "company": "google",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "google/gemma-3-4b-it"
+    },
+    {
+      "name": "Google: Gemma 3 12B (free)",
+      "company": "google",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "google/gemma-3-12b-it:free"
+    },
+    {
+      "name": "Google: Gemma 3 12B",
+      "company": "google",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "google/gemma-3-12b-it"
+    },
+    {
+      "name": "Cohere: Command A",
+      "company": "cohere",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "cohere/command-a"
+    },
+    {
+      "name": "OpenAI: GPT-4o-mini Search Preview",
+      "company": "openai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "openai/gpt-4o-mini-search-preview"
+    },
+    {
+      "name": "OpenAI: GPT-4o Search Preview",
+      "company": "openai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "openai/gpt-4o-search-preview"
+    },
+    {
+      "name": "Google: Gemma 3 27B (free)",
+      "company": "google",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "google/gemma-3-27b-it:free"
+    },
+    {
+      "name": "Google: Gemma 3 27B",
+      "company": "google",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "google/gemma-3-27b-it"
+    },
+    {
+      "name": "TheDrummer: Skyfall 36B V2",
+      "company": "thedrummer",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "thedrummer/skyfall-36b-v2"
+    },
+    {
+      "name": "Perplexity: Sonar Reasoning Pro",
+      "company": "perplexity",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "perplexity/sonar-reasoning-pro"
+    },
+    {
+      "name": "Perplexity: Sonar Pro",
+      "company": "perplexity",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "perplexity/sonar-pro"
+    },
+    {
+      "name": "Perplexity: Sonar Deep Research",
+      "company": "perplexity",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "perplexity/sonar-deep-research"
+    },
+    {
+      "name": "Qwen: QwQ 32B",
+      "company": "qwen",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "qwen/qwq-32b"
+    },
+    {
+      "name": "Google: Gemini 2.0 Flash Lite",
+      "company": "google",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "google/gemini-2.0-flash-lite-001"
+    },
+    {
+      "name": "Anthropic: Claude 3.7 Sonnet",
+      "company": "anthropic",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "anthropic/claude-3.7-sonnet"
+    },
+    {
+      "name": "Anthropic: Claude 3.7 Sonnet (thinking)",
+      "company": "anthropic",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "anthropic/claude-3.7-sonnet:thinking"
+    },
+    {
+      "name": "Mistral: Saba",
+      "company": "mistralai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "mistralai/mistral-saba"
+    },
+    {
+      "name": "Llama Guard 3 8B",
+      "company": "meta-llama",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "meta-llama/llama-guard-3-8b"
+    },
+    {
+      "name": "OpenAI: o3 Mini High",
+      "company": "openai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "openai/o3-mini-high"
+    },
+    {
+      "name": "Google: Gemini 2.0 Flash",
+      "company": "google",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "google/gemini-2.0-flash-001"
+    },
+    {
+      "name": "Qwen: Qwen VL Plus",
+      "company": "qwen",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "qwen/qwen-vl-plus"
+    },
+    {
+      "name": "AionLabs: Aion-1.0",
+      "company": "aion-labs",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "aion-labs/aion-1.0"
+    },
+    {
+      "name": "AionLabs: Aion-1.0-Mini",
+      "company": "aion-labs",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "aion-labs/aion-1.0-mini"
+    },
+    {
+      "name": "AionLabs: Aion-RP 1.0 (8B)",
+      "company": "aion-labs",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "aion-labs/aion-rp-llama-3.1-8b"
+    },
+    {
+      "name": "Qwen: Qwen VL Max",
+      "company": "qwen",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "qwen/qwen-vl-max"
+    },
+    {
+      "name": "Qwen: Qwen-Turbo",
+      "company": "qwen",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "qwen/qwen-turbo"
+    },
+    {
+      "name": "Qwen: Qwen2.5 VL 72B Instruct",
+      "company": "qwen",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "qwen/qwen2.5-vl-72b-instruct"
+    },
+    {
+      "name": "Qwen: Qwen-Plus",
+      "company": "qwen",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "qwen/qwen-plus"
+    },
+    {
+      "name": "Qwen: Qwen-Max ",
+      "company": "qwen",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "qwen/qwen-max"
+    },
+    {
+      "name": "OpenAI: o3 Mini",
+      "company": "openai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "openai/o3-mini"
+    },
+    {
+      "name": "Mistral: Mistral Small 3",
+      "company": "mistralai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "mistralai/mistral-small-24b-instruct-2501"
+    },
+    {
+      "name": "DeepSeek: R1 Distill Qwen 32B",
+      "company": "deepseek",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "deepseek/deepseek-r1-distill-qwen-32b"
+    },
+    {
+      "name": "Perplexity: Sonar",
+      "company": "perplexity",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "perplexity/sonar"
+    },
+    {
+      "name": "DeepSeek: R1 Distill Llama 70B",
+      "company": "deepseek",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "deepseek/deepseek-r1-distill-llama-70b"
+    },
+    {
+      "name": "DeepSeek: R1",
+      "company": "deepseek",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "deepseek/deepseek-r1"
+    },
+    {
+      "name": "MiniMax: MiniMax-01",
+      "company": "minimax",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "minimax/minimax-01"
+    },
+    {
+      "name": "Microsoft: Phi 4",
+      "company": "microsoft",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "microsoft/phi-4"
+    },
+    {
+      "name": "Sao10K: Llama 3.1 70B Hanami x1",
+      "company": "sao10k",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "sao10k/l3.1-70b-hanami-x1"
+    },
+    {
+      "name": "DeepSeek: DeepSeek V3",
+      "company": "deepseek",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "deepseek/deepseek-chat"
+    },
+    {
+      "name": "Sao10K: Llama 3.3 Euryale 70B",
+      "company": "sao10k",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "sao10k/l3.3-euryale-70b"
+    },
+    {
+      "name": "OpenAI: o1",
+      "company": "openai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "openai/o1"
+    },
+    {
+      "name": "Cohere: Command R7B (12-2024)",
+      "company": "cohere",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "cohere/command-r7b-12-2024"
+    },
+    {
+      "name": "Meta: Llama 3.3 70B Instruct (free)",
+      "company": "meta-llama",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "meta-llama/llama-3.3-70b-instruct:free"
+    },
+    {
+      "name": "Meta: Llama 3.3 70B Instruct",
+      "company": "meta-llama",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "meta-llama/llama-3.3-70b-instruct"
+    },
+    {
+      "name": "Amazon: Nova Lite 1.0",
+      "company": "amazon",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "amazon/nova-lite-v1"
+    },
+    {
+      "name": "Amazon: Nova Micro 1.0",
+      "company": "amazon",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "amazon/nova-micro-v1"
+    },
+    {
+      "name": "Amazon: Nova Pro 1.0",
+      "company": "amazon",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "amazon/nova-pro-v1"
+    },
+    {
+      "name": "OpenAI: GPT-4o (2024-11-20)",
+      "company": "openai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "openai/gpt-4o-2024-11-20"
+    },
+    {
+      "name": "Mistral Large 2411",
+      "company": "mistralai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "mistralai/mistral-large-2411"
+    },
+    {
+      "name": "Mistral Large 2407",
+      "company": "mistralai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "mistralai/mistral-large-2407"
+    },
+    {
+      "name": "Mistral: Pixtral Large 2411",
+      "company": "mistralai",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "mistralai/pixtral-large-2411"
+    },
+    {
+      "name": "Qwen2.5 Coder 32B Instruct",
+      "company": "qwen",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "qwen/qwen-2.5-coder-32b-instruct"
+    },
+    {
+      "name": "TheDrummer: UnslopNemo 12B",
+      "company": "thedrummer",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "thedrummer/unslopnemo-12b"
+    },
+    {
+      "name": "Anthropic: Claude 3.5 Haiku",
+      "company": "anthropic",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "anthropic/claude-3.5-haiku"
+    },
+    {
+      "name": "Magnum v4 72B",
+      "company": "anthracite-org",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "anthracite-org/magnum-v4-72b"
+    },
+    {
+      "name": "Anthropic: Claude 3.5 Sonnet",
+      "company": "anthropic",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "anthropic/claude-3.5-sonnet"
+    },
+    {
+      "name": "Qwen: Qwen2.5 7B Instruct",
+      "company": "qwen",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "qwen/qwen-2.5-7b-instruct"
+    },
+    {
+      "name": "NVIDIA: Llama 3.1 Nemotron 70B Instruct",
+      "company": "nvidia",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "nvidia/llama-3.1-nemotron-70b-instruct"
+    },
+    {
+      "name": "Inflection: Inflection 3 Pi",
+      "company": "inflection",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "inflection/inflection-3-pi"
+    },
+    {
+      "name": "Inflection: Inflection 3 Productivity",
+      "company": "inflection",
+      "company_country": null,
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "inflection/inflection-3-productivity"
+    }
+  ]
+}
