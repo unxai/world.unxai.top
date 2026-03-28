@@ -1,8 +1,8 @@
 {
   "countries": 11,
-  "models_total": 846,
+  "models_total": 668,
   "verified_models": 25,
-  "unverified_models": 821,
+  "unverified_models": 643,
   "issues": [
     {
       "country": "中国",
@@ -60,12 +60,6 @@
     },
     {
       "country": "中国",
-      "model": "MiniMax: MiniMax M2.5 (free)",
-      "company": "MiniMax",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
       "model": "MiniMax: MiniMax M2.5",
       "company": "MiniMax",
       "reason": "unverified"
@@ -86,12 +80,6 @@
       "country": "中国",
       "model": "Qwen: Qwen3 Coder Next",
       "company": "阿里云",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
-      "model": "StepFun: Step 3.5 Flash (free)",
-      "company": "阶跃星辰",
       "reason": "unverified"
     },
     {
@@ -258,12 +246,6 @@
     },
     {
       "country": "中国",
-      "model": "Qwen: Qwen3 Next 80B A3B Instruct (free)",
-      "company": "阿里云",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
       "model": "Qwen: Qwen3 Next 80B A3B Instruct",
       "company": "阿里云",
       "reason": "unverified"
@@ -336,12 +318,6 @@
     },
     {
       "country": "中国",
-      "model": "Z.ai: GLM 4.5 Air (free)",
-      "company": "智谱",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
       "model": "Z.ai: GLM 4.5 Air",
       "company": "智谱",
       "reason": "unverified"
@@ -356,12 +332,6 @@
       "country": "中国",
       "model": "Z.ai: GLM 4 32B ",
       "company": "智谱",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
-      "model": "Qwen: Qwen3 Coder 480B A35B (free)",
-      "company": "阿里云",
       "reason": "unverified"
     },
     {
@@ -895,12 +865,6 @@
     {
       "country": "中国",
       "model": "THUDM: GLM Z1 32B",
-      "company": "智谱",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
-      "model": "THUDM: GLM 4 32B",
       "company": "智谱",
       "reason": "unverified"
     },
@@ -1487,12 +1451,6 @@
       "reason": "unverified"
     },
     {
-      "country": "韩国",
-      "model": "Upstage: Solar Pro 3",
-      "company": "Upstage",
-      "reason": "unverified"
-    },
-    {
       "country": "印度",
       "model": "Sarvam AI: Sarvam-M",
       "company": "Sarvam AI",
@@ -1632,12 +1590,6 @@
     },
     {
       "country": "法国",
-      "model": "Mistral: Mistral Small 3.1 24B (free)",
-      "company": "Mistral AI",
-      "reason": "unverified"
-    },
-    {
-      "country": "法国",
       "model": "Mistral: Mistral Small 3.1 24B",
       "company": "Mistral AI",
       "reason": "unverified"
@@ -1740,114 +1692,6 @@
     },
     {
       "country": "法国",
-      "model": "Mistral: Mistral Small 4",
-      "company": "Mistral AI",
-      "reason": "unverified"
-    },
-    {
-      "country": "法国",
-      "model": "Mistral: Mistral Small Creative",
-      "company": "Mistral AI",
-      "reason": "unverified"
-    },
-    {
-      "country": "法国",
-      "model": "Mistral: Devstral 2 2512",
-      "company": "Mistral AI",
-      "reason": "unverified"
-    },
-    {
-      "country": "法国",
-      "model": "Mistral: Ministral 3 14B 2512",
-      "company": "Mistral AI",
-      "reason": "unverified"
-    },
-    {
-      "country": "法国",
-      "model": "Mistral: Ministral 3 8B 2512",
-      "company": "Mistral AI",
-      "reason": "unverified"
-    },
-    {
-      "country": "法国",
-      "model": "Mistral: Ministral 3 3B 2512",
-      "company": "Mistral AI",
-      "reason": "unverified"
-    },
-    {
-      "country": "法国",
-      "model": "Mistral: Mistral Large 3 2512",
-      "company": "Mistral AI",
-      "reason": "unverified"
-    },
-    {
-      "country": "法国",
-      "model": "Mistral: Voxtral Small 24B 2507",
-      "company": "Mistral AI",
-      "reason": "unverified"
-    },
-    {
-      "country": "法国",
-      "model": "Mistral: Mistral Medium 3.1",
-      "company": "Mistral AI",
-      "reason": "unverified"
-    },
-    {
-      "country": "法国",
-      "model": "Mistral: Codestral 2508",
-      "company": "Mistral AI",
-      "reason": "unverified"
-    },
-    {
-      "country": "法国",
-      "model": "Mistral: Devstral Medium",
-      "company": "Mistral AI",
-      "reason": "unverified"
-    },
-    {
-      "country": "法国",
-      "model": "Mistral: Devstral Small 1.1",
-      "company": "Mistral AI",
-      "reason": "unverified"
-    },
-    {
-      "country": "法国",
-      "model": "Mistral: Mistral Small 3.2 24B",
-      "company": "Mistral AI",
-      "reason": "unverified"
-    },
-    {
-      "country": "法国",
-      "model": "Mistral: Mistral Medium 3",
-      "company": "Mistral AI",
-      "reason": "unverified"
-    },
-    {
-      "country": "法国",
-      "model": "Mistral: Mistral Small 3.1 24B (free)",
-      "company": "Mistral AI",
-      "reason": "unverified"
-    },
-    {
-      "country": "法国",
-      "model": "Mistral: Mistral Small 3.1 24B",
-      "company": "Mistral AI",
-      "reason": "unverified"
-    },
-    {
-      "country": "法国",
-      "model": "Mistral: Saba",
-      "company": "Mistral AI",
-      "reason": "unverified"
-    },
-    {
-      "country": "法国",
-      "model": "Mistral: Mistral Small 3",
-      "company": "Mistral AI",
-      "reason": "unverified"
-    },
-    {
-      "country": "法国",
       "model": "Mistral Large 2411",
       "company": "Mistral AI",
       "reason": "unverified"
@@ -1860,37 +1704,7 @@
     },
     {
       "country": "法国",
-      "model": "Mistral: Pixtral Large 2411",
-      "company": "Mistral AI",
-      "reason": "unverified"
-    },
-    {
-      "country": "法国",
-      "model": "Mistral: Mistral Nemo",
-      "company": "Mistral AI",
-      "reason": "unverified"
-    },
-    {
-      "country": "法国",
-      "model": "Mistral: Mixtral 8x22B Instruct",
-      "company": "Mistral AI",
-      "reason": "unverified"
-    },
-    {
-      "country": "法国",
       "model": "Mistral Large",
-      "company": "Mistral AI",
-      "reason": "unverified"
-    },
-    {
-      "country": "法国",
-      "model": "Mistral: Mixtral 8x7B Instruct",
-      "company": "Mistral AI",
-      "reason": "unverified"
-    },
-    {
-      "country": "法国",
-      "model": "Mistral: Mistral 7B Instruct v0.1",
       "company": "Mistral AI",
       "reason": "unverified"
     },
@@ -2220,12 +2034,6 @@
     },
     {
       "country": "美国",
-      "model": "Nous: Hermes 3 405B Instruct (free)",
-      "company": "Nous",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
       "model": "Nous: Hermes 3 405B Instruct",
       "company": "Nous",
       "reason": "unverified"
@@ -2322,12 +2130,6 @@
     },
     {
       "country": "美国",
-      "model": "NVIDIA: Nemotron 3 Super (free)",
-      "company": "NVIDIA",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
       "model": "NVIDIA: Nemotron 3 Super",
       "company": "NVIDIA",
       "reason": "unverified"
@@ -2418,12 +2220,6 @@
     },
     {
       "country": "美国",
-      "model": "NVIDIA: Nemotron 3 Nano 30B A3B (free)",
-      "company": "NVIDIA",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
       "model": "NVIDIA: Nemotron 3 Nano 30B A3B",
       "company": "NVIDIA",
       "reason": "unverified"
@@ -2450,12 +2246,6 @@
       "country": "美国",
       "model": "Amazon: Nova 2 Lite",
       "company": "Amazon",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "Arcee AI: Trinity Mini (free)",
-      "company": "Arcee AI",
       "reason": "unverified"
     },
     {
@@ -2526,12 +2316,6 @@
     },
     {
       "country": "美国",
-      "model": "NVIDIA: Nemotron Nano 12B 2 VL (free)",
-      "company": "NVIDIA",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
       "model": "NVIDIA: Nemotron Nano 12B 2 VL",
       "company": "NVIDIA",
       "reason": "unverified"
@@ -2564,12 +2348,6 @@
       "country": "美国",
       "model": "Arcee AI: AFM 4.5B",
       "company": "Arcee AI",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "NVIDIA: Nemotron Nano 9B V2 (free)",
-      "company": "NVIDIA",
       "reason": "unverified"
     },
     {
@@ -3240,19 +3018,7 @@
     },
     {
       "country": "美国",
-      "model": "OpenAI: gpt-oss-120b (free)",
-      "company": "OpenAI",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
       "model": "OpenAI: gpt-oss-120b",
-      "company": "OpenAI",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "OpenAI: gpt-oss-20b (free)",
       "company": "OpenAI",
       "reason": "unverified"
     },
@@ -3338,12 +3104,6 @@
       "country": "美国",
       "model": "Anthropic: Claude Sonnet 4",
       "company": "Anthropic",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "Google: Gemma 3n 4B (free)",
-      "company": "Google",
       "reason": "unverified"
     },
     {
@@ -3456,12 +3216,6 @@
     },
     {
       "country": "美国",
-      "model": "Google: Gemma 3 4B (free)",
-      "company": "Google",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
       "model": "Google: Gemma 3 4B",
       "company": "Google",
       "reason": "unverified"
@@ -3480,12 +3234,6 @@
     },
     {
       "country": "美国",
-      "model": "Google: Gemma 3 12B (free)",
-      "company": "Google",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
       "model": "Google: Gemma 3 12B",
       "company": "Google",
       "reason": "unverified"
@@ -3500,12 +3248,6 @@
       "country": "美国",
       "model": "OpenAI: GPT-4o Search Preview",
       "company": "OpenAI",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "Google: Gemma 3 27B (free)",
-      "company": "Google",
       "reason": "unverified"
     },
     {
@@ -3582,12 +3324,6 @@
     },
     {
       "country": "美国",
-      "model": "Meta: Llama 3.3 70B Instruct (free)",
-      "company": "Meta",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
       "model": "Meta: Llama 3.3 70B Instruct",
       "company": "Meta",
       "reason": "unverified"
@@ -3656,12 +3392,6 @@
       "country": "美国",
       "model": "Google: Gemini 1.5 Flash 8B",
       "company": "Google",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "Meta: Llama 3.2 3B Instruct (free)",
-      "company": "Meta",
       "reason": "unverified"
     },
     {
@@ -4074,762 +3804,6 @@
     },
     {
       "country": "美国",
-      "model": "OpenAI: GPT-5.4 Nano",
-      "company": "OpenAI",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "OpenAI: GPT-5.4 Mini",
-      "company": "OpenAI",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "xAI: Grok 4.20 Multi-Agent Beta",
-      "company": "xAI",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "xAI: Grok 4.20 Beta",
-      "company": "xAI",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "OpenAI: GPT-5.4 Pro",
-      "company": "OpenAI",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "OpenAI: GPT-5.4",
-      "company": "OpenAI",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "OpenAI: GPT-5.3 Chat",
-      "company": "OpenAI",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "Google: Gemini 3.1 Flash Lite Preview",
-      "company": "Google",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "Google: Nano Banana 2 (Gemini 3.1 Flash Image Preview)",
-      "company": "Google",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "Google: Gemini 3.1 Pro Preview Custom Tools",
-      "company": "Google",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "OpenAI: GPT-5.3-Codex",
-      "company": "OpenAI",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "Google: Gemini 3.1 Pro Preview",
-      "company": "Google",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "Anthropic: Claude Sonnet 4.6",
-      "company": "Anthropic",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "Anthropic: Claude Opus 4.6",
-      "company": "Anthropic",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "OpenAI: GPT Audio",
-      "company": "OpenAI",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "OpenAI: GPT Audio Mini",
-      "company": "OpenAI",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "OpenAI: GPT-5.2-Codex",
-      "company": "OpenAI",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "Google: Gemini 3 Flash Preview",
-      "company": "Google",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "OpenAI: GPT-5.2 Chat",
-      "company": "OpenAI",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "OpenAI: GPT-5.2 Pro",
-      "company": "OpenAI",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "OpenAI: GPT-5.2",
-      "company": "OpenAI",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "OpenAI: GPT-5.1-Codex-Max",
-      "company": "OpenAI",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "Anthropic: Claude Opus 4.5",
-      "company": "Anthropic",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "Google: Nano Banana Pro (Gemini 3 Pro Image Preview)",
-      "company": "Google",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "xAI: Grok 4.1 Fast",
-      "company": "xAI",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "Google: Gemini 3 Pro Preview",
-      "company": "Google",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "OpenAI: GPT-5.1",
-      "company": "OpenAI",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "OpenAI: GPT-5.1 Chat",
-      "company": "OpenAI",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "OpenAI: GPT-5.1-Codex",
-      "company": "OpenAI",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "OpenAI: GPT-5.1-Codex-Mini",
-      "company": "OpenAI",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "OpenAI: gpt-oss-safeguard-20b",
-      "company": "OpenAI",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "OpenAI: GPT-5 Image Mini",
-      "company": "OpenAI",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "Anthropic: Claude Haiku 4.5",
-      "company": "Anthropic",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "OpenAI: GPT-5 Image",
-      "company": "OpenAI",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "OpenAI: o3 Deep Research",
-      "company": "OpenAI",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "OpenAI: o4 Mini Deep Research",
-      "company": "OpenAI",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "Google: Nano Banana (Gemini 2.5 Flash Image)",
-      "company": "Google",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "OpenAI: GPT-5 Pro",
-      "company": "OpenAI",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "Anthropic: Claude Sonnet 4.5",
-      "company": "Anthropic",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "Google: Gemini 2.5 Flash Lite Preview 09-2025",
-      "company": "Google",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "OpenAI: GPT-5 Codex",
-      "company": "OpenAI",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "xAI: Grok 4 Fast",
-      "company": "xAI",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "xAI: Grok Code Fast 1",
-      "company": "xAI",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "OpenAI: GPT-4o Audio",
-      "company": "OpenAI",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "AI21: Jamba Large 1.7",
-      "company": "AI21 Labs",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "OpenAI: GPT-5 Chat",
-      "company": "OpenAI",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "OpenAI: GPT-5",
-      "company": "OpenAI",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "OpenAI: GPT-5 Mini",
-      "company": "OpenAI",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "OpenAI: GPT-5 Nano",
-      "company": "OpenAI",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "OpenAI: gpt-oss-120b (free)",
-      "company": "OpenAI",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "OpenAI: gpt-oss-120b",
-      "company": "OpenAI",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "OpenAI: gpt-oss-20b (free)",
-      "company": "OpenAI",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "OpenAI: gpt-oss-20b",
-      "company": "OpenAI",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "Anthropic: Claude Opus 4.1",
-      "company": "Anthropic",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "Google: Gemini 2.5 Flash Lite",
-      "company": "Google",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "xAI: Grok 4",
-      "company": "xAI",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "Google: Gemma 3n 2B (free)",
-      "company": "Google",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "Google: Gemini 2.5 Flash",
-      "company": "Google",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "Google: Gemini 2.5 Pro",
-      "company": "Google",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "OpenAI: o3 Pro",
-      "company": "OpenAI",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "xAI: Grok 3 Mini",
-      "company": "xAI",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "xAI: Grok 3",
-      "company": "xAI",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "Google: Gemini 2.5 Pro Preview 06-05",
-      "company": "Google",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "Anthropic: Claude Opus 4",
-      "company": "Anthropic",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "Anthropic: Claude Sonnet 4",
-      "company": "Anthropic",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "Google: Gemma 3n 4B (free)",
-      "company": "Google",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "Google: Gemma 3n 4B",
-      "company": "Google",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "Google: Gemini 2.5 Pro Preview 05-06",
-      "company": "Google",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "OpenAI: o4 Mini High",
-      "company": "OpenAI",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "OpenAI: o3",
-      "company": "OpenAI",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "OpenAI: o4 Mini",
-      "company": "OpenAI",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "OpenAI: GPT-4.1",
-      "company": "OpenAI",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "OpenAI: GPT-4.1 Mini",
-      "company": "OpenAI",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "OpenAI: GPT-4.1 Nano",
-      "company": "OpenAI",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "xAI: Grok 3 Mini Beta",
-      "company": "xAI",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "xAI: Grok 3 Beta",
-      "company": "xAI",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "OpenAI: o1-pro",
-      "company": "OpenAI",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "Google: Gemma 3 4B (free)",
-      "company": "Google",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "Google: Gemma 3 4B",
-      "company": "Google",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "Google: Gemma 3 12B (free)",
-      "company": "Google",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "Google: Gemma 3 12B",
-      "company": "Google",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "OpenAI: GPT-4o-mini Search Preview",
-      "company": "OpenAI",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "OpenAI: GPT-4o Search Preview",
-      "company": "OpenAI",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "Google: Gemma 3 27B (free)",
-      "company": "Google",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "Google: Gemma 3 27B",
-      "company": "Google",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "Google: Gemini 2.0 Flash Lite",
-      "company": "Google",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "Anthropic: Claude 3.7 Sonnet",
-      "company": "Anthropic",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "Anthropic: Claude 3.7 Sonnet (thinking)",
-      "company": "Anthropic",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "OpenAI: o3 Mini High",
-      "company": "OpenAI",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "Google: Gemini 2.0 Flash",
-      "company": "Google",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "OpenAI: o3 Mini",
-      "company": "OpenAI",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "OpenAI: o1",
-      "company": "OpenAI",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "OpenAI: GPT-4o (2024-11-20)",
-      "company": "OpenAI",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "Anthropic: Claude 3.5 Haiku",
-      "company": "Anthropic",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "Anthropic: Claude 3.5 Sonnet",
-      "company": "Anthropic",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "OpenAI: GPT-4o (2024-08-06)",
-      "company": "OpenAI",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "OpenAI: GPT-4o-mini (2024-07-18)",
-      "company": "OpenAI",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "OpenAI: GPT-4o-mini",
-      "company": "OpenAI",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "Google: Gemma 2 27B",
-      "company": "Google",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "Google: Gemma 2 9B",
-      "company": "Google",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "OpenAI: GPT-4o (2024-05-13)",
-      "company": "OpenAI",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "OpenAI: GPT-4o",
-      "company": "OpenAI",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "OpenAI: GPT-4o (extended)",
-      "company": "OpenAI",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "OpenAI: GPT-4 Turbo",
-      "company": "OpenAI",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "Anthropic: Claude 3 Haiku",
-      "company": "Anthropic",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "OpenAI: GPT-3.5 Turbo (older v0613)",
-      "company": "OpenAI",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "OpenAI: GPT-4 Turbo Preview",
-      "company": "OpenAI",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "OpenAI: GPT-4 Turbo (older v1106)",
-      "company": "OpenAI",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "OpenAI: GPT-3.5 Turbo Instruct",
-      "company": "OpenAI",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "OpenAI: GPT-3.5 Turbo 16k",
-      "company": "OpenAI",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "OpenAI: GPT-4 (older v0314)",
-      "company": "OpenAI",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "OpenAI: GPT-4",
-      "company": "OpenAI",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "OpenAI: GPT-3.5 Turbo",
-      "company": "OpenAI",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "Writer: Palmyra X5",
-      "company": "Writer",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "Relace: Relace Search",
-      "company": "Relace",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "Nex AGI: DeepSeek V3.1 Nex N1",
-      "company": "Nex AGI",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "EssentialAI: Rnj 1 Instruct",
-      "company": "EssentialAI",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "Prime Intellect: INTELLECT-3",
-      "company": "Prime Intellect",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "Deep Cogito: Cogito v2.1 671B",
-      "company": "Deep Cogito",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "Relace: Relace Apply 3",
-      "company": "Relace",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "Morph: Morph V3 Large",
-      "company": "Morph",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "Morph: Morph V3 Fast",
-      "company": "Morph",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "EleutherAI: Llemma 7b",
-      "company": "EleutherAI",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "AlfredPros: CodeLLaMa 7B Instruct Solidity",
-      "company": "AlfredPros",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "Inflection: Inflection 3 Productivity",
-      "company": "Inflection",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "Inflection: Inflection 3 Pi",
-      "company": "Inflection",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
       "model": "WizardLM-2 8x22B",
       "company": "Microsoft",
       "reason": "unverified"
@@ -4838,18 +3812,6 @@
       "country": "美国",
       "model": "Reka Edge",
       "company": "Reka",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "NousResearch: Hermes 2 Pro - Llama-3 8B",
-      "company": "NousResearch",
-      "reason": "unverified"
-    },
-    {
-      "country": "美国",
-      "model": "Mancer: Weaver (alpha)",
-      "company": "Mancer",
       "reason": "unverified"
     },
     {
@@ -4896,37 +3858,7 @@
     },
     {
       "country": "加拿大",
-      "model": "Cohere: Command",
-      "company": "Cohere",
-      "reason": "unverified"
-    },
-    {
-      "country": "加拿大",
       "model": "Cohere: Command R (03-2024)",
-      "company": "Cohere",
-      "reason": "unverified"
-    },
-    {
-      "country": "加拿大",
-      "model": "Cohere: Command A",
-      "company": "Cohere",
-      "reason": "unverified"
-    },
-    {
-      "country": "加拿大",
-      "model": "Cohere: Command R7B (12-2024)",
-      "company": "Cohere",
-      "reason": "unverified"
-    },
-    {
-      "country": "加拿大",
-      "model": "Cohere: Command R (08-2024)",
-      "company": "Cohere",
-      "reason": "unverified"
-    },
-    {
-      "country": "加拿大",
-      "model": "Cohere: Command R+ (08-2024)",
       "company": "Cohere",
       "reason": "unverified"
     }
