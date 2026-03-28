@@ -4,7 +4,7 @@
     "flag": "🇨🇳",
     "continent": "亚洲",
     "has_models": true,
-    "model_count": 248,
+    "model_count": 157,
     "verified_model_count": 8,
     "pending_model_count": 94,
     "family_summary": [
@@ -103,7 +103,7 @@
         "company_country": "中国",
         "verified": true,
         "display_name": "通义千问",
-        "family": "Qwen"
+        "family": "阿里云"
       },
       {
         "name": "文心大模型",
@@ -114,7 +114,7 @@
         "company_country": "中国",
         "verified": true,
         "display_name": "文心大模型",
-        "family": "ERNIE"
+        "family": "百度"
       },
       {
         "name": "混元",
@@ -125,7 +125,7 @@
         "company_country": "中国",
         "verified": true,
         "display_name": "混元",
-        "family": "Hunyuan"
+        "family": "腾讯"
       },
       {
         "name": "豆包大模型",
@@ -136,7 +136,7 @@
         "company_country": "中国",
         "verified": true,
         "display_name": "豆包大模型",
-        "family": "豆包"
+        "family": "字节跳动"
       },
       {
         "name": "讯飞星火",
@@ -147,7 +147,7 @@
         "company_country": "中国",
         "verified": true,
         "display_name": "讯飞星火",
-        "family": "星火"
+        "family": "科大讯飞"
       },
       {
         "name": "GLM",
@@ -159,28 +159,6 @@
         "verified": true,
         "display_name": "GLM",
         "family": "GLM"
-      },
-      {
-        "name": "DeepSeek",
-        "company": "阿里云",
-        "type": "通用大语言模型",
-        "source": "manual",
-        "source_id": "",
-        "company_country": "中国",
-        "verified": true,
-        "display_name": "DeepSeek",
-        "family": "DeepSeek"
-      },
-      {
-        "name": "DeepSeek-R1",
-        "company": "阿里云",
-        "type": "推理大模型",
-        "source": "manual",
-        "source_id": "",
-        "company_country": "中国",
-        "verified": true,
-        "display_name": "DeepSeek-R1",
-        "family": "DeepSeek"
       },
       {
         "name": "MiniMax: MiniMax M2.7",
@@ -1195,17 +1173,6 @@
         "family": "字节跳动"
       },
       {
-        "name": "Reka Edge",
-        "company": "阿里云",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Reka Edge",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Reka Edge",
-        "family": "阿里云"
-      },
-      {
         "name": "Xiaomi: MiMo-V2-Omni",
         "company": "小米",
         "type": "大语言模型",
@@ -1228,28 +1195,6 @@
         "family": "小米"
       },
       {
-        "name": "Hunter Alpha",
-        "company": "阿里云",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Hunter Alpha",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Hunter Alpha",
-        "family": "阿里云"
-      },
-      {
-        "name": "Healer Alpha",
-        "company": "阿里云",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Healer Alpha",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Healer Alpha",
-        "family": "阿里云"
-      },
-      {
         "name": "ByteDance Seed: Seed-2.0-Lite",
         "company": "ByteDance Seed",
         "type": "大语言模型",
@@ -1270,39 +1215,6 @@
         "verified": false,
         "display_name": "Seed-2.0-Mini",
         "family": "ByteDance Seed"
-      },
-      {
-        "name": "Aurora Alpha",
-        "company": "阿里云",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Aurora Alpha",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Aurora Alpha",
-        "family": "阿里云"
-      },
-      {
-        "name": "Pony Alpha",
-        "company": "阿里云",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Pony Alpha",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Pony Alpha",
-        "family": "阿里云"
-      },
-      {
-        "name": "Free Models Router",
-        "company": "阿里云",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Free Models Router",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Free Models Router",
-        "family": "阿里云"
       },
       {
         "name": "ByteDance Seed: Seedream 4.5",
@@ -1349,28 +1261,6 @@
         "family": "小米"
       },
       {
-        "name": "Body Builder (beta)",
-        "company": "阿里云",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Body Builder (beta)",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Body Builder (beta)",
-        "family": "阿里云"
-      },
-      {
-        "name": "Bert-Nebulon Alpha",
-        "company": "阿里云",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Bert-Nebulon Alpha",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Bert-Nebulon Alpha",
-        "family": "阿里云"
-      },
-      {
         "name": "BAAI: bge-base-en-v1.5",
         "company": "智源",
         "type": "大语言模型",
@@ -1404,28 +1294,6 @@
         "family": "智源"
       },
       {
-        "name": "Sherlock Dash Alpha",
-        "company": "阿里云",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Sherlock Dash Alpha",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Sherlock Dash Alpha",
-        "family": "阿里云"
-      },
-      {
-        "name": "Sherlock Think Alpha",
-        "company": "阿里云",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Sherlock Think Alpha",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Sherlock Think Alpha",
-        "family": "阿里云"
-      },
-      {
         "name": "Kwaipilot: KAT-Coder-Pro V1",
         "company": "Kwaipilot",
         "type": "大语言模型",
@@ -1435,17 +1303,6 @@
         "verified": false,
         "display_name": "KAT-Coder-Pro V1",
         "family": "Kwaipilot"
-      },
-      {
-        "name": "Polaris Alpha",
-        "company": "阿里云",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Polaris Alpha",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Polaris Alpha",
-        "family": "阿里云"
       },
       {
         "name": "Qwen: Qwen3 Embedding 0.6B",
@@ -1481,17 +1338,6 @@
         "family": "Qwen"
       },
       {
-        "name": "Andromeda Alpha",
-        "company": "阿里云",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Andromeda Alpha",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Andromeda Alpha",
-        "family": "阿里云"
-      },
-      {
         "name": "OpenGVLab: InternVL3 78B",
         "company": "OpenGVLab",
         "type": "大语言模型",
@@ -1514,28 +1360,6 @@
         "family": "Meituan"
       },
       {
-        "name": "Sonoma Dusk Alpha",
-        "company": "阿里云",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Sonoma Dusk Alpha",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Sonoma Dusk Alpha",
-        "family": "阿里云"
-      },
-      {
-        "name": "Sonoma Sky Alpha",
-        "company": "阿里云",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Sonoma Sky Alpha",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Sonoma Sky Alpha",
-        "family": "阿里云"
-      },
-      {
         "name": "ByteDance: Seed OSS 36B Instruct",
         "company": "字节跳动",
         "type": "大语言模型",
@@ -1545,17 +1369,6 @@
         "verified": false,
         "display_name": "Seed OSS 36B Instruct",
         "family": "字节跳动"
-      },
-      {
-        "name": "Cogito V2 Preview Llama 109B",
-        "company": "阿里云",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Cogito V2 Preview Llama 109B",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Cogito V2 Preview Llama 109B",
-        "family": "Llama"
       },
       {
         "name": "StepFun: Step3",
@@ -1580,39 +1393,6 @@
         "family": "DeepSeek"
       },
       {
-        "name": "Horizon Beta",
-        "company": "阿里云",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Horizon Beta",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Horizon Beta",
-        "family": "阿里云"
-      },
-      {
-        "name": "Horizon Alpha",
-        "company": "阿里云",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Horizon Alpha",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Horizon Alpha",
-        "family": "阿里云"
-      },
-      {
-        "name": "Switchpoint Router",
-        "company": "阿里云",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Switchpoint Router",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Switchpoint Router",
-        "family": "阿里云"
-      },
-      {
         "name": "THUDM: GLM 4.1V 9B Thinking",
         "company": "智谱",
         "type": "大语言模型",
@@ -1622,17 +1402,6 @@
         "verified": false,
         "display_name": "GLM 4.1V 9B Thinking",
         "family": "GLM"
-      },
-      {
-        "name": "Cypher Alpha",
-        "company": "阿里云",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Cypher Alpha",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Cypher Alpha",
-        "family": "阿里云"
       },
       {
         "name": "MoonshotAI: Kimi Dev 72B",
@@ -1778,39 +1547,6 @@
         "family": "Kimi"
       },
       {
-        "name": "Optimus Alpha",
-        "company": "阿里云",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Optimus Alpha",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Optimus Alpha",
-        "family": "阿里云"
-      },
-      {
-        "name": "Quasar Alpha",
-        "company": "阿里云",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Quasar Alpha",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Quasar Alpha",
-        "family": "阿里云"
-      },
-      {
-        "name": "OpenHands LM 32B V0.1",
-        "company": "阿里云",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "OpenHands LM 32B V0.1",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "OpenHands LM 32B V0.1",
-        "family": "阿里云"
-      },
-      {
         "name": "DeepSeek: DeepSeek V3 Base",
         "company": "DeepSeek",
         "type": "大语言模型",
@@ -1820,28 +1556,6 @@
         "verified": false,
         "display_name": "DeepSeek V3 Base",
         "family": "DeepSeek"
-      },
-      {
-        "name": "Typhoon2 8B Instruct",
-        "company": "阿里云",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Typhoon2 8B Instruct",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Typhoon2 8B Instruct",
-        "family": "阿里云"
-      },
-      {
-        "name": "Typhoon2 70B Instruct",
-        "company": "阿里云",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Typhoon2 70B Instruct",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Typhoon2 70B Instruct",
-        "family": "阿里云"
       },
       {
         "name": "Bytedance: UI-TARS 72B ",
@@ -1864,28 +1578,6 @@
         "verified": false,
         "display_name": "Qwen2.5 VL 3B Instruct",
         "family": "Qwen"
-      },
-      {
-        "name": "Qrwkv 72B",
-        "company": "阿里云",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Qrwkv 72B",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Qrwkv 72B",
-        "family": "阿里云"
-      },
-      {
-        "name": "OlympicCoder 32B",
-        "company": "阿里云",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "OlympicCoder 32B",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "OlympicCoder 32B",
-        "family": "阿里云"
       },
       {
         "name": "DeepSeek: DeepSeek R1 Zero",
@@ -1921,50 +1613,6 @@
         "family": "Moonshot AI"
       },
       {
-        "name": "Dolphin3.0 R1 Mistral 24B",
-        "company": "阿里云",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Dolphin3.0 R1 Mistral 24B",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Dolphin3.0 R1 Mistral 24B",
-        "family": "Mistral"
-      },
-      {
-        "name": "Dolphin3.0 Mistral 24B",
-        "company": "阿里云",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Dolphin3.0 Mistral 24B",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Dolphin3.0 Mistral 24B",
-        "family": "Mistral"
-      },
-      {
-        "name": "Llama Guard 3 8B",
-        "company": "阿里云",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Llama Guard 3 8B",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Llama Guard 3 8B",
-        "family": "Llama"
-      },
-      {
-        "name": "Llama 3.1 Tulu 3 405B",
-        "company": "阿里云",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Llama 3.1 Tulu 3 405B",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Llama 3.1 Tulu 3 405B",
-        "family": "Llama"
-      },
-      {
         "name": "DeepSeek: R1 Distill Llama 8B",
         "company": "DeepSeek",
         "type": "大语言模型",
@@ -1998,17 +1646,6 @@
         "family": "Qwen"
       },
       {
-        "name": "EVA Llama 3.33 70B",
-        "company": "阿里云",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "EVA Llama 3.33 70B",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "EVA Llama 3.33 70B",
-        "family": "Llama"
-      },
-      {
         "name": "Qwen: QwQ 32B Preview",
         "company": "阿里云",
         "type": "大语言模型",
@@ -2017,116 +1654,6 @@
         "company_country": "中国",
         "verified": false,
         "display_name": "QwQ 32B Preview",
-        "family": "阿里云"
-      },
-      {
-        "name": "EVA Qwen2.5 72B",
-        "company": "阿里云",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "EVA Qwen2.5 72B",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "EVA Qwen2.5 72B",
-        "family": "Qwen"
-      },
-      {
-        "name": "Mistral Large 2411",
-        "company": "阿里云",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Mistral Large 2411",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Mistral Large 2411",
-        "family": "Mistral"
-      },
-      {
-        "name": "Mistral Large 2407",
-        "company": "阿里云",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Mistral Large 2407",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Mistral Large 2407",
-        "family": "Mistral"
-      },
-      {
-        "name": "SorcererLM 8x22B",
-        "company": "阿里云",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "SorcererLM 8x22B",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "SorcererLM 8x22B",
-        "family": "阿里云"
-      },
-      {
-        "name": "EVA Qwen2.5 32B",
-        "company": "阿里云",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "EVA Qwen2.5 32B",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "EVA Qwen2.5 32B",
-        "family": "Qwen"
-      },
-      {
-        "name": "Magnum v4 72B",
-        "company": "阿里云",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Magnum v4 72B",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Magnum v4 72B",
-        "family": "阿里云"
-      },
-      {
-        "name": "Magnum v2 72B",
-        "company": "阿里云",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Magnum v2 72B",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Magnum v2 72B",
-        "family": "阿里云"
-      },
-      {
-        "name": "EVA Qwen2.5 14B",
-        "company": "阿里云",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "EVA Qwen2.5 14B",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "EVA Qwen2.5 14B",
-        "family": "Qwen"
-      },
-      {
-        "name": "Reflection 70B",
-        "company": "阿里云",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Reflection 70B",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Reflection 70B",
-        "family": "阿里云"
-      },
-      {
-        "name": "Yi 1.5 34B Chat",
-        "company": "阿里云",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Yi 1.5 34B Chat",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Yi 1.5 34B Chat",
         "family": "阿里云"
       },
       {
@@ -2152,17 +1679,6 @@
         "family": "零一万物"
       },
       {
-        "name": "Mistral Nemo 12B Celeste",
-        "company": "阿里云",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Mistral Nemo 12B Celeste",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Mistral Nemo 12B Celeste",
-        "family": "Mistral"
-      },
-      {
         "name": "01.AI: Yi Vision",
         "company": "零一万物",
         "type": "大语言模型",
@@ -2172,17 +1688,6 @@
         "verified": false,
         "display_name": "Yi Vision",
         "family": "零一万物"
-      },
-      {
-        "name": "Dolphin Llama 3 70B 🐬",
-        "company": "阿里云",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Dolphin Llama 3 70B 🐬",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Dolphin Llama 3 70B 🐬",
-        "family": "Llama"
       },
       {
         "name": "Qwen 2 7B Instruct",
@@ -2196,17 +1701,6 @@
         "family": "Qwen"
       },
       {
-        "name": "Magnum 72B",
-        "company": "阿里云",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Magnum 72B",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Magnum 72B",
-        "family": "阿里云"
-      },
-      {
         "name": "01.AI: Yi Large",
         "company": "零一万物",
         "type": "大语言模型",
@@ -2218,28 +1712,6 @@
         "family": "零一万物"
       },
       {
-        "name": "StarCoder2 15B Instruct",
-        "company": "阿里云",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "StarCoder2 15B Instruct",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "StarCoder2 15B Instruct",
-        "family": "阿里云"
-      },
-      {
-        "name": "Dolphin 2.9.2 Mixtral 8x22B 🐬",
-        "company": "阿里云",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Dolphin 2.9.2 Mixtral 8x22B 🐬",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Dolphin 2.9.2 Mixtral 8x22B 🐬",
-        "family": "Mixtral"
-      },
-      {
         "name": "Qwen 2 72B Instruct",
         "company": "阿里云",
         "type": "大语言模型",
@@ -2249,50 +1721,6 @@
         "verified": false,
         "display_name": "Qwen 2 72B Instruct",
         "family": "Qwen"
-      },
-      {
-        "name": "OpenChat 3.6 8B",
-        "company": "阿里云",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "OpenChat 3.6 8B",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "OpenChat 3.6 8B",
-        "family": "阿里云"
-      },
-      {
-        "name": "DeepSeek V2.5",
-        "company": "阿里云",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "DeepSeek V2.5",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "DeepSeek V2.5",
-        "family": "DeepSeek"
-      },
-      {
-        "name": "LLaVA v1.6 34B",
-        "company": "阿里云",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "LLaVA v1.6 34B",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "LLaVA v1.6 34B",
-        "family": "阿里云"
-      },
-      {
-        "name": "OLMo 7B Instruct",
-        "company": "阿里云",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "OLMo 7B Instruct",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "OLMo 7B Instruct",
-        "family": "阿里云"
       },
       {
         "name": "Qwen 1.5 32B Chat",
@@ -2361,72 +1789,6 @@
         "family": "Qwen"
       },
       {
-        "name": "Fimbulvetr 11B v2",
-        "company": "阿里云",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Fimbulvetr 11B v2",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Fimbulvetr 11B v2",
-        "family": "阿里云"
-      },
-      {
-        "name": "WizardLM-2 7B",
-        "company": "阿里云",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "WizardLM-2 7B",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "WizardLM-2 7B",
-        "family": "阿里云"
-      },
-      {
-        "name": "WizardLM-2 8x22B",
-        "company": "阿里云",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "WizardLM-2 8x22B",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "WizardLM-2 8x22B",
-        "family": "阿里云"
-      },
-      {
-        "name": "Zephyr 141B-A35B",
-        "company": "阿里云",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Zephyr 141B-A35B",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Zephyr 141B-A35B",
-        "family": "阿里云"
-      },
-      {
-        "name": "Midnight Rose 70B",
-        "company": "阿里云",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Midnight Rose 70B",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Midnight Rose 70B",
-        "family": "阿里云"
-      },
-      {
-        "name": "Mistral Large",
-        "company": "阿里云",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Mistral Large",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Mistral Large",
-        "family": "Mistral"
-      },
-      {
         "name": "RWKV v5: Eagle 7B",
         "company": "RWKV v5",
         "type": "大语言模型",
@@ -2438,389 +1800,26 @@
         "family": "RWKV v5"
       },
       {
-        "name": "Yi 34B 200K",
-        "company": "阿里云",
+        "name": "DeepSeek",
+        "company": "DeepSeek",
         "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Yi 34B 200K",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Yi 34B 200K",
-        "family": "阿里云"
-      },
-      {
-        "name": "Mistral Medium",
-        "company": "阿里云",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Mistral Medium",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Mistral Medium",
-        "family": "Mistral"
-      },
-      {
-        "name": "Mistral Small",
-        "company": "阿里云",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Mistral Small",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Mistral Small",
-        "family": "Mistral"
-      },
-      {
-        "name": "Mistral Tiny",
-        "company": "阿里云",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Mistral Tiny",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Mistral Tiny",
-        "family": "Mistral"
-      },
-      {
-        "name": "Bagel 34B v0.2",
-        "company": "阿里云",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Bagel 34B v0.2",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Bagel 34B v0.2",
-        "family": "阿里云"
-      },
-      {
-        "name": "Noromaid Mixtral 8x7B Instruct",
-        "company": "阿里云",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Noromaid Mixtral 8x7B Instruct",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Noromaid Mixtral 8x7B Instruct",
-        "family": "Mixtral"
-      },
-      {
-        "name": "Dolphin 2.6 Mixtral 8x7B 🐬",
-        "company": "阿里云",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Dolphin 2.6 Mixtral 8x7B 🐬",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Dolphin 2.6 Mixtral 8x7B 🐬",
-        "family": "Mixtral"
-      },
-      {
-        "name": "RWKV v5 World 3B",
-        "company": "阿里云",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "RWKV v5 World 3B",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "RWKV v5 World 3B",
-        "family": "阿里云"
-      },
-      {
-        "name": "RWKV v5 3B AI Town",
-        "company": "阿里云",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "RWKV v5 3B AI Town",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "RWKV v5 3B AI Town",
-        "family": "阿里云"
-      },
-      {
-        "name": "StripedHyena Hessian 7B (base)",
-        "company": "阿里云",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "StripedHyena Hessian 7B (base)",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "StripedHyena Hessian 7B (base)",
-        "family": "阿里云"
-      },
-      {
-        "name": "StripedHyena Nous 7B",
-        "company": "阿里云",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "StripedHyena Nous 7B",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "StripedHyena Nous 7B",
-        "family": "阿里云"
-      },
-      {
-        "name": "Psyfighter v2 13B",
-        "company": "阿里云",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Psyfighter v2 13B",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Psyfighter v2 13B",
-        "family": "阿里云"
-      },
-      {
-        "name": "Yi 34B Chat",
-        "company": "阿里云",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Yi 34B Chat",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Yi 34B Chat",
-        "family": "阿里云"
-      },
-      {
-        "name": "MythoMist 7B",
-        "company": "阿里云",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "MythoMist 7B",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "MythoMist 7B",
-        "family": "阿里云"
-      },
-      {
-        "name": "Yi 34B (base)",
-        "company": "阿里云",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Yi 34B (base)",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Yi 34B (base)",
-        "family": "阿里云"
-      },
-      {
-        "name": "Yi 6B (base)",
-        "company": "阿里云",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Yi 6B (base)",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Yi 6B (base)",
-        "family": "阿里云"
-      },
-      {
-        "name": "Cinematika 7B (alpha)",
-        "company": "阿里云",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Cinematika 7B (alpha)",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Cinematika 7B (alpha)",
-        "family": "阿里云"
-      },
-      {
-        "name": "Psyfighter 13B",
-        "company": "阿里云",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Psyfighter 13B",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Psyfighter 13B",
-        "family": "阿里云"
-      },
-      {
-        "name": "OpenChat 3.5 7B",
-        "company": "阿里云",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "OpenChat 3.5 7B",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "OpenChat 3.5 7B",
-        "family": "阿里云"
-      },
-      {
-        "name": "Noromaid 20B",
-        "company": "阿里云",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Noromaid 20B",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Noromaid 20B",
-        "family": "阿里云"
-      },
-      {
-        "name": "Neural Chat 7B v3.1",
-        "company": "阿里云",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Neural Chat 7B v3.1",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Neural Chat 7B v3.1",
-        "family": "阿里云"
-      },
-      {
-        "name": "OpenHermes 2.5 Mistral 7B",
-        "company": "阿里云",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "OpenHermes 2.5 Mistral 7B",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "OpenHermes 2.5 Mistral 7B",
-        "family": "Mistral"
-      },
-      {
-        "name": "LLaVA 13B",
-        "company": "阿里云",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "LLaVA 13B",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "LLaVA 13B",
-        "family": "阿里云"
-      },
-      {
-        "name": "lzlv 70B",
-        "company": "阿里云",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "lzlv 70B",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "lzlv 70B",
-        "family": "阿里云"
-      },
-      {
-        "name": "Goliath 120B",
-        "company": "阿里云",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Goliath 120B",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Goliath 120B",
-        "family": "阿里云"
-      },
-      {
-        "name": "Toppy M 7B",
-        "company": "阿里云",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Toppy M 7B",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Toppy M 7B",
-        "family": "阿里云"
-      },
-      {
-        "name": "Auto Router",
-        "company": "阿里云",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Auto Router",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Auto Router",
-        "family": "阿里云"
-      },
-      {
-        "name": "OpenHermes 2 Mistral 7B",
-        "company": "阿里云",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "OpenHermes 2 Mistral 7B",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "OpenHermes 2 Mistral 7B",
-        "family": "Mistral"
-      },
-      {
-        "name": "Mistral OpenOrca 7B",
-        "company": "阿里云",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Mistral OpenOrca 7B",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Mistral OpenOrca 7B",
-        "family": "Mistral"
-      },
-      {
-        "name": "Airoboros 70B",
-        "company": "阿里云",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Airoboros 70B",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Airoboros 70B",
-        "family": "阿里云"
-      },
-      {
-        "name": "Xwin 70B",
-        "company": "阿里云",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Xwin 70B",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Xwin 70B",
-        "family": "阿里云"
-      },
-      {
-        "name": "Synthia 70B",
-        "company": "阿里云",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Synthia 70B",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Synthia 70B",
-        "family": "阿里云"
-      },
-      {
-        "name": "ReMM SLERP 13B",
-        "company": "阿里云",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "ReMM SLERP 13B",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "ReMM SLERP 13B",
-        "family": "阿里云"
-      },
-      {
-        "name": "MythoMax 13B",
-        "company": "阿里云",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "MythoMax 13B",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "MythoMax 13B",
-        "family": "阿里云"
-      },
-      {
-        "name": "Fugaku-LLM",
-        "company": "阿里云",
-        "type": "大语言模型",
-        "source": "manual",
-        "source_id": "",
+        "source": "Manual",
+        "source_id": "DeepSeek",
         "company_country": "中国",
         "verified": true,
-        "display_name": "Fugaku-LLM",
-        "family": "阿里云"
+        "display_name": "DeepSeek",
+        "family": "DeepSeek"
+      },
+      {
+        "name": "DeepSeek-R1",
+        "company": "DeepSeek",
+        "type": "大语言模型",
+        "source": "Manual",
+        "source_id": "DeepSeek-R1",
+        "company_country": "中国",
+        "verified": true,
+        "display_name": "DeepSeek-R1",
+        "family": "DeepSeek"
       }
     ]
   },
