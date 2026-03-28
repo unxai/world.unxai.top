@@ -4,7 +4,7 @@
     "flag": "🇨🇳",
     "continent": "亚洲",
     "has_models": true,
-    "model_count": 321,
+    "model_count": 268,
     "verified_model_count": 8,
     "pending_model_count": 94,
     "family_summary": [
@@ -1360,28 +1360,6 @@
         "family": "阿里云"
       },
       {
-        "name": "Upstage: Solar Pro 3",
-        "company": "Upstage",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Upstage: Solar Pro 3",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Solar Pro 3",
-        "family": "Upstage"
-      },
-      {
-        "name": "Writer: Palmyra X5",
-        "company": "Writer",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Writer: Palmyra X5",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Palmyra X5",
-        "family": "Writer"
-      },
-      {
         "name": "ByteDance Seed: Seedream 4.5",
         "company": "ByteDance Seed",
         "type": "大语言模型",
@@ -1426,39 +1404,6 @@
         "family": "小米"
       },
       {
-        "name": "Relace: Relace Search",
-        "company": "Relace",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Relace: Relace Search",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Relace Search",
-        "family": "Relace"
-      },
-      {
-        "name": "Nex AGI: DeepSeek V3.1 Nex N1",
-        "company": "Nex AGI",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Nex AGI: DeepSeek V3.1 Nex N1",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "DeepSeek V3.1 Nex N1",
-        "family": "DeepSeek"
-      },
-      {
-        "name": "EssentialAI: Rnj 1 Instruct",
-        "company": "EssentialAI",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "EssentialAI: Rnj 1 Instruct",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Rnj 1 Instruct",
-        "family": "EssentialAI"
-      },
-      {
         "name": "Body Builder (beta)",
         "company": "阿里云",
         "type": "大语言模型",
@@ -1470,17 +1415,6 @@
         "family": "阿里云"
       },
       {
-        "name": "Prime Intellect: INTELLECT-3",
-        "company": "Prime Intellect",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Prime Intellect: INTELLECT-3",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "INTELLECT-3",
-        "family": "Prime Intellect"
-      },
-      {
         "name": "Bert-Nebulon Alpha",
         "company": "阿里云",
         "type": "大语言模型",
@@ -1490,28 +1424,6 @@
         "verified": false,
         "display_name": "Bert-Nebulon Alpha",
         "family": "阿里云"
-      },
-      {
-        "name": "Thenlper: GTE-Base",
-        "company": "Thenlper",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Thenlper: GTE-Base",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "GTE-Base",
-        "family": "Thenlper"
-      },
-      {
-        "name": "Thenlper: GTE-Large",
-        "company": "Thenlper",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Thenlper: GTE-Large",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "GTE-Large",
-        "family": "Thenlper"
       },
       {
         "name": "BAAI: bge-base-en-v1.5",
@@ -1567,17 +1479,6 @@
         "verified": false,
         "display_name": "Sherlock Think Alpha",
         "family": "阿里云"
-      },
-      {
-        "name": "Deep Cogito: Cogito v2.1 671B",
-        "company": "Deep Cogito",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Deep Cogito: Cogito v2.1 671B",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Cogito v2.1 671B",
-        "family": "Deep Cogito"
       },
       {
         "name": "Kwaipilot: KAT-Coder-Pro V1",
@@ -1646,39 +1547,6 @@
         "family": "阿里云"
       },
       {
-        "name": "IBM: Granite 4.0 Micro",
-        "company": "IBM",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "IBM: Granite 4.0 Micro",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Granite 4.0 Micro",
-        "family": "IBM"
-      },
-      {
-        "name": "Deep Cogito: Cogito V2 Preview Llama 405B",
-        "company": "Deep Cogito",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Deep Cogito: Cogito V2 Preview Llama 405B",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Cogito V2 Preview Llama 405B",
-        "family": "Llama"
-      },
-      {
-        "name": "Relace: Relace Apply 3",
-        "company": "Relace",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Relace: Relace Apply 3",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Relace Apply 3",
-        "family": "Relace"
-      },
-      {
         "name": "OpenGVLab: InternVL3 78B",
         "company": "OpenGVLab",
         "type": "大语言模型",
@@ -1734,17 +1602,6 @@
         "family": "字节跳动"
       },
       {
-        "name": "Deep Cogito: Cogito V2 Preview Llama 70B",
-        "company": "Deep Cogito",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Deep Cogito: Cogito V2 Preview Llama 70B",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Cogito V2 Preview Llama 70B",
-        "family": "Llama"
-      },
-      {
         "name": "Cogito V2 Preview Llama 109B",
         "company": "阿里云",
         "type": "大语言模型",
@@ -1756,17 +1613,6 @@
         "family": "Llama"
       },
       {
-        "name": "Deep Cogito: Cogito V2 Preview Deepseek 671B",
-        "company": "Deep Cogito",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Deep Cogito: Cogito V2 Preview Deepseek 671B",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Cogito V2 Preview Deepseek 671B",
-        "family": "DeepSeek"
-      },
-      {
         "name": "StepFun: Step3",
         "company": "阶跃星辰",
         "type": "大语言模型",
@@ -1776,28 +1622,6 @@
         "verified": false,
         "display_name": "Step3",
         "family": "Step"
-      },
-      {
-        "name": "Nous: Hermes 4 70B",
-        "company": "Nous",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Nous: Hermes 4 70B",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Hermes 4 70B",
-        "family": "Nous"
-      },
-      {
-        "name": "Nous: Hermes 4 405B",
-        "company": "Nous",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Nous: Hermes 4 405B",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Hermes 4 405B",
-        "family": "Nous"
       },
       {
         "name": "DeepSeek: DeepSeek V3.1 Base",
@@ -1855,39 +1679,6 @@
         "family": "GLM"
       },
       {
-        "name": "Venice: Uncensored (free)",
-        "company": "Venice",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Venice: Uncensored (free)",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Uncensored",
-        "family": "Venice"
-      },
-      {
-        "name": "Morph: Morph V3 Large",
-        "company": "Morph",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Morph: Morph V3 Large",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Morph V3 Large",
-        "family": "Morph"
-      },
-      {
-        "name": "Morph: Morph V3 Fast",
-        "company": "Morph",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Morph: Morph V3 Fast",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Morph V3 Fast",
-        "family": "Morph"
-      },
-      {
         "name": "Cypher Alpha",
         "company": "阿里云",
         "type": "大语言模型",
@@ -1899,17 +1690,6 @@
         "family": "阿里云"
       },
       {
-        "name": "Morph: Fast Apply",
-        "company": "Morph",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Morph: Fast Apply",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Fast Apply",
-        "family": "Morph"
-      },
-      {
         "name": "MoonshotAI: Kimi Dev 72B",
         "company": "Moonshot AI",
         "type": "大语言模型",
@@ -1919,17 +1699,6 @@
         "verified": false,
         "display_name": "Kimi Dev 72B",
         "family": "Kimi"
-      },
-      {
-        "name": "SentientAGI: Dobby Mini Plus Llama 3.1 8B",
-        "company": "SentientAGI",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "SentientAGI: Dobby Mini Plus Llama 3.1 8B",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Dobby Mini Plus Llama 3.1 8B",
-        "family": "Llama"
       },
       {
         "name": "DeepSeek: R1 Distill Qwen 7B",
@@ -1952,28 +1721,6 @@
         "verified": false,
         "display_name": "DeepSeek R1 0528 Qwen3 8B",
         "family": "Qwen"
-      },
-      {
-        "name": "Sarvam AI: Sarvam-M",
-        "company": "Sarvam AI",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Sarvam AI: Sarvam-M",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Sarvam-M",
-        "family": "Sarvam AI"
-      },
-      {
-        "name": "Nous: DeepHermes 3 Mistral 24B Preview",
-        "company": "Nous",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Nous: DeepHermes 3 Mistral 24B Preview",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "DeepHermes 3 Mistral 24B Preview",
-        "family": "Mistral"
       },
       {
         "name": "Qwen: Qwen3 0.6B",
@@ -2086,50 +1833,6 @@
         "family": "GLM"
       },
       {
-        "name": "EleutherAI: Llemma 7b",
-        "company": "EleutherAI",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "EleutherAI: Llemma 7b",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Llemma 7b",
-        "family": "EleutherAI"
-      },
-      {
-        "name": "AlfredPros: CodeLLaMa 7B Instruct Solidity",
-        "company": "AlfredPros",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "AlfredPros: CodeLLaMa 7B Instruct Solidity",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "CodeLLaMa 7B Instruct Solidity",
-        "family": "Llama"
-      },
-      {
-        "name": "ArliAI: QwQ 32B RpR v1",
-        "company": "ArliAI",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "ArliAI: QwQ 32B RpR v1",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "QwQ 32B RpR v1",
-        "family": "ArliAI"
-      },
-      {
-        "name": "Agentica: Deepcoder 14B Preview",
-        "company": "Agentica",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Agentica: Deepcoder 14B Preview",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Deepcoder 14B Preview",
-        "family": "Agentica"
-      },
-      {
         "name": "MoonshotAI: Kimi VL A3B Thinking",
         "company": "Moonshot AI",
         "type": "大语言模型",
@@ -2150,17 +1853,6 @@
         "verified": false,
         "display_name": "Optimus Alpha",
         "family": "阿里云"
-      },
-      {
-        "name": "Swallow: Llama 3.1 Swallow 8B Instruct V0.3",
-        "company": "Swallow",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Swallow: Llama 3.1 Swallow 8B Instruct V0.3",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Llama 3.1 Swallow 8B Instruct V0.3",
-        "family": "Llama"
       },
       {
         "name": "Quasar Alpha",
@@ -2328,17 +2020,6 @@
         "family": "Moonshot AI"
       },
       {
-        "name": "Nous: DeepHermes 3 Llama 3 8B Preview",
-        "company": "Nous",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Nous: DeepHermes 3 Llama 3 8B Preview",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "DeepHermes 3 Llama 3 8B Preview",
-        "family": "Llama"
-      },
-      {
         "name": "Dolphin3.0 R1 Mistral 24B",
         "company": "阿里云",
         "type": "大语言模型",
@@ -2414,28 +2095,6 @@
         "verified": false,
         "display_name": "R1 Distill Qwen 14B",
         "family": "Qwen"
-      },
-      {
-        "name": "Liquid: LFM 7B",
-        "company": "Liquid",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Liquid: LFM 7B",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "LFM 7B",
-        "family": "Liquid"
-      },
-      {
-        "name": "Liquid: LFM 3B",
-        "company": "Liquid",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Liquid: LFM 3B",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "LFM 3B",
-        "family": "Liquid"
       },
       {
         "name": "Inflatebot: Mag Mell R1 12B",
@@ -2548,39 +2207,6 @@
         "family": "阿里云"
       },
       {
-        "name": "NeverSleep: Lumimaid v0.2 70B",
-        "company": "NeverSleep",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "NeverSleep: Lumimaid v0.2 70B",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Lumimaid v0.2 70B",
-        "family": "NeverSleep"
-      },
-      {
-        "name": "Inflection: Inflection 3 Productivity",
-        "company": "Inflection",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Inflection: Inflection 3 Productivity",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Inflection 3 Productivity",
-        "family": "Inflection"
-      },
-      {
-        "name": "Inflection: Inflection 3 Pi",
-        "company": "Inflection",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Inflection: Inflection 3 Pi",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Inflection 3 Pi",
-        "family": "Inflection"
-      },
-      {
         "name": "Magnum v2 72B",
         "company": "阿里云",
         "type": "大语言模型",
@@ -2603,28 +2229,6 @@
         "family": "Qwen"
       },
       {
-        "name": "Liquid: LFM 40B MoE",
-        "company": "Liquid",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Liquid: LFM 40B MoE",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "LFM 40B MoE",
-        "family": "Liquid"
-      },
-      {
-        "name": "NeverSleep: Lumimaid v0.2 8B",
-        "company": "NeverSleep",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "NeverSleep: Lumimaid v0.2 8B",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Lumimaid v0.2 8B",
-        "family": "NeverSleep"
-      },
-      {
         "name": "Reflection 70B",
         "company": "阿里云",
         "type": "大语言模型",
@@ -2636,17 +2240,6 @@
         "family": "阿里云"
       },
       {
-        "name": "Lynn: Llama 3 Soliloquy 7B v3 32K",
-        "company": "Lynn",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Lynn: Llama 3 Soliloquy 7B v3 32K",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Llama 3 Soliloquy 7B v3 32K",
-        "family": "Llama"
-      },
-      {
         "name": "Yi 1.5 34B Chat",
         "company": "阿里云",
         "type": "大语言模型",
@@ -2656,39 +2249,6 @@
         "verified": false,
         "display_name": "Yi 1.5 34B Chat",
         "family": "阿里云"
-      },
-      {
-        "name": "Nous: Hermes 3 70B Instruct",
-        "company": "Nous",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Nous: Hermes 3 70B Instruct",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Hermes 3 70B Instruct",
-        "family": "Nous"
-      },
-      {
-        "name": "Nous: Hermes 3 405B Instruct (free)",
-        "company": "Nous",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Nous: Hermes 3 405B Instruct (free)",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Hermes 3 405B Instruct",
-        "family": "Nous"
-      },
-      {
-        "name": "Nous: Hermes 3 405B Instruct",
-        "company": "Nous",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Nous: Hermes 3 405B Instruct",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Hermes 3 405B Instruct",
-        "family": "Nous"
       },
       {
         "name": "Aetherwiing: Starcannon 12B",
@@ -2768,17 +2328,6 @@
         "family": "Qwen"
       },
       {
-        "name": "Nous: Hermes 2 Theta 8B",
-        "company": "Nous",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Nous: Hermes 2 Theta 8B",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Hermes 2 Theta 8B",
-        "family": "Nous"
-      },
-      {
         "name": "Magnum 72B",
         "company": "阿里云",
         "type": "大语言模型",
@@ -2853,17 +2402,6 @@
         "company_country": "中国",
         "verified": false,
         "display_name": "Hermes 2 Pro - Llama-3 8B",
-        "family": "Llama"
-      },
-      {
-        "name": "NeverSleep: Llama 3 Lumimaid 70B",
-        "company": "NeverSleep",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "NeverSleep: Llama 3 Lumimaid 70B",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Llama 3 Lumimaid 70B",
         "family": "Llama"
       },
       {
@@ -2966,17 +2504,6 @@
         "family": "Qwen"
       },
       {
-        "name": "NeverSleep: Llama 3 Lumimaid 8B",
-        "company": "NeverSleep",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "NeverSleep: Llama 3 Lumimaid 8B",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Llama 3 Lumimaid 8B",
-        "family": "Llama"
-      },
-      {
         "name": "Snowflake: Arctic Instruct",
         "company": "Snowflake",
         "type": "大语言模型",
@@ -2997,17 +2524,6 @@
         "verified": false,
         "display_name": "FireLLaVA 13B",
         "family": "Fireworks"
-      },
-      {
-        "name": "Lynn: Llama 3 Soliloquy 8B v2",
-        "company": "Lynn",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Lynn: Llama 3 Soliloquy 8B v2",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Llama 3 Soliloquy 8B v2",
-        "family": "Llama"
       },
       {
         "name": "Fimbulvetr 11B v2",
@@ -3087,17 +2603,6 @@
         "family": "Mistral"
       },
       {
-        "name": "Nous: Hermes 2 Mistral 7B DPO",
-        "company": "Nous",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Nous: Hermes 2 Mistral 7B DPO",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Hermes 2 Mistral 7B DPO",
-        "family": "Mistral"
-      },
-      {
         "name": "RWKV v5: Eagle 7B",
         "company": "RWKV v5",
         "type": "大语言模型",
@@ -3118,28 +2623,6 @@
         "verified": false,
         "display_name": "Yi 34B 200K",
         "family": "阿里云"
-      },
-      {
-        "name": "Nous: Hermes 2 Mixtral 8x7B DPO",
-        "company": "Nous",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Nous: Hermes 2 Mixtral 8x7B DPO",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Hermes 2 Mixtral 8x7B DPO",
-        "family": "Mixtral"
-      },
-      {
-        "name": "Nous: Hermes 2 Mixtral 8x7B SFT",
-        "company": "Nous",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Nous: Hermes 2 Mixtral 8x7B SFT",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Hermes 2 Mixtral 8x7B SFT",
-        "family": "Mixtral"
       },
       {
         "name": "Mistral Medium",
@@ -3195,17 +2678,6 @@
         "verified": false,
         "display_name": "Noromaid Mixtral 8x7B Instruct",
         "family": "Mixtral"
-      },
-      {
-        "name": "Nous: Hermes 2 Yi 34B",
-        "company": "Nous",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Nous: Hermes 2 Yi 34B",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Hermes 2 Yi 34B",
-        "family": "Nous"
       },
       {
         "name": "Dolphin 2.6 Mixtral 8x7B 🐬",
@@ -3307,17 +2779,6 @@
         "family": "阿里云"
       },
       {
-        "name": "Nous: Hermes 2 Vision 7B (alpha)",
-        "company": "Nous",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Nous: Hermes 2 Vision 7B (alpha)",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Hermes 2 Vision 7B (alpha)",
-        "family": "Nous"
-      },
-      {
         "name": "Yi 6B (base)",
         "company": "阿里云",
         "type": "大语言模型",
@@ -3338,17 +2799,6 @@
         "verified": false,
         "display_name": "Cinematika 7B (alpha)",
         "family": "阿里云"
-      },
-      {
-        "name": "Nous: Capybara 7B",
-        "company": "Nous",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Nous: Capybara 7B",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Capybara 7B",
-        "family": "Nous"
       },
       {
         "name": "Psyfighter 13B",
@@ -3415,17 +2865,6 @@
         "verified": false,
         "display_name": "LLaVA 13B",
         "family": "阿里云"
-      },
-      {
-        "name": "Nous: Capybara 34B",
-        "company": "Nous",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Nous: Capybara 34B",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Capybara 34B",
-        "family": "Nous"
       },
       {
         "name": "lzlv 70B",
@@ -3505,17 +2944,6 @@
         "family": "阿里云"
       },
       {
-        "name": "Nous: Hermes 70B",
-        "company": "Nous",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Nous: Hermes 70B",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Hermes 70B",
-        "family": "Nous"
-      },
-      {
         "name": "Xwin 70B",
         "company": "阿里云",
         "type": "大语言模型",
@@ -3547,17 +2975,6 @@
         "verified": false,
         "display_name": "Mythalion 13B",
         "family": "Pygmalion"
-      },
-      {
-        "name": "Nous: Hermes 13B",
-        "company": "Nous",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Nous: Hermes 13B",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Hermes 13B",
-        "family": "Nous"
       },
       {
         "name": "Phind: CodeLlama 34B v2",
@@ -3632,7 +3049,7 @@
     "flag": "🇯🇵",
     "continent": "亚洲",
     "has_models": true,
-    "model_count": 1,
+    "model_count": 2,
     "verified_model_count": 2,
     "pending_model_count": 0,
     "family_summary": [
@@ -3651,6 +3068,17 @@
     ],
     "models": [
       {
+        "name": "Swallow: Llama 3.1 Swallow 8B Instruct V0.3",
+        "company": "Swallow",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Swallow: Llama 3.1 Swallow 8B Instruct V0.3",
+        "company_country": "日本",
+        "verified": false,
+        "display_name": "Llama 3.1 Swallow 8B Instruct V0.3",
+        "family": "Llama"
+      },
+      {
         "name": "PLaMo",
         "company": "Preferred Networks",
         "type": "大语言模型",
@@ -3668,7 +3096,7 @@
     "flag": "🇰🇷",
     "continent": "亚洲",
     "has_models": true,
-    "model_count": 2,
+    "model_count": 4,
     "verified_model_count": 2,
     "pending_model_count": 0,
     "family_summary": [
@@ -3686,6 +3114,17 @@
       }
     ],
     "models": [
+      {
+        "name": "Upstage: Solar Pro 3",
+        "company": "Upstage",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Upstage: Solar Pro 3",
+        "company_country": "韩国",
+        "verified": false,
+        "display_name": "Solar Pro 3",
+        "family": "Upstage"
+      },
       {
         "name": "HyperCLOVA X",
         "company": "NAVER",
@@ -3707,6 +3146,17 @@
         "verified": true,
         "display_name": "KoGPT",
         "family": "GPT"
+      },
+      {
+        "name": "Upstage: Solar Pro 3",
+        "company": "Upstage",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "upstage/solar-pro-3",
+        "company_country": "韩国",
+        "verified": false,
+        "display_name": "Solar Pro 3",
+        "family": "Upstage"
       }
     ]
   },
@@ -3745,7 +3195,7 @@
     "flag": "🇮🇳",
     "continent": "亚洲",
     "has_models": true,
-    "model_count": 1,
+    "model_count": 2,
     "verified_model_count": 1,
     "pending_model_count": 0,
     "family_summary": [
@@ -3757,6 +3207,17 @@
       }
     ],
     "models": [
+      {
+        "name": "Sarvam AI: Sarvam-M",
+        "company": "Sarvam AI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Sarvam AI: Sarvam-M",
+        "company_country": "印度",
+        "verified": false,
+        "display_name": "Sarvam-M",
+        "family": "Sarvam AI"
+      },
       {
         "name": "Krutrim",
         "company": "Ola",
@@ -4621,7 +4082,7 @@
     "flag": "🇬🇧",
     "continent": "欧洲",
     "has_models": true,
-    "model_count": 6,
+    "model_count": 8,
     "verified_model_count": 1,
     "pending_model_count": 0,
     "family_summary": [
@@ -4633,6 +4094,28 @@
       }
     ],
     "models": [
+      {
+        "name": "Thenlper: GTE-Base",
+        "company": "Thenlper",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Thenlper: GTE-Base",
+        "company_country": "英国",
+        "verified": false,
+        "display_name": "GTE-Base",
+        "family": "Thenlper"
+      },
+      {
+        "name": "Thenlper: GTE-Large",
+        "company": "Thenlper",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Thenlper: GTE-Large",
+        "company_country": "英国",
+        "verified": false,
+        "display_name": "GTE-Large",
+        "family": "Thenlper"
+      },
       {
         "name": "Sentence Transformers: paraphrase-MiniLM-L6-v2",
         "company": "Sentence Transformers",
@@ -4706,7 +4189,7 @@
     "flag": "🇺🇸",
     "continent": "北美洲",
     "has_models": true,
-    "model_count": 413,
+    "model_count": 475,
     "verified_model_count": 6,
     "pending_model_count": 113,
     "family_summary": [
@@ -4760,6 +4243,534 @@
       }
     ],
     "models": [
+      {
+        "name": "Writer: Palmyra X5",
+        "company": "Writer",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Writer: Palmyra X5",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Palmyra X5",
+        "family": "Writer"
+      },
+      {
+        "name": "Relace: Relace Search",
+        "company": "Relace",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Relace: Relace Search",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Relace Search",
+        "family": "Relace"
+      },
+      {
+        "name": "Nex AGI: DeepSeek V3.1 Nex N1",
+        "company": "Nex AGI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Nex AGI: DeepSeek V3.1 Nex N1",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "DeepSeek V3.1 Nex N1",
+        "family": "DeepSeek"
+      },
+      {
+        "name": "EssentialAI: Rnj 1 Instruct",
+        "company": "EssentialAI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "EssentialAI: Rnj 1 Instruct",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Rnj 1 Instruct",
+        "family": "EssentialAI"
+      },
+      {
+        "name": "Prime Intellect: INTELLECT-3",
+        "company": "Prime Intellect",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Prime Intellect: INTELLECT-3",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "INTELLECT-3",
+        "family": "Prime Intellect"
+      },
+      {
+        "name": "Deep Cogito: Cogito v2.1 671B",
+        "company": "Deep Cogito",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Deep Cogito: Cogito v2.1 671B",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Cogito v2.1 671B",
+        "family": "Deep Cogito"
+      },
+      {
+        "name": "IBM: Granite 4.0 Micro",
+        "company": "IBM",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "IBM: Granite 4.0 Micro",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Granite 4.0 Micro",
+        "family": "IBM"
+      },
+      {
+        "name": "Deep Cogito: Cogito V2 Preview Llama 405B",
+        "company": "Deep Cogito",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Deep Cogito: Cogito V2 Preview Llama 405B",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Cogito V2 Preview Llama 405B",
+        "family": "Llama"
+      },
+      {
+        "name": "Relace: Relace Apply 3",
+        "company": "Relace",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Relace: Relace Apply 3",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Relace Apply 3",
+        "family": "Relace"
+      },
+      {
+        "name": "Deep Cogito: Cogito V2 Preview Llama 70B",
+        "company": "Deep Cogito",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Deep Cogito: Cogito V2 Preview Llama 70B",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Cogito V2 Preview Llama 70B",
+        "family": "Llama"
+      },
+      {
+        "name": "Deep Cogito: Cogito V2 Preview Deepseek 671B",
+        "company": "Deep Cogito",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Deep Cogito: Cogito V2 Preview Deepseek 671B",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Cogito V2 Preview Deepseek 671B",
+        "family": "DeepSeek"
+      },
+      {
+        "name": "Nous: Hermes 4 70B",
+        "company": "Nous",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Nous: Hermes 4 70B",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Hermes 4 70B",
+        "family": "Nous"
+      },
+      {
+        "name": "Nous: Hermes 4 405B",
+        "company": "Nous",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Nous: Hermes 4 405B",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Hermes 4 405B",
+        "family": "Nous"
+      },
+      {
+        "name": "Venice: Uncensored (free)",
+        "company": "Venice",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Venice: Uncensored (free)",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Uncensored",
+        "family": "Venice"
+      },
+      {
+        "name": "Morph: Morph V3 Large",
+        "company": "Morph",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Morph: Morph V3 Large",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Morph V3 Large",
+        "family": "Morph"
+      },
+      {
+        "name": "Morph: Morph V3 Fast",
+        "company": "Morph",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Morph: Morph V3 Fast",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Morph V3 Fast",
+        "family": "Morph"
+      },
+      {
+        "name": "Morph: Fast Apply",
+        "company": "Morph",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Morph: Fast Apply",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Fast Apply",
+        "family": "Morph"
+      },
+      {
+        "name": "SentientAGI: Dobby Mini Plus Llama 3.1 8B",
+        "company": "SentientAGI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "SentientAGI: Dobby Mini Plus Llama 3.1 8B",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Dobby Mini Plus Llama 3.1 8B",
+        "family": "Llama"
+      },
+      {
+        "name": "Nous: DeepHermes 3 Mistral 24B Preview",
+        "company": "Nous",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Nous: DeepHermes 3 Mistral 24B Preview",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "DeepHermes 3 Mistral 24B Preview",
+        "family": "Mistral"
+      },
+      {
+        "name": "EleutherAI: Llemma 7b",
+        "company": "EleutherAI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "EleutherAI: Llemma 7b",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Llemma 7b",
+        "family": "EleutherAI"
+      },
+      {
+        "name": "AlfredPros: CodeLLaMa 7B Instruct Solidity",
+        "company": "AlfredPros",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "AlfredPros: CodeLLaMa 7B Instruct Solidity",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "CodeLLaMa 7B Instruct Solidity",
+        "family": "Llama"
+      },
+      {
+        "name": "ArliAI: QwQ 32B RpR v1",
+        "company": "ArliAI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "ArliAI: QwQ 32B RpR v1",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "QwQ 32B RpR v1",
+        "family": "ArliAI"
+      },
+      {
+        "name": "Agentica: Deepcoder 14B Preview",
+        "company": "Agentica",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Agentica: Deepcoder 14B Preview",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Deepcoder 14B Preview",
+        "family": "Agentica"
+      },
+      {
+        "name": "Nous: DeepHermes 3 Llama 3 8B Preview",
+        "company": "Nous",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Nous: DeepHermes 3 Llama 3 8B Preview",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "DeepHermes 3 Llama 3 8B Preview",
+        "family": "Llama"
+      },
+      {
+        "name": "Liquid: LFM 7B",
+        "company": "Liquid",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Liquid: LFM 7B",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "LFM 7B",
+        "family": "Liquid"
+      },
+      {
+        "name": "Liquid: LFM 3B",
+        "company": "Liquid",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Liquid: LFM 3B",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "LFM 3B",
+        "family": "Liquid"
+      },
+      {
+        "name": "NeverSleep: Lumimaid v0.2 70B",
+        "company": "NeverSleep",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "NeverSleep: Lumimaid v0.2 70B",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Lumimaid v0.2 70B",
+        "family": "NeverSleep"
+      },
+      {
+        "name": "Inflection: Inflection 3 Productivity",
+        "company": "Inflection",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Inflection: Inflection 3 Productivity",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Inflection 3 Productivity",
+        "family": "Inflection"
+      },
+      {
+        "name": "Inflection: Inflection 3 Pi",
+        "company": "Inflection",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Inflection: Inflection 3 Pi",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Inflection 3 Pi",
+        "family": "Inflection"
+      },
+      {
+        "name": "Liquid: LFM 40B MoE",
+        "company": "Liquid",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Liquid: LFM 40B MoE",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "LFM 40B MoE",
+        "family": "Liquid"
+      },
+      {
+        "name": "NeverSleep: Lumimaid v0.2 8B",
+        "company": "NeverSleep",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "NeverSleep: Lumimaid v0.2 8B",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Lumimaid v0.2 8B",
+        "family": "NeverSleep"
+      },
+      {
+        "name": "Lynn: Llama 3 Soliloquy 7B v3 32K",
+        "company": "Lynn",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Lynn: Llama 3 Soliloquy 7B v3 32K",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Llama 3 Soliloquy 7B v3 32K",
+        "family": "Llama"
+      },
+      {
+        "name": "Nous: Hermes 3 70B Instruct",
+        "company": "Nous",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Nous: Hermes 3 70B Instruct",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Hermes 3 70B Instruct",
+        "family": "Nous"
+      },
+      {
+        "name": "Nous: Hermes 3 405B Instruct (free)",
+        "company": "Nous",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Nous: Hermes 3 405B Instruct (free)",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Hermes 3 405B Instruct",
+        "family": "Nous"
+      },
+      {
+        "name": "Nous: Hermes 3 405B Instruct",
+        "company": "Nous",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Nous: Hermes 3 405B Instruct",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Hermes 3 405B Instruct",
+        "family": "Nous"
+      },
+      {
+        "name": "Nous: Hermes 2 Theta 8B",
+        "company": "Nous",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Nous: Hermes 2 Theta 8B",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Hermes 2 Theta 8B",
+        "family": "Nous"
+      },
+      {
+        "name": "NeverSleep: Llama 3 Lumimaid 70B",
+        "company": "NeverSleep",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "NeverSleep: Llama 3 Lumimaid 70B",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Llama 3 Lumimaid 70B",
+        "family": "Llama"
+      },
+      {
+        "name": "NeverSleep: Llama 3 Lumimaid 8B",
+        "company": "NeverSleep",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "NeverSleep: Llama 3 Lumimaid 8B",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Llama 3 Lumimaid 8B",
+        "family": "Llama"
+      },
+      {
+        "name": "Lynn: Llama 3 Soliloquy 8B v2",
+        "company": "Lynn",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Lynn: Llama 3 Soliloquy 8B v2",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Llama 3 Soliloquy 8B v2",
+        "family": "Llama"
+      },
+      {
+        "name": "Nous: Hermes 2 Mistral 7B DPO",
+        "company": "Nous",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Nous: Hermes 2 Mistral 7B DPO",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Hermes 2 Mistral 7B DPO",
+        "family": "Mistral"
+      },
+      {
+        "name": "Nous: Hermes 2 Mixtral 8x7B DPO",
+        "company": "Nous",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Nous: Hermes 2 Mixtral 8x7B DPO",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Hermes 2 Mixtral 8x7B DPO",
+        "family": "Mixtral"
+      },
+      {
+        "name": "Nous: Hermes 2 Mixtral 8x7B SFT",
+        "company": "Nous",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Nous: Hermes 2 Mixtral 8x7B SFT",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Hermes 2 Mixtral 8x7B SFT",
+        "family": "Mixtral"
+      },
+      {
+        "name": "Nous: Hermes 2 Yi 34B",
+        "company": "Nous",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Nous: Hermes 2 Yi 34B",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Hermes 2 Yi 34B",
+        "family": "Nous"
+      },
+      {
+        "name": "Nous: Hermes 2 Vision 7B (alpha)",
+        "company": "Nous",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Nous: Hermes 2 Vision 7B (alpha)",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Hermes 2 Vision 7B (alpha)",
+        "family": "Nous"
+      },
+      {
+        "name": "Nous: Capybara 7B",
+        "company": "Nous",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Nous: Capybara 7B",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Capybara 7B",
+        "family": "Nous"
+      },
+      {
+        "name": "Nous: Capybara 34B",
+        "company": "Nous",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Nous: Capybara 34B",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Capybara 34B",
+        "family": "Nous"
+      },
+      {
+        "name": "Nous: Hermes 70B",
+        "company": "Nous",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Nous: Hermes 70B",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Hermes 70B",
+        "family": "Nous"
+      },
+      {
+        "name": "Nous: Hermes 13B",
+        "company": "Nous",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Nous: Hermes 13B",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Hermes 13B",
+        "family": "Nous"
+      },
       {
         "name": "Perplexity: Embed V1 4B",
         "company": "Perplexity",
@@ -9302,6 +9313,160 @@
         "verified": false,
         "display_name": "GPT-3.5 Turbo",
         "family": "GPT"
+      },
+      {
+        "name": "Writer: Palmyra X5",
+        "company": "Writer",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "writer/palmyra-x5",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Palmyra X5",
+        "family": "Writer"
+      },
+      {
+        "name": "Relace: Relace Search",
+        "company": "Relace",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "relace/relace-search",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Relace Search",
+        "family": "Relace"
+      },
+      {
+        "name": "Nex AGI: DeepSeek V3.1 Nex N1",
+        "company": "Nex AGI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "nex-agi/deepseek-v3.1-nex-n1",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "DeepSeek V3.1 Nex N1",
+        "family": "DeepSeek"
+      },
+      {
+        "name": "EssentialAI: Rnj 1 Instruct",
+        "company": "EssentialAI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "essentialai/rnj-1-instruct",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Rnj 1 Instruct",
+        "family": "EssentialAI"
+      },
+      {
+        "name": "Prime Intellect: INTELLECT-3",
+        "company": "Prime Intellect",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "prime-intellect/intellect-3",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "INTELLECT-3",
+        "family": "Prime Intellect"
+      },
+      {
+        "name": "Deep Cogito: Cogito v2.1 671B",
+        "company": "Deep Cogito",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "deepcogito/cogito-v2.1-671b",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Cogito v2.1 671B",
+        "family": "Deep Cogito"
+      },
+      {
+        "name": "Relace: Relace Apply 3",
+        "company": "Relace",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "relace/relace-apply-3",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Relace Apply 3",
+        "family": "Relace"
+      },
+      {
+        "name": "Morph: Morph V3 Large",
+        "company": "Morph",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "morph/morph-v3-large",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Morph V3 Large",
+        "family": "Morph"
+      },
+      {
+        "name": "Morph: Morph V3 Fast",
+        "company": "Morph",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "morph/morph-v3-fast",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Morph V3 Fast",
+        "family": "Morph"
+      },
+      {
+        "name": "EleutherAI: Llemma 7b",
+        "company": "EleutherAI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "eleutherai/llemma_7b",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Llemma 7b",
+        "family": "EleutherAI"
+      },
+      {
+        "name": "AlfredPros: CodeLLaMa 7B Instruct Solidity",
+        "company": "AlfredPros",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "alfredpros/codellama-7b-instruct-solidity",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "CodeLLaMa 7B Instruct Solidity",
+        "family": "Llama"
+      },
+      {
+        "name": "Inflection: Inflection 3 Productivity",
+        "company": "Inflection",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "inflection/inflection-3-productivity",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Inflection 3 Productivity",
+        "family": "Inflection"
+      },
+      {
+        "name": "Inflection: Inflection 3 Pi",
+        "company": "Inflection",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "inflection/inflection-3-pi",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Inflection 3 Pi",
+        "family": "Inflection"
+      },
+      {
+        "name": "WizardLM-2 8x22B",
+        "company": "Microsoft",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "microsoft/wizardlm-2-8x22b",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "WizardLM-2 8x22B",
+        "family": "Microsoft"
       }
     ]
   },

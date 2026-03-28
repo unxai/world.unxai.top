@@ -1,7 +1,7 @@
 {
   "source": "https://openrouter.ai/api/v1/models",
   "count": 347,
-  "mapped_count": 235,
+  "mapped_count": 309,
   "items": [
     {
       "name": "Kwaipilot: KAT-Coder-Pro V2",
@@ -93,24 +93,24 @@
     },
     {
       "name": "NVIDIA: Nemotron 3 Super (free)",
-      "company": "nvidia",
-      "company_country": null,
+      "company": "NVIDIA",
+      "company_country": "美国",
       "type": "大语言模型",
       "source": "OpenRouter",
       "source_id": "nvidia/nemotron-3-super-120b-a12b:free"
     },
     {
       "name": "NVIDIA: Nemotron 3 Super",
-      "company": "nvidia",
-      "company_country": null,
+      "company": "NVIDIA",
+      "company_country": "美国",
       "type": "大语言模型",
       "source": "OpenRouter",
       "source_id": "nvidia/nemotron-3-super-120b-a12b"
     },
     {
       "name": "ByteDance Seed: Seed-2.0-Lite",
-      "company": "bytedance-seed",
-      "company_country": null,
+      "company": "ByteDance Seed",
+      "company_country": "中国",
       "type": "大语言模型",
       "source": "OpenRouter",
       "source_id": "bytedance-seed/seed-2.0-lite"
@@ -141,8 +141,8 @@
     },
     {
       "name": "Inception: Mercury 2",
-      "company": "inception",
-      "company_country": null,
+      "company": "Inception",
+      "company_country": "美国",
       "type": "大语言模型",
       "source": "OpenRouter",
       "source_id": "inception/mercury-2"
@@ -165,8 +165,8 @@
     },
     {
       "name": "ByteDance Seed: Seed-2.0-Mini",
-      "company": "bytedance-seed",
-      "company_country": null,
+      "company": "ByteDance Seed",
+      "company_country": "中国",
       "type": "大语言模型",
       "source": "OpenRouter",
       "source_id": "bytedance-seed/seed-2.0-mini"
@@ -213,8 +213,8 @@
     },
     {
       "name": "LiquidAI: LFM2-24B-A2B",
-      "company": "liquid",
-      "company_country": null,
+      "company": "Liquid",
+      "company_country": "美国",
       "type": "大语言模型",
       "source": "OpenRouter",
       "source_id": "liquid/lfm-2-24b-a2b"
@@ -237,8 +237,8 @@
     },
     {
       "name": "AionLabs: Aion-2.0",
-      "company": "aion-labs",
-      "company_country": null,
+      "company": "AionLabs",
+      "company_country": "美国",
       "type": "大语言模型",
       "source": "OpenRouter",
       "source_id": "aion-labs/aion-2.0"
@@ -349,8 +349,8 @@
     },
     {
       "name": "Arcee AI: Trinity Large Preview (free)",
-      "company": "arcee-ai",
-      "company_country": null,
+      "company": "Arcee AI",
+      "company_country": "美国",
       "type": "大语言模型",
       "source": "OpenRouter",
       "source_id": "arcee-ai/trinity-large-preview:free"
@@ -365,8 +365,8 @@
     },
     {
       "name": "Upstage: Solar Pro 3",
-      "company": "upstage",
-      "company_country": null,
+      "company": "Upstage",
+      "company_country": "韩国",
       "type": "大语言模型",
       "source": "OpenRouter",
       "source_id": "upstage/solar-pro-3"
@@ -381,24 +381,24 @@
     },
     {
       "name": "Writer: Palmyra X5",
-      "company": "writer",
-      "company_country": null,
+      "company": "Writer",
+      "company_country": "美国",
       "type": "大语言模型",
       "source": "OpenRouter",
       "source_id": "writer/palmyra-x5"
     },
     {
       "name": "LiquidAI: LFM2.5-1.2B-Thinking (free)",
-      "company": "liquid",
-      "company_country": null,
+      "company": "Liquid",
+      "company_country": "美国",
       "type": "大语言模型",
       "source": "OpenRouter",
       "source_id": "liquid/lfm-2.5-1.2b-thinking:free"
     },
     {
       "name": "LiquidAI: LFM2.5-1.2B-Instruct (free)",
-      "company": "liquid",
-      "company_country": null,
+      "company": "Liquid",
+      "company_country": "美国",
       "type": "大语言模型",
       "source": "OpenRouter",
       "source_id": "liquid/lfm-2.5-1.2b-instruct:free"
@@ -437,24 +437,24 @@
     },
     {
       "name": "AllenAI: Olmo 3.1 32B Instruct",
-      "company": "allenai",
-      "company_country": null,
+      "company": "AllenAI",
+      "company_country": "美国",
       "type": "大语言模型",
       "source": "OpenRouter",
       "source_id": "allenai/olmo-3.1-32b-instruct"
     },
     {
       "name": "ByteDance Seed: Seed 1.6 Flash",
-      "company": "bytedance-seed",
-      "company_country": null,
+      "company": "ByteDance Seed",
+      "company_country": "中国",
       "type": "大语言模型",
       "source": "OpenRouter",
       "source_id": "bytedance-seed/seed-1.6-flash"
     },
     {
       "name": "ByteDance Seed: Seed 1.6",
-      "company": "bytedance-seed",
-      "company_country": null,
+      "company": "ByteDance Seed",
+      "company_country": "中国",
       "type": "大语言模型",
       "source": "OpenRouter",
       "source_id": "bytedance-seed/seed-1.6"
@@ -493,8 +493,8 @@
     },
     {
       "name": "AllenAI: Olmo 3.1 32B Think",
-      "company": "allenai",
-      "company_country": null,
+      "company": "AllenAI",
+      "company_country": "美国",
       "type": "大语言模型",
       "source": "OpenRouter",
       "source_id": "allenai/olmo-3.1-32b-think"
@@ -509,16 +509,16 @@
     },
     {
       "name": "NVIDIA: Nemotron 3 Nano 30B A3B (free)",
-      "company": "nvidia",
-      "company_country": null,
+      "company": "NVIDIA",
+      "company_country": "美国",
       "type": "大语言模型",
       "source": "OpenRouter",
       "source_id": "nvidia/nemotron-3-nano-30b-a3b:free"
     },
     {
       "name": "NVIDIA: Nemotron 3 Nano 30B A3B",
-      "company": "nvidia",
-      "company_country": null,
+      "company": "NVIDIA",
+      "company_country": "美国",
       "type": "大语言模型",
       "source": "OpenRouter",
       "source_id": "nvidia/nemotron-3-nano-30b-a3b"
@@ -557,8 +557,8 @@
     },
     {
       "name": "Relace: Relace Search",
-      "company": "relace",
-      "company_country": null,
+      "company": "Relace",
+      "company_country": "美国",
       "type": "大语言模型",
       "source": "OpenRouter",
       "source_id": "relace/relace-search"
@@ -573,16 +573,16 @@
     },
     {
       "name": "Nex AGI: DeepSeek V3.1 Nex N1",
-      "company": "nex-agi",
-      "company_country": null,
+      "company": "Nex AGI",
+      "company_country": "美国",
       "type": "大语言模型",
       "source": "OpenRouter",
       "source_id": "nex-agi/deepseek-v3.1-nex-n1"
     },
     {
       "name": "EssentialAI: Rnj 1 Instruct",
-      "company": "essentialai",
-      "company_country": null,
+      "company": "EssentialAI",
+      "company_country": "美国",
       "type": "大语言模型",
       "source": "OpenRouter",
       "source_id": "essentialai/rnj-1-instruct"
@@ -605,8 +605,8 @@
     },
     {
       "name": "Amazon: Nova 2 Lite",
-      "company": "amazon",
-      "company_country": null,
+      "company": "Amazon",
+      "company_country": "美国",
       "type": "大语言模型",
       "source": "OpenRouter",
       "source_id": "amazon/nova-2-lite-v1"
@@ -645,16 +645,16 @@
     },
     {
       "name": "Arcee AI: Trinity Mini (free)",
-      "company": "arcee-ai",
-      "company_country": null,
+      "company": "Arcee AI",
+      "company_country": "美国",
       "type": "大语言模型",
       "source": "OpenRouter",
       "source_id": "arcee-ai/trinity-mini:free"
     },
     {
       "name": "Arcee AI: Trinity Mini",
-      "company": "arcee-ai",
-      "company_country": null,
+      "company": "Arcee AI",
+      "company_country": "美国",
       "type": "大语言模型",
       "source": "OpenRouter",
       "source_id": "arcee-ai/trinity-mini"
@@ -677,8 +677,8 @@
     },
     {
       "name": "Prime Intellect: INTELLECT-3",
-      "company": "prime-intellect",
-      "company_country": null,
+      "company": "Prime Intellect",
+      "company_country": "美国",
       "type": "大语言模型",
       "source": "OpenRouter",
       "source_id": "prime-intellect/intellect-3"
@@ -693,8 +693,8 @@
     },
     {
       "name": "AllenAI: Olmo 3 32B Think",
-      "company": "allenai",
-      "company_country": null,
+      "company": "AllenAI",
+      "company_country": "美国",
       "type": "大语言模型",
       "source": "OpenRouter",
       "source_id": "allenai/olmo-3-32b-think"
@@ -717,8 +717,8 @@
     },
     {
       "name": "Deep Cogito: Cogito v2.1 671B",
-      "company": "deepcogito",
-      "company_country": null,
+      "company": "Deep Cogito",
+      "company_country": "美国",
       "type": "大语言模型",
       "source": "OpenRouter",
       "source_id": "deepcogito/cogito-v2.1-671b"
@@ -773,16 +773,16 @@
     },
     {
       "name": "Amazon: Nova Premier 1.0",
-      "company": "amazon",
-      "company_country": null,
+      "company": "Amazon",
+      "company_country": "美国",
       "type": "大语言模型",
       "source": "OpenRouter",
       "source_id": "amazon/nova-premier-v1"
     },
     {
       "name": "Perplexity: Sonar Pro Search",
-      "company": "perplexity",
-      "company_country": null,
+      "company": "Perplexity",
+      "company_country": "美国",
       "type": "大语言模型",
       "source": "OpenRouter",
       "source_id": "perplexity/sonar-pro-search"
@@ -805,16 +805,16 @@
     },
     {
       "name": "NVIDIA: Nemotron Nano 12B 2 VL (free)",
-      "company": "nvidia",
-      "company_country": null,
+      "company": "NVIDIA",
+      "company_country": "美国",
       "type": "大语言模型",
       "source": "OpenRouter",
       "source_id": "nvidia/nemotron-nano-12b-v2-vl:free"
     },
     {
       "name": "NVIDIA: Nemotron Nano 12B 2 VL",
-      "company": "nvidia",
-      "company_country": null,
+      "company": "NVIDIA",
+      "company_country": "美国",
       "type": "大语言模型",
       "source": "OpenRouter",
       "source_id": "nvidia/nemotron-nano-12b-v2-vl"
@@ -837,16 +837,16 @@
     },
     {
       "name": "LiquidAI: LFM2-8B-A1B",
-      "company": "liquid",
-      "company_country": null,
+      "company": "Liquid",
+      "company_country": "美国",
       "type": "大语言模型",
       "source": "OpenRouter",
       "source_id": "liquid/lfm2-8b-a1b"
     },
     {
       "name": "LiquidAI: LFM2-2.6B",
-      "company": "liquid",
-      "company_country": null,
+      "company": "Liquid",
+      "company_country": "美国",
       "type": "大语言模型",
       "source": "OpenRouter",
       "source_id": "liquid/lfm-2.2-6b"
@@ -917,8 +917,8 @@
     },
     {
       "name": "NVIDIA: Llama 3.3 Nemotron Super 49B V1.5",
-      "company": "nvidia",
-      "company_country": null,
+      "company": "NVIDIA",
+      "company_country": "美国",
       "type": "大语言模型",
       "source": "OpenRouter",
       "source_id": "nvidia/llama-3.3-nemotron-super-49b-v1.5"
@@ -989,16 +989,16 @@
     },
     {
       "name": "TheDrummer: Cydonia 24B V4.1",
-      "company": "thedrummer",
-      "company_country": null,
+      "company": "TheDrummer",
+      "company_country": "美国",
       "type": "大语言模型",
       "source": "OpenRouter",
       "source_id": "thedrummer/cydonia-24b-v4.1"
     },
     {
       "name": "Relace: Relace Apply 3",
-      "company": "relace",
-      "company_country": null,
+      "company": "Relace",
+      "company_country": "美国",
       "type": "大语言模型",
       "source": "OpenRouter",
       "source_id": "relace/relace-apply-3"
@@ -1109,8 +1109,8 @@
     },
     {
       "name": "Meituan: LongCat Flash Chat",
-      "company": "meituan",
-      "company_country": null,
+      "company": "Meituan",
+      "company_country": "中国",
       "type": "大语言模型",
       "source": "OpenRouter",
       "source_id": "meituan/longcat-flash-chat"
@@ -1133,16 +1133,16 @@
     },
     {
       "name": "NVIDIA: Nemotron Nano 9B V2 (free)",
-      "company": "nvidia",
-      "company_country": null,
+      "company": "NVIDIA",
+      "company_country": "美国",
       "type": "大语言模型",
       "source": "OpenRouter",
       "source_id": "nvidia/nemotron-nano-9b-v2:free"
     },
     {
       "name": "NVIDIA: Nemotron Nano 9B V2",
-      "company": "nvidia",
-      "company_country": null,
+      "company": "NVIDIA",
+      "company_country": "美国",
       "type": "大语言模型",
       "source": "OpenRouter",
       "source_id": "nvidia/nemotron-nano-9b-v2"
@@ -1493,16 +1493,16 @@
     },
     {
       "name": "Morph: Morph V3 Large",
-      "company": "morph",
-      "company_country": null,
+      "company": "Morph",
+      "company_country": "美国",
       "type": "大语言模型",
       "source": "OpenRouter",
       "source_id": "morph/morph-v3-large"
     },
     {
       "name": "Morph: Morph V3 Fast",
-      "company": "morph",
-      "company_country": null,
+      "company": "Morph",
+      "company_country": "美国",
       "type": "大语言模型",
       "source": "OpenRouter",
       "source_id": "morph/morph-v3-fast"
@@ -1525,8 +1525,8 @@
     },
     {
       "name": "Inception: Mercury",
-      "company": "inception",
-      "company_country": null,
+      "company": "Inception",
+      "company_country": "美国",
       "type": "大语言模型",
       "source": "OpenRouter",
       "source_id": "inception/mercury"
@@ -1653,40 +1653,40 @@
     },
     {
       "name": "Arcee AI: Spotlight",
-      "company": "arcee-ai",
-      "company_country": null,
+      "company": "Arcee AI",
+      "company_country": "美国",
       "type": "大语言模型",
       "source": "OpenRouter",
       "source_id": "arcee-ai/spotlight"
     },
     {
       "name": "Arcee AI: Maestro Reasoning",
-      "company": "arcee-ai",
-      "company_country": null,
+      "company": "Arcee AI",
+      "company_country": "美国",
       "type": "大语言模型",
       "source": "OpenRouter",
       "source_id": "arcee-ai/maestro-reasoning"
     },
     {
       "name": "Arcee AI: Virtuoso Large",
-      "company": "arcee-ai",
-      "company_country": null,
+      "company": "Arcee AI",
+      "company_country": "美国",
       "type": "大语言模型",
       "source": "OpenRouter",
       "source_id": "arcee-ai/virtuoso-large"
     },
     {
       "name": "Arcee AI: Coder Large",
-      "company": "arcee-ai",
-      "company_country": null,
+      "company": "Arcee AI",
+      "company_country": "美国",
       "type": "大语言模型",
       "source": "OpenRouter",
       "source_id": "arcee-ai/coder-large"
     },
     {
       "name": "Inception: Mercury Coder",
-      "company": "inception",
-      "company_country": null,
+      "company": "Inception",
+      "company_country": "美国",
       "type": "大语言模型",
       "source": "OpenRouter",
       "source_id": "inception/mercury-coder"
@@ -1805,16 +1805,16 @@
     },
     {
       "name": "EleutherAI: Llemma 7b",
-      "company": "eleutherai",
-      "company_country": null,
+      "company": "EleutherAI",
+      "company_country": "美国",
       "type": "大语言模型",
       "source": "OpenRouter",
       "source_id": "eleutherai/llemma_7b"
     },
     {
       "name": "AlfredPros: CodeLLaMa 7B Instruct Solidity",
-      "company": "alfredpros",
-      "company_country": null,
+      "company": "AlfredPros",
+      "company_country": "美国",
       "type": "大语言模型",
       "source": "OpenRouter",
       "source_id": "alfredpros/codellama-7b-instruct-solidity"
@@ -1837,8 +1837,8 @@
     },
     {
       "name": "NVIDIA: Llama 3.1 Nemotron Ultra 253B v1",
-      "company": "nvidia",
-      "company_country": null,
+      "company": "NVIDIA",
+      "company_country": "美国",
       "type": "大语言模型",
       "source": "OpenRouter",
       "source_id": "nvidia/llama-3.1-nemotron-ultra-253b-v1"
@@ -1901,8 +1901,8 @@
     },
     {
       "name": "AllenAI: Olmo 2 32B Instruct",
-      "company": "allenai",
-      "company_country": null,
+      "company": "AllenAI",
+      "company_country": "美国",
       "type": "大语言模型",
       "source": "OpenRouter",
       "source_id": "allenai/olmo-2-0325-32b-instruct"
@@ -1981,32 +1981,32 @@
     },
     {
       "name": "TheDrummer: Skyfall 36B V2",
-      "company": "thedrummer",
-      "company_country": null,
+      "company": "TheDrummer",
+      "company_country": "美国",
       "type": "大语言模型",
       "source": "OpenRouter",
       "source_id": "thedrummer/skyfall-36b-v2"
     },
     {
       "name": "Perplexity: Sonar Reasoning Pro",
-      "company": "perplexity",
-      "company_country": null,
+      "company": "Perplexity",
+      "company_country": "美国",
       "type": "大语言模型",
       "source": "OpenRouter",
       "source_id": "perplexity/sonar-reasoning-pro"
     },
     {
       "name": "Perplexity: Sonar Pro",
-      "company": "perplexity",
-      "company_country": null,
+      "company": "Perplexity",
+      "company_country": "美国",
       "type": "大语言模型",
       "source": "OpenRouter",
       "source_id": "perplexity/sonar-pro"
     },
     {
       "name": "Perplexity: Sonar Deep Research",
-      "company": "perplexity",
-      "company_country": null,
+      "company": "Perplexity",
+      "company_country": "美国",
       "type": "大语言模型",
       "source": "OpenRouter",
       "source_id": "perplexity/sonar-deep-research"
@@ -2085,24 +2085,24 @@
     },
     {
       "name": "AionLabs: Aion-1.0",
-      "company": "aion-labs",
-      "company_country": null,
+      "company": "AionLabs",
+      "company_country": "美国",
       "type": "大语言模型",
       "source": "OpenRouter",
       "source_id": "aion-labs/aion-1.0"
     },
     {
       "name": "AionLabs: Aion-1.0-Mini",
-      "company": "aion-labs",
-      "company_country": null,
+      "company": "AionLabs",
+      "company_country": "美国",
       "type": "大语言模型",
       "source": "OpenRouter",
       "source_id": "aion-labs/aion-1.0-mini"
     },
     {
       "name": "AionLabs: Aion-RP 1.0 (8B)",
-      "company": "aion-labs",
-      "company_country": null,
+      "company": "AionLabs",
+      "company_country": "美国",
       "type": "大语言模型",
       "source": "OpenRouter",
       "source_id": "aion-labs/aion-rp-llama-3.1-8b"
@@ -2173,8 +2173,8 @@
     },
     {
       "name": "Perplexity: Sonar",
-      "company": "perplexity",
-      "company_country": null,
+      "company": "Perplexity",
+      "company_country": "美国",
       "type": "大语言模型",
       "source": "OpenRouter",
       "source_id": "perplexity/sonar"
@@ -2205,16 +2205,16 @@
     },
     {
       "name": "Microsoft: Phi 4",
-      "company": "microsoft",
-      "company_country": null,
+      "company": "Microsoft",
+      "company_country": "美国",
       "type": "大语言模型",
       "source": "OpenRouter",
       "source_id": "microsoft/phi-4"
     },
     {
       "name": "Sao10K: Llama 3.1 70B Hanami x1",
-      "company": "sao10k",
-      "company_country": null,
+      "company": "Sao10K",
+      "company_country": "美国",
       "type": "大语言模型",
       "source": "OpenRouter",
       "source_id": "sao10k/l3.1-70b-hanami-x1"
@@ -2229,8 +2229,8 @@
     },
     {
       "name": "Sao10K: Llama 3.3 Euryale 70B",
-      "company": "sao10k",
-      "company_country": null,
+      "company": "Sao10K",
+      "company_country": "美国",
       "type": "大语言模型",
       "source": "OpenRouter",
       "source_id": "sao10k/l3.3-euryale-70b"
@@ -2269,24 +2269,24 @@
     },
     {
       "name": "Amazon: Nova Lite 1.0",
-      "company": "amazon",
-      "company_country": null,
+      "company": "Amazon",
+      "company_country": "美国",
       "type": "大语言模型",
       "source": "OpenRouter",
       "source_id": "amazon/nova-lite-v1"
     },
     {
       "name": "Amazon: Nova Micro 1.0",
-      "company": "amazon",
-      "company_country": null,
+      "company": "Amazon",
+      "company_country": "美国",
       "type": "大语言模型",
       "source": "OpenRouter",
       "source_id": "amazon/nova-micro-v1"
     },
     {
       "name": "Amazon: Nova Pro 1.0",
-      "company": "amazon",
-      "company_country": null,
+      "company": "Amazon",
+      "company_country": "美国",
       "type": "大语言模型",
       "source": "OpenRouter",
       "source_id": "amazon/nova-pro-v1"
@@ -2333,8 +2333,8 @@
     },
     {
       "name": "TheDrummer: UnslopNemo 12B",
-      "company": "thedrummer",
-      "company_country": null,
+      "company": "TheDrummer",
+      "company_country": "美国",
       "type": "大语言模型",
       "source": "OpenRouter",
       "source_id": "thedrummer/unslopnemo-12b"
@@ -2348,20 +2348,20 @@
       "source_id": "anthropic/claude-3.5-haiku"
     },
     {
-      "name": "Anthropic: Claude 3.5 Sonnet",
-      "company": "Anthropic",
-      "company_country": "美国",
-      "type": "大语言模型",
-      "source": "OpenRouter",
-      "source_id": "anthropic/claude-3.5-sonnet"
-    },
-    {
       "name": "Magnum v4 72B",
       "company": "anthracite-org",
       "company_country": null,
       "type": "大语言模型",
       "source": "OpenRouter",
       "source_id": "anthracite-org/magnum-v4-72b"
+    },
+    {
+      "name": "Anthropic: Claude 3.5 Sonnet",
+      "company": "Anthropic",
+      "company_country": "美国",
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "anthropic/claude-3.5-sonnet"
     },
     {
       "name": "Qwen: Qwen2.5 7B Instruct",
@@ -2373,32 +2373,32 @@
     },
     {
       "name": "NVIDIA: Llama 3.1 Nemotron 70B Instruct",
-      "company": "nvidia",
-      "company_country": null,
+      "company": "NVIDIA",
+      "company_country": "美国",
       "type": "大语言模型",
       "source": "OpenRouter",
       "source_id": "nvidia/llama-3.1-nemotron-70b-instruct"
     },
     {
       "name": "Inflection: Inflection 3 Productivity",
-      "company": "inflection",
-      "company_country": null,
+      "company": "Inflection",
+      "company_country": "美国",
       "type": "大语言模型",
       "source": "OpenRouter",
       "source_id": "inflection/inflection-3-productivity"
     },
     {
       "name": "Inflection: Inflection 3 Pi",
-      "company": "inflection",
-      "company_country": null,
+      "company": "Inflection",
+      "company_country": "美国",
       "type": "大语言模型",
       "source": "OpenRouter",
       "source_id": "inflection/inflection-3-pi"
     },
     {
       "name": "TheDrummer: Rocinante 12B",
-      "company": "thedrummer",
-      "company_country": null,
+      "company": "TheDrummer",
+      "company_country": "美国",
       "type": "大语言模型",
       "source": "OpenRouter",
       "source_id": "thedrummer/rocinante-12b"
@@ -2461,8 +2461,8 @@
     },
     {
       "name": "Sao10K: Llama 3.1 Euryale 70B v2.2",
-      "company": "sao10k",
-      "company_country": null,
+      "company": "Sao10K",
+      "company_country": "美国",
       "type": "大语言模型",
       "source": "OpenRouter",
       "source_id": "sao10k/l3.1-euryale-70b"
@@ -2493,8 +2493,8 @@
     },
     {
       "name": "Sao10K: Llama 3 8B Lunaris",
-      "company": "sao10k",
-      "company_country": null,
+      "company": "Sao10K",
+      "company_country": "美国",
       "type": "大语言模型",
       "source": "OpenRouter",
       "source_id": "sao10k/l3-lunaris-8b"
@@ -2532,20 +2532,20 @@
       "source_id": "mistralai/mistral-nemo"
     },
     {
-      "name": "OpenAI: GPT-4o-mini (2024-07-18)",
-      "company": "OpenAI",
-      "company_country": "美国",
-      "type": "大语言模型",
-      "source": "OpenRouter",
-      "source_id": "openai/gpt-4o-mini-2024-07-18"
-    },
-    {
       "name": "OpenAI: GPT-4o-mini",
       "company": "OpenAI",
       "company_country": "美国",
       "type": "大语言模型",
       "source": "OpenRouter",
       "source_id": "openai/gpt-4o-mini"
+    },
+    {
+      "name": "OpenAI: GPT-4o-mini (2024-07-18)",
+      "company": "OpenAI",
+      "company_country": "美国",
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "openai/gpt-4o-mini-2024-07-18"
     },
     {
       "name": "Google: Gemma 2 27B",
@@ -2565,8 +2565,8 @@
     },
     {
       "name": "Sao10k: Llama 3 Euryale 70B v2.1",
-      "company": "sao10k",
-      "company_country": null,
+      "company": "Sao10K",
+      "company_country": "美国",
       "type": "大语言模型",
       "source": "OpenRouter",
       "source_id": "sao10k/l3-euryale-70b"
@@ -2578,14 +2578,6 @@
       "type": "大语言模型",
       "source": "OpenRouter",
       "source_id": "nousresearch/hermes-2-pro-llama-3-8b"
-    },
-    {
-      "name": "OpenAI: GPT-4o (2024-05-13)",
-      "company": "OpenAI",
-      "company_country": "美国",
-      "type": "大语言模型",
-      "source": "OpenRouter",
-      "source_id": "openai/gpt-4o-2024-05-13"
     },
     {
       "name": "OpenAI: GPT-4o",
@@ -2602,6 +2594,14 @@
       "type": "大语言模型",
       "source": "OpenRouter",
       "source_id": "openai/gpt-4o:extended"
+    },
+    {
+      "name": "OpenAI: GPT-4o (2024-05-13)",
+      "company": "OpenAI",
+      "company_country": "美国",
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "openai/gpt-4o-2024-05-13"
     },
     {
       "name": "Meta: Llama 3 8B Instruct",
@@ -2629,8 +2629,8 @@
     },
     {
       "name": "WizardLM-2 8x22B",
-      "company": "microsoft",
-      "company_country": null,
+      "company": "Microsoft",
+      "company_country": "美国",
       "type": "大语言模型",
       "source": "OpenRouter",
       "source_id": "microsoft/wizardlm-2-8x22b"
@@ -2756,20 +2756,20 @@
       "source_id": "gryphe/mythomax-l2-13b"
     },
     {
-      "name": "OpenAI: GPT-4 (older v0314)",
-      "company": "OpenAI",
-      "company_country": "美国",
-      "type": "大语言模型",
-      "source": "OpenRouter",
-      "source_id": "openai/gpt-4-0314"
-    },
-    {
       "name": "OpenAI: GPT-4",
       "company": "OpenAI",
       "company_country": "美国",
       "type": "大语言模型",
       "source": "OpenRouter",
       "source_id": "openai/gpt-4"
+    },
+    {
+      "name": "OpenAI: GPT-4 (older v0314)",
+      "company": "OpenAI",
+      "company_country": "美国",
+      "type": "大语言模型",
+      "source": "OpenRouter",
+      "source_id": "openai/gpt-4-0314"
     },
     {
       "name": "OpenAI: GPT-3.5 Turbo",
