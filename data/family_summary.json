@@ -4,21 +4,69 @@
     "continent": "亚洲",
     "families": [
       {
-        "family": "Qwen",
-        "count": 50,
-        "verified_count": 0,
-        "pending_count": 50
+        "family": "阿里云",
+        "count": 72,
+        "verified_count": 2,
+        "pending_count": 70
       },
       {
-        "family": "GLM",
-        "count": 12,
-        "verified_count": 1,
-        "pending_count": 11
+        "family": "Qwen",
+        "count": 72,
+        "verified_count": 0,
+        "pending_count": 72
+      },
+      {
+        "family": "Llama",
+        "count": 38,
+        "verified_count": 0,
+        "pending_count": 38
       },
       {
         "family": "DeepSeek",
-        "count": 11,
+        "count": 20,
         "verified_count": 2,
+        "pending_count": 18
+      },
+      {
+        "family": "GLM",
+        "count": 18,
+        "verified_count": 1,
+        "pending_count": 17
+      },
+      {
+        "family": "Mistral",
+        "count": 15,
+        "verified_count": 0,
+        "pending_count": 15
+      },
+      {
+        "family": "Nous",
+        "count": 12,
+        "verified_count": 0,
+        "pending_count": 12
+      },
+      {
+        "family": "Arcee AI",
+        "count": 11,
+        "verified_count": 0,
+        "pending_count": 11
+      },
+      {
+        "family": "Perplexity",
+        "count": 9,
+        "verified_count": 0,
+        "pending_count": 9
+      },
+      {
+        "family": "NVIDIA",
+        "count": 9,
+        "verified_count": 0,
+        "pending_count": 9
+      },
+      {
+        "family": "Microsoft",
+        "count": 9,
+        "verified_count": 0,
         "pending_count": 9
       },
       {
@@ -28,31 +76,163 @@
         "pending_count": 8
       },
       {
+        "family": "AllenAI",
+        "count": 7,
+        "verified_count": 0,
+        "pending_count": 7
+      },
+      {
+        "family": "Kimi",
+        "count": 6,
+        "verified_count": 0,
+        "pending_count": 6
+      },
+      {
+        "family": "字节跳动",
+        "count": 5,
+        "verified_count": 1,
+        "pending_count": 4
+      },
+      {
         "family": "ERNIE",
         "count": 5,
         "verified_count": 0,
         "pending_count": 5
       },
       {
-        "family": "Kimi",
+        "family": "ByteDance Seed",
+        "count": 5,
+        "verified_count": 0,
+        "pending_count": 5
+      },
+      {
+        "family": "LiquidAI",
+        "count": 5,
+        "verified_count": 0,
+        "pending_count": 5
+      },
+      {
+        "family": "Sourceful",
+        "count": 5,
+        "verified_count": 0,
+        "pending_count": 5
+      },
+      {
+        "family": "Amazon",
+        "count": 5,
+        "verified_count": 0,
+        "pending_count": 5
+      },
+      {
+        "family": "Sentence Transformers",
+        "count": 5,
+        "verified_count": 0,
+        "pending_count": 5
+      },
+      {
+        "family": "TheDrummer",
+        "count": 5,
+        "verified_count": 0,
+        "pending_count": 5
+      },
+      {
+        "family": "Mixtral",
+        "count": 5,
+        "verified_count": 0,
+        "pending_count": 5
+      },
+      {
+        "family": "AionLabs",
         "count": 4,
         "verified_count": 0,
         "pending_count": 4
       },
       {
-        "family": "阿里云",
-        "count": 3,
-        "verified_count": 1,
-        "pending_count": 2
+        "family": "Black Forest Labs",
+        "count": 4,
+        "verified_count": 0,
+        "pending_count": 4
       },
       {
-        "family": "字节跳动",
-        "count": 2,
-        "verified_count": 1,
-        "pending_count": 1
+        "family": "零一万物",
+        "count": 4,
+        "verified_count": 0,
+        "pending_count": 4
       },
       {
         "family": "Step",
+        "count": 3,
+        "verified_count": 0,
+        "pending_count": 3
+      },
+      {
+        "family": "Xiaomi",
+        "count": 3,
+        "verified_count": 0,
+        "pending_count": 3
+      },
+      {
+        "family": "Inception",
+        "count": 3,
+        "verified_count": 0,
+        "pending_count": 3
+      },
+      {
+        "family": "Intfloat",
+        "count": 3,
+        "verified_count": 0,
+        "pending_count": 3
+      },
+      {
+        "family": "BAAI",
+        "count": 3,
+        "verified_count": 0,
+        "pending_count": 3
+      },
+      {
+        "family": "OpenGVLab",
+        "count": 3,
+        "verified_count": 0,
+        "pending_count": 3
+      },
+      {
+        "family": "Morph",
+        "count": 3,
+        "verified_count": 0,
+        "pending_count": 3
+      },
+      {
+        "family": "Liquid",
+        "count": 3,
+        "verified_count": 0,
+        "pending_count": 3
+      },
+      {
+        "family": "Kwaipilot",
+        "count": 2,
+        "verified_count": 0,
+        "pending_count": 2
+      },
+      {
+        "family": "Relace",
+        "count": 2,
+        "verified_count": 0,
+        "pending_count": 2
+      },
+      {
+        "family": "Thenlper",
+        "count": 2,
+        "verified_count": 0,
+        "pending_count": 2
+      },
+      {
+        "family": "NeverSleep",
+        "count": 2,
+        "verified_count": 0,
+        "pending_count": 2
+      },
+      {
+        "family": "Inflection",
         "count": 2,
         "verified_count": 0,
         "pending_count": 2
@@ -82,7 +262,151 @@
         "pending_count": 1
       },
       {
-        "family": "Llama",
+        "family": "Upstage",
+        "count": 1,
+        "verified_count": 0,
+        "pending_count": 1
+      },
+      {
+        "family": "Writer",
+        "count": 1,
+        "verified_count": 0,
+        "pending_count": 1
+      },
+      {
+        "family": "EssentialAI",
+        "count": 1,
+        "verified_count": 0,
+        "pending_count": 1
+      },
+      {
+        "family": "Prime Intellect",
+        "count": 1,
+        "verified_count": 0,
+        "pending_count": 1
+      },
+      {
+        "family": "TNG",
+        "count": 1,
+        "verified_count": 0,
+        "pending_count": 1
+      },
+      {
+        "family": "Deep Cogito",
+        "count": 1,
+        "verified_count": 0,
+        "pending_count": 1
+      },
+      {
+        "family": "IBM",
+        "count": 1,
+        "verified_count": 0,
+        "pending_count": 1
+      },
+      {
+        "family": "Meituan",
+        "count": 1,
+        "verified_count": 0,
+        "pending_count": 1
+      },
+      {
+        "family": "Venice",
+        "count": 1,
+        "verified_count": 0,
+        "pending_count": 1
+      },
+      {
+        "family": "Sarvam AI",
+        "count": 1,
+        "verified_count": 0,
+        "pending_count": 1
+      },
+      {
+        "family": "EleutherAI",
+        "count": 1,
+        "verified_count": 0,
+        "pending_count": 1
+      },
+      {
+        "family": "ArliAI",
+        "count": 1,
+        "verified_count": 0,
+        "pending_count": 1
+      },
+      {
+        "family": "Agentica",
+        "count": 1,
+        "verified_count": 0,
+        "pending_count": 1
+      },
+      {
+        "family": "SteelSkull",
+        "count": 1,
+        "verified_count": 0,
+        "pending_count": 1
+      },
+      {
+        "family": "Reka",
+        "count": 1,
+        "verified_count": 0,
+        "pending_count": 1
+      },
+      {
+        "family": "Moonshot AI",
+        "count": 1,
+        "verified_count": 0,
+        "pending_count": 1
+      },
+      {
+        "family": "Inflatebot",
+        "count": 1,
+        "verified_count": 0,
+        "pending_count": 1
+      },
+      {
+        "family": "Aetherwiing",
+        "count": 1,
+        "verified_count": 0,
+        "pending_count": 1
+      },
+      {
+        "family": "Snowflake",
+        "count": 1,
+        "verified_count": 0,
+        "pending_count": 1
+      },
+      {
+        "family": "Fireworks",
+        "count": 1,
+        "verified_count": 0,
+        "pending_count": 1
+      },
+      {
+        "family": "Databricks",
+        "count": 1,
+        "verified_count": 0,
+        "pending_count": 1
+      },
+      {
+        "family": "RWKV v5",
+        "count": 1,
+        "verified_count": 0,
+        "pending_count": 1
+      },
+      {
+        "family": "Pygmalion",
+        "count": 1,
+        "verified_count": 0,
+        "pending_count": 1
+      },
+      {
+        "family": "Hugging Face",
+        "count": 1,
+        "verified_count": 0,
+        "pending_count": 1
+      },
+      {
+        "family": "Mancer",
         "count": 1,
         "verified_count": 0,
         "pending_count": 1
@@ -93,12 +417,6 @@
     "country": "日本",
     "continent": "亚洲",
     "families": [
-      {
-        "family": "日本研究机构/产业联合",
-        "count": 1,
-        "verified_count": 1,
-        "pending_count": 0
-      },
       {
         "family": "Preferred Networks",
         "count": 1,
@@ -166,7 +484,7 @@
     "continent": "欧洲",
     "families": [
       {
-        "family": "Aleph Alpha / 欧洲合作方",
+        "family": "Aleph Alpha",
         "count": 1,
         "verified_count": 1,
         "pending_count": 0
@@ -179,39 +497,39 @@
     "families": [
       {
         "family": "Mistral",
-        "count": 15,
+        "count": 30,
         "verified_count": 1,
-        "pending_count": 14
-      },
-      {
-        "family": "Devstral",
-        "count": 3,
-        "verified_count": 0,
-        "pending_count": 3
-      },
-      {
-        "family": "Ministral",
-        "count": 3,
-        "verified_count": 0,
-        "pending_count": 3
+        "pending_count": 29
       },
       {
         "family": "Mistral AI",
-        "count": 3,
+        "count": 9,
         "verified_count": 0,
-        "pending_count": 3
+        "pending_count": 9
       },
       {
-        "family": "Mixtral",
-        "count": 2,
+        "family": "Ministral",
+        "count": 8,
         "verified_count": 0,
-        "pending_count": 2
+        "pending_count": 8
+      },
+      {
+        "family": "Devstral",
+        "count": 7,
+        "verified_count": 0,
+        "pending_count": 7
       },
       {
         "family": "Codestral",
-        "count": 1,
+        "count": 5,
         "verified_count": 0,
-        "pending_count": 1
+        "pending_count": 5
+      },
+      {
+        "family": "Mixtral",
+        "count": 5,
+        "verified_count": 0,
+        "pending_count": 5
       }
     ]
   },
@@ -233,51 +551,63 @@
     "families": [
       {
         "family": "GPT",
-        "count": 53,
+        "count": 112,
         "verified_count": 1,
-        "pending_count": 52
+        "pending_count": 111
       },
       {
         "family": "Gemini",
-        "count": 17,
+        "count": 45,
         "verified_count": 1,
-        "pending_count": 16
+        "pending_count": 44
       },
       {
         "family": "Claude",
-        "count": 14,
+        "count": 39,
         "verified_count": 1,
-        "pending_count": 13
+        "pending_count": 38
       },
       {
         "family": "Grok",
-        "count": 11,
+        "count": 27,
         "verified_count": 1,
-        "pending_count": 10
+        "pending_count": 26
       },
       {
         "family": "Gemma",
-        "count": 11,
+        "count": 25,
         "verified_count": 0,
-        "pending_count": 11
-      },
-      {
-        "family": "OpenAI o-series",
-        "count": 10,
-        "verified_count": 0,
-        "pending_count": 10
-      },
-      {
-        "family": "AI21 Labs",
-        "count": 2,
-        "verified_count": 1,
-        "pending_count": 1
+        "pending_count": 25
       },
       {
         "family": "Llama",
-        "count": 1,
+        "count": 25,
         "verified_count": 1,
-        "pending_count": 0
+        "pending_count": 24
+      },
+      {
+        "family": "OpenAI o-series",
+        "count": 24,
+        "verified_count": 0,
+        "pending_count": 24
+      },
+      {
+        "family": "AI21 Labs",
+        "count": 9,
+        "verified_count": 1,
+        "pending_count": 8
+      },
+      {
+        "family": "OpenAI",
+        "count": 5,
+        "verified_count": 0,
+        "pending_count": 5
+      },
+      {
+        "family": "Google",
+        "count": 5,
+        "verified_count": 0,
+        "pending_count": 5
       }
     ]
   },
@@ -287,9 +617,9 @@
     "families": [
       {
         "family": "Command",
-        "count": 5,
+        "count": 14,
         "verified_count": 1,
-        "pending_count": 4
+        "pending_count": 13
       }
     ]
   }

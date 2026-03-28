@@ -85,6 +85,21 @@ def resolve_company(raw_company: str, company_map: dict):
     return canonical, None
 
 
+def extract_raw_company(name: str, model_id: str, item: dict):
+    raw_company = ''
+    if '/' in model_id:
+        raw_company = model_id.split('/')[0]
+    if not raw_company and ':' in name:
+        raw_company = name.split(':', 1)[0].strip()
+    if not raw_company:
+        raw_company = item.get('top_provider', {}).get('name', '') if isinstance(item.get('top_provider'), dict) else ''
+    if not raw_company:
+        architecture = item.get('architecture') or {}
+        if isinstance(architecture, dict):
+            raw_company = architecture.get('modality', '') or architecture.get('tokenizer', '') or ''
+    return raw_company.strip()
+
+
 def normalize_openrouter(payload, company_map):
     items = payload.get('data') if isinstance(payload, dict) else None
     if not isinstance(items, list):
@@ -93,11 +108,7 @@ def normalize_openrouter(payload, company_map):
     for item in items:
         name = item.get('name') or item.get('id') or ''
         model_id = item.get('id') or name
-        raw_company = ''
-        if '/' in model_id:
-            raw_company = model_id.split('/')[0]
-        if not raw_company:
-            raw_company = item.get('top_provider', {}).get('name', '') if isinstance(item.get('top_provider'), dict) else ''
+        raw_company = extract_raw_company(name, model_id, item)
         canonical_company, country = resolve_company(raw_company, company_map)
         out.append({
             'name': name,
