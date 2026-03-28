@@ -1,8 +1,8 @@
 {
   "countries": 11,
-  "models_total": 843,
+  "models_total": 846,
   "verified_models": 25,
-  "unverified_models": 818,
+  "unverified_models": 821,
   "issues": [
     {
       "country": "中国",
@@ -972,24 +972,6 @@
     },
     {
       "country": "中国",
-      "model": "SteelSkull: L3.3 Electra R1 70B",
-      "company": "SteelSkull",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
-      "model": "Reka: Flash 3",
-      "company": "Reka",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
-      "model": "LatitudeGames: Wayfarer Large 70B Llama 3.3",
-      "company": "LatitudeGames",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
       "model": "DeepSeek: DeepSeek R1 Zero",
       "company": "DeepSeek",
       "reason": "unverified"
@@ -1050,12 +1032,6 @@
     },
     {
       "country": "中国",
-      "model": "Inflatebot: Mag Mell R1 12B",
-      "company": "Inflatebot",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
       "model": "EVA Llama 3.33 70B",
       "company": "阿里云",
       "reason": "unverified"
@@ -1082,12 +1058,6 @@
       "country": "中国",
       "model": "Mistral Large 2407",
       "company": "阿里云",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
-      "model": "Infermatic: Mistral Nemo Inferor 12B",
-      "company": "Infermatic",
       "reason": "unverified"
     },
     {
@@ -1130,12 +1100,6 @@
       "country": "中国",
       "model": "Yi 1.5 34B Chat",
       "company": "阿里云",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
-      "model": "Aetherwiing: Starcannon 12B",
-      "company": "Aetherwiing",
       "reason": "unverified"
     },
     {
@@ -1212,12 +1176,6 @@
     },
     {
       "country": "中国",
-      "model": "NousResearch: Hermes 2 Pro - Llama-3 8B",
-      "company": "NousResearch",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
       "model": "DeepSeek V2.5",
       "company": "阿里云",
       "reason": "unverified"
@@ -1272,18 +1230,6 @@
     },
     {
       "country": "中国",
-      "model": "Snowflake: Arctic Instruct",
-      "company": "Snowflake",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
-      "model": "Fireworks: FireLLaVA 13B",
-      "company": "Fireworks",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
       "model": "Fimbulvetr 11B v2",
       "company": "阿里云",
       "reason": "unverified"
@@ -1304,12 +1250,6 @@
       "country": "中国",
       "model": "Zephyr 141B-A35B",
       "company": "阿里云",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
-      "model": "Databricks: DBRX 132B Instruct",
-      "company": "Databricks",
       "reason": "unverified"
     },
     {
@@ -1520,30 +1460,6 @@
       "country": "中国",
       "model": "Synthia 70B",
       "company": "阿里云",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
-      "model": "Pygmalion: Mythalion 13B",
-      "company": "Pygmalion",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
-      "model": "Phind: CodeLlama 34B v2",
-      "company": "Phind",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
-      "model": "Hugging Face: Zephyr 7B",
-      "company": "Hugging Face",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
-      "model": "Mancer: Weaver (alpha)",
-      "company": "Mancer",
       "reason": "unverified"
     },
     {
@@ -2018,6 +1934,90 @@
       "country": "英国",
       "model": "Sentence Transformers: all-MiniLM-L6-v2",
       "company": "Sentence Transformers",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "SteelSkull: L3.3 Electra R1 70B",
+      "company": "SteelSkull",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "Reka: Flash 3",
+      "company": "Reka",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "LatitudeGames: Wayfarer Large 70B Llama 3.3",
+      "company": "LatitudeGames",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "Inflatebot: Mag Mell R1 12B",
+      "company": "Inflatebot",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "Infermatic: Mistral Nemo Inferor 12B",
+      "company": "Infermatic",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "Aetherwiing: Starcannon 12B",
+      "company": "Aetherwiing",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "NousResearch: Hermes 2 Pro - Llama-3 8B",
+      "company": "NousResearch",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "Snowflake: Arctic Instruct",
+      "company": "Snowflake",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "Fireworks: FireLLaVA 13B",
+      "company": "Fireworks",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "Databricks: DBRX 132B Instruct",
+      "company": "Databricks",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "Pygmalion: Mythalion 13B",
+      "company": "Pygmalion",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "Phind: CodeLlama 34B v2",
+      "company": "Phind",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "Hugging Face: Zephyr 7B",
+      "company": "Hugging Face",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "Mancer: Weaver (alpha)",
+      "company": "Mancer",
       "reason": "unverified"
     },
     {
@@ -4832,6 +4832,24 @@
       "country": "美国",
       "model": "WizardLM-2 8x22B",
       "company": "Microsoft",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "Reka Edge",
+      "company": "Reka",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "NousResearch: Hermes 2 Pro - Llama-3 8B",
+      "company": "NousResearch",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "Mancer: Weaver (alpha)",
+      "company": "Mancer",
       "reason": "unverified"
     },
     {

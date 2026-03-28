@@ -4,7 +4,7 @@
     "flag": "🇨🇳",
     "continent": "亚洲",
     "has_models": true,
-    "model_count": 268,
+    "model_count": 254,
     "verified_model_count": 8,
     "pending_model_count": 94,
     "family_summary": [
@@ -1954,39 +1954,6 @@
         "family": "阿里云"
       },
       {
-        "name": "SteelSkull: L3.3 Electra R1 70B",
-        "company": "SteelSkull",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "SteelSkull: L3.3 Electra R1 70B",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "L3.3 Electra R1 70B",
-        "family": "SteelSkull"
-      },
-      {
-        "name": "Reka: Flash 3",
-        "company": "Reka",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Reka: Flash 3",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Flash 3",
-        "family": "Reka"
-      },
-      {
-        "name": "LatitudeGames: Wayfarer Large 70B Llama 3.3",
-        "company": "LatitudeGames",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "LatitudeGames: Wayfarer Large 70B Llama 3.3",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Wayfarer Large 70B Llama 3.3",
-        "family": "Llama"
-      },
-      {
         "name": "DeepSeek: DeepSeek R1 Zero",
         "company": "DeepSeek",
         "type": "大语言模型",
@@ -2097,17 +2064,6 @@
         "family": "Qwen"
       },
       {
-        "name": "Inflatebot: Mag Mell R1 12B",
-        "company": "Inflatebot",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Inflatebot: Mag Mell R1 12B",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Mag Mell R1 12B",
-        "family": "Inflatebot"
-      },
-      {
         "name": "EVA Llama 3.33 70B",
         "company": "阿里云",
         "type": "大语言模型",
@@ -2160,17 +2116,6 @@
         "company_country": "中国",
         "verified": false,
         "display_name": "Mistral Large 2407",
-        "family": "Mistral"
-      },
-      {
-        "name": "Infermatic: Mistral Nemo Inferor 12B",
-        "company": "Infermatic",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Infermatic: Mistral Nemo Inferor 12B",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Mistral Nemo Inferor 12B",
         "family": "Mistral"
       },
       {
@@ -2249,17 +2194,6 @@
         "verified": false,
         "display_name": "Yi 1.5 34B Chat",
         "family": "阿里云"
-      },
-      {
-        "name": "Aetherwiing: Starcannon 12B",
-        "company": "Aetherwiing",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Aetherwiing: Starcannon 12B",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Starcannon 12B",
-        "family": "Aetherwiing"
       },
       {
         "name": "01.AI: Yi Large Turbo",
@@ -2394,17 +2328,6 @@
         "family": "阿里云"
       },
       {
-        "name": "NousResearch: Hermes 2 Pro - Llama-3 8B",
-        "company": "NousResearch",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "NousResearch: Hermes 2 Pro - Llama-3 8B",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Hermes 2 Pro - Llama-3 8B",
-        "family": "Llama"
-      },
-      {
         "name": "DeepSeek V2.5",
         "company": "阿里云",
         "type": "大语言模型",
@@ -2504,28 +2427,6 @@
         "family": "Qwen"
       },
       {
-        "name": "Snowflake: Arctic Instruct",
-        "company": "Snowflake",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Snowflake: Arctic Instruct",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Arctic Instruct",
-        "family": "Snowflake"
-      },
-      {
-        "name": "Fireworks: FireLLaVA 13B",
-        "company": "Fireworks",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Fireworks: FireLLaVA 13B",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "FireLLaVA 13B",
-        "family": "Fireworks"
-      },
-      {
         "name": "Fimbulvetr 11B v2",
         "company": "阿里云",
         "type": "大语言模型",
@@ -2568,17 +2469,6 @@
         "verified": false,
         "display_name": "Zephyr 141B-A35B",
         "family": "阿里云"
-      },
-      {
-        "name": "Databricks: DBRX 132B Instruct",
-        "company": "Databricks",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Databricks: DBRX 132B Instruct",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "DBRX 132B Instruct",
-        "family": "Databricks"
       },
       {
         "name": "Midnight Rose 70B",
@@ -2964,50 +2854,6 @@
         "verified": false,
         "display_name": "Synthia 70B",
         "family": "阿里云"
-      },
-      {
-        "name": "Pygmalion: Mythalion 13B",
-        "company": "Pygmalion",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Pygmalion: Mythalion 13B",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Mythalion 13B",
-        "family": "Pygmalion"
-      },
-      {
-        "name": "Phind: CodeLlama 34B v2",
-        "company": "Phind",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Phind: CodeLlama 34B v2",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "CodeLlama 34B v2",
-        "family": "Llama"
-      },
-      {
-        "name": "Hugging Face: Zephyr 7B",
-        "company": "Hugging Face",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Hugging Face: Zephyr 7B",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Zephyr 7B",
-        "family": "Hugging Face"
-      },
-      {
-        "name": "Mancer: Weaver (alpha)",
-        "company": "Mancer",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Mancer: Weaver (alpha)",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Weaver (alpha)",
-        "family": "Mancer"
       },
       {
         "name": "ReMM SLERP 13B",
@@ -4189,7 +4035,7 @@
     "flag": "🇺🇸",
     "continent": "北美洲",
     "has_models": true,
-    "model_count": 475,
+    "model_count": 492,
     "verified_model_count": 6,
     "pending_model_count": 113,
     "family_summary": [
@@ -4243,6 +4089,160 @@
       }
     ],
     "models": [
+      {
+        "name": "SteelSkull: L3.3 Electra R1 70B",
+        "company": "SteelSkull",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "SteelSkull: L3.3 Electra R1 70B",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "L3.3 Electra R1 70B",
+        "family": "SteelSkull"
+      },
+      {
+        "name": "Reka: Flash 3",
+        "company": "Reka",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Reka: Flash 3",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Flash 3",
+        "family": "Reka"
+      },
+      {
+        "name": "LatitudeGames: Wayfarer Large 70B Llama 3.3",
+        "company": "LatitudeGames",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "LatitudeGames: Wayfarer Large 70B Llama 3.3",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Wayfarer Large 70B Llama 3.3",
+        "family": "Llama"
+      },
+      {
+        "name": "Inflatebot: Mag Mell R1 12B",
+        "company": "Inflatebot",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Inflatebot: Mag Mell R1 12B",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Mag Mell R1 12B",
+        "family": "Inflatebot"
+      },
+      {
+        "name": "Infermatic: Mistral Nemo Inferor 12B",
+        "company": "Infermatic",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Infermatic: Mistral Nemo Inferor 12B",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Mistral Nemo Inferor 12B",
+        "family": "Mistral"
+      },
+      {
+        "name": "Aetherwiing: Starcannon 12B",
+        "company": "Aetherwiing",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Aetherwiing: Starcannon 12B",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Starcannon 12B",
+        "family": "Aetherwiing"
+      },
+      {
+        "name": "NousResearch: Hermes 2 Pro - Llama-3 8B",
+        "company": "NousResearch",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "NousResearch: Hermes 2 Pro - Llama-3 8B",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Hermes 2 Pro - Llama-3 8B",
+        "family": "Llama"
+      },
+      {
+        "name": "Snowflake: Arctic Instruct",
+        "company": "Snowflake",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Snowflake: Arctic Instruct",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Arctic Instruct",
+        "family": "Snowflake"
+      },
+      {
+        "name": "Fireworks: FireLLaVA 13B",
+        "company": "Fireworks",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Fireworks: FireLLaVA 13B",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "FireLLaVA 13B",
+        "family": "Fireworks"
+      },
+      {
+        "name": "Databricks: DBRX 132B Instruct",
+        "company": "Databricks",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Databricks: DBRX 132B Instruct",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "DBRX 132B Instruct",
+        "family": "Databricks"
+      },
+      {
+        "name": "Pygmalion: Mythalion 13B",
+        "company": "Pygmalion",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Pygmalion: Mythalion 13B",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Mythalion 13B",
+        "family": "Pygmalion"
+      },
+      {
+        "name": "Phind: CodeLlama 34B v2",
+        "company": "Phind",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Phind: CodeLlama 34B v2",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "CodeLlama 34B v2",
+        "family": "Llama"
+      },
+      {
+        "name": "Hugging Face: Zephyr 7B",
+        "company": "Hugging Face",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Hugging Face: Zephyr 7B",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Zephyr 7B",
+        "family": "Hugging Face"
+      },
+      {
+        "name": "Mancer: Weaver (alpha)",
+        "company": "Mancer",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Mancer: Weaver (alpha)",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Weaver (alpha)",
+        "family": "Mancer"
+      },
       {
         "name": "Writer: Palmyra X5",
         "company": "Writer",
@@ -9467,6 +9467,39 @@
         "verified": false,
         "display_name": "WizardLM-2 8x22B",
         "family": "Microsoft"
+      },
+      {
+        "name": "Reka Edge",
+        "company": "Reka",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "reka/reka-edge",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Reka Edge",
+        "family": "Reka"
+      },
+      {
+        "name": "NousResearch: Hermes 2 Pro - Llama-3 8B",
+        "company": "NousResearch",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "nousresearch/hermes-2-pro-llama-3-8b",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Hermes 2 Pro - Llama-3 8B",
+        "family": "Llama"
+      },
+      {
+        "name": "Mancer: Weaver (alpha)",
+        "company": "Mancer",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "mancer/weaver",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Weaver (alpha)",
+        "family": "Mancer"
       }
     ]
   },

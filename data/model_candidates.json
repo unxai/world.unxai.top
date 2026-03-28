@@ -1,20 +1,20 @@
 {
   "source": "https://openrouter.ai/api/v1/models",
   "count": 347,
-  "mapped_count": 309,
+  "mapped_count": 319,
   "items": [
     {
       "name": "Kwaipilot: KAT-Coder-Pro V2",
-      "company": "kwaipilot",
-      "company_country": null,
+      "company": "Kwaipilot",
+      "company_country": "中国",
       "type": "大语言模型",
       "source": "OpenRouter",
       "source_id": "kwaipilot/kat-coder-pro-v2"
     },
     {
       "name": "Reka Edge",
-      "company": "reka",
-      "company_country": null,
+      "company": "Reka",
+      "company_country": "美国",
       "type": "大语言模型",
       "source": "OpenRouter",
       "source_id": "reka/reka-edge"
@@ -757,8 +757,8 @@
     },
     {
       "name": "Kwaipilot: KAT-Coder-Pro V1",
-      "company": "kwaipilot",
-      "company_country": null,
+      "company": "Kwaipilot",
+      "company_country": "中国",
       "type": "大语言模型",
       "source": "OpenRouter",
       "source_id": "kwaipilot/kat-coder-pro"
@@ -1173,16 +1173,16 @@
     },
     {
       "name": "Nous: Hermes 4 70B",
-      "company": "nousresearch",
-      "company_country": null,
+      "company": "NousResearch",
+      "company_country": "美国",
       "type": "大语言模型",
       "source": "OpenRouter",
       "source_id": "nousresearch/hermes-4-70b"
     },
     {
       "name": "Nous: Hermes 4 405B",
-      "company": "nousresearch",
-      "company_country": null,
+      "company": "NousResearch",
+      "company_country": "美国",
       "type": "大语言模型",
       "source": "OpenRouter",
       "source_id": "nousresearch/hermes-4-405b"
@@ -2469,24 +2469,24 @@
     },
     {
       "name": "Nous: Hermes 3 70B Instruct",
-      "company": "nousresearch",
-      "company_country": null,
+      "company": "NousResearch",
+      "company_country": "美国",
       "type": "大语言模型",
       "source": "OpenRouter",
       "source_id": "nousresearch/hermes-3-llama-3.1-70b"
     },
     {
       "name": "Nous: Hermes 3 405B Instruct (free)",
-      "company": "nousresearch",
-      "company_country": null,
+      "company": "NousResearch",
+      "company_country": "美国",
       "type": "大语言模型",
       "source": "OpenRouter",
       "source_id": "nousresearch/hermes-3-llama-3.1-405b:free"
     },
     {
       "name": "Nous: Hermes 3 405B Instruct",
-      "company": "nousresearch",
-      "company_country": null,
+      "company": "NousResearch",
+      "company_country": "美国",
       "type": "大语言模型",
       "source": "OpenRouter",
       "source_id": "nousresearch/hermes-3-llama-3.1-405b"
@@ -2573,8 +2573,8 @@
     },
     {
       "name": "NousResearch: Hermes 2 Pro - Llama-3 8B",
-      "company": "nousresearch",
-      "company_country": null,
+      "company": "NousResearch",
+      "company_country": "美国",
       "type": "大语言模型",
       "source": "OpenRouter",
       "source_id": "nousresearch/hermes-2-pro-llama-3-8b"
@@ -2733,8 +2733,8 @@
     },
     {
       "name": "Mancer: Weaver (alpha)",
-      "company": "mancer",
-      "company_country": null,
+      "company": "Mancer",
+      "company_country": "美国",
       "type": "大语言模型",
       "source": "OpenRouter",
       "source_id": "mancer/weaver"

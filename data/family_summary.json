@@ -29,21 +29,21 @@
       },
       {
         "family": "Mistral",
-        "count": 13,
+        "count": 12,
         "verified_count": 0,
-        "pending_count": 13
-      },
-      {
-        "family": "Llama",
-        "count": 10,
-        "verified_count": 0,
-        "pending_count": 10
+        "pending_count": 12
       },
       {
         "family": "MiniMax",
         "count": 8,
         "verified_count": 0,
         "pending_count": 8
+      },
+      {
+        "family": "Llama",
+        "count": 7,
+        "verified_count": 0,
+        "pending_count": 7
       },
       {
         "family": "Kimi",
@@ -142,73 +142,13 @@
         "pending_count": 1
       },
       {
-        "family": "SteelSkull",
-        "count": 1,
-        "verified_count": 0,
-        "pending_count": 1
-      },
-      {
-        "family": "Reka",
-        "count": 1,
-        "verified_count": 0,
-        "pending_count": 1
-      },
-      {
         "family": "Moonshot AI",
         "count": 1,
         "verified_count": 0,
         "pending_count": 1
       },
       {
-        "family": "Inflatebot",
-        "count": 1,
-        "verified_count": 0,
-        "pending_count": 1
-      },
-      {
-        "family": "Aetherwiing",
-        "count": 1,
-        "verified_count": 0,
-        "pending_count": 1
-      },
-      {
-        "family": "Snowflake",
-        "count": 1,
-        "verified_count": 0,
-        "pending_count": 1
-      },
-      {
-        "family": "Fireworks",
-        "count": 1,
-        "verified_count": 0,
-        "pending_count": 1
-      },
-      {
-        "family": "Databricks",
-        "count": 1,
-        "verified_count": 0,
-        "pending_count": 1
-      },
-      {
         "family": "RWKV v5",
-        "count": 1,
-        "verified_count": 0,
-        "pending_count": 1
-      },
-      {
-        "family": "Pygmalion",
-        "count": 1,
-        "verified_count": 0,
-        "pending_count": 1
-      },
-      {
-        "family": "Hugging Face",
-        "count": 1,
-        "verified_count": 0,
-        "pending_count": 1
-      },
-      {
-        "family": "Mancer",
         "count": 1,
         "verified_count": 0,
         "pending_count": 1
@@ -401,9 +341,9 @@
       },
       {
         "family": "Llama",
-        "count": 53,
+        "count": 57,
         "verified_count": 1,
-        "pending_count": 52
+        "pending_count": 56
       },
       {
         "family": "Gemini",
@@ -544,6 +484,12 @@
         "pending_count": 4
       },
       {
+        "family": "Mistral",
+        "count": 3,
+        "verified_count": 0,
+        "pending_count": 3
+      },
+      {
         "family": "DeepSeek",
         "count": 3,
         "verified_count": 0,
@@ -566,6 +512,18 @@
         "count": 3,
         "verified_count": 0,
         "pending_count": 3
+      },
+      {
+        "family": "Reka",
+        "count": 2,
+        "verified_count": 0,
+        "pending_count": 2
+      },
+      {
+        "family": "Mancer",
+        "count": 2,
+        "verified_count": 0,
+        "pending_count": 2
       },
       {
         "family": "Writer",
@@ -592,12 +550,6 @@
         "pending_count": 2
       },
       {
-        "family": "Mistral",
-        "count": 2,
-        "verified_count": 0,
-        "pending_count": 2
-      },
-      {
         "family": "EleutherAI",
         "count": 2,
         "verified_count": 0,
@@ -614,6 +566,54 @@
         "count": 2,
         "verified_count": 0,
         "pending_count": 2
+      },
+      {
+        "family": "SteelSkull",
+        "count": 1,
+        "verified_count": 0,
+        "pending_count": 1
+      },
+      {
+        "family": "Inflatebot",
+        "count": 1,
+        "verified_count": 0,
+        "pending_count": 1
+      },
+      {
+        "family": "Aetherwiing",
+        "count": 1,
+        "verified_count": 0,
+        "pending_count": 1
+      },
+      {
+        "family": "Snowflake",
+        "count": 1,
+        "verified_count": 0,
+        "pending_count": 1
+      },
+      {
+        "family": "Fireworks",
+        "count": 1,
+        "verified_count": 0,
+        "pending_count": 1
+      },
+      {
+        "family": "Databricks",
+        "count": 1,
+        "verified_count": 0,
+        "pending_count": 1
+      },
+      {
+        "family": "Pygmalion",
+        "count": 1,
+        "verified_count": 0,
+        "pending_count": 1
+      },
+      {
+        "family": "Hugging Face",
+        "count": 1,
+        "verified_count": 0,
+        "pending_count": 1
       },
       {
         "family": "IBM",
