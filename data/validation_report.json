@@ -595,25 +595,13 @@
     {
       "country": "中国",
       "model": "Xiaomi: MiMo-V2-Omni",
-      "company": "Xiaomi",
+      "company": "小米",
       "reason": "unverified"
     },
     {
       "country": "中国",
       "model": "Xiaomi: MiMo-V2-Pro",
-      "company": "Xiaomi",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
-      "model": "Perplexity: Embed V1 4B",
-      "company": "Perplexity",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
-      "model": "Perplexity: Embed V1 0.6B",
-      "company": "Perplexity",
+      "company": "小米",
       "reason": "unverified"
     },
     {
@@ -630,50 +618,14 @@
     },
     {
       "country": "中国",
-      "model": "NVIDIA: Nemotron 3 Super (free)",
-      "company": "NVIDIA",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
-      "model": "NVIDIA: Nemotron 3 Super",
-      "company": "NVIDIA",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
       "model": "ByteDance Seed: Seed-2.0-Lite",
       "company": "ByteDance Seed",
       "reason": "unverified"
     },
     {
       "country": "中国",
-      "model": "Inception: Mercury 2",
-      "company": "Inception",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
       "model": "ByteDance Seed: Seed-2.0-Mini",
       "company": "ByteDance Seed",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
-      "model": "LiquidAI: LFM2-24B-A2B",
-      "company": "LiquidAI",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
-      "model": "NVIDIA: Llama Nemotron Embed VL 1B V2 (free)",
-      "company": "NVIDIA",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
-      "model": "AionLabs: Aion-2.0",
-      "company": "AionLabs",
       "reason": "unverified"
     },
     {
@@ -690,26 +642,8 @@
     },
     {
       "country": "中国",
-      "model": "Sourceful: Riverflow V2 Pro",
-      "company": "Sourceful",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
-      "model": "Sourceful: Riverflow V2 Fast",
-      "company": "Sourceful",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
       "model": "Free Models Router",
       "company": "阿里云",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
-      "model": "Arcee AI: Trinity Large Preview (free)",
-      "company": "Arcee AI",
       "reason": "unverified"
     },
     {
@@ -722,36 +656,6 @@
       "country": "中国",
       "model": "Writer: Palmyra X5",
       "company": "Writer",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
-      "model": "LiquidAI: LFM2.5-1.2B-Thinking (free)",
-      "company": "LiquidAI",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
-      "model": "LiquidAI: LFM2.5-1.2B-Instruct (free)",
-      "company": "LiquidAI",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
-      "model": "Black Forest Labs: FLUX.2 Klein 4B",
-      "company": "Black Forest Labs",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
-      "model": "AllenAI: Molmo2 8B",
-      "company": "AllenAI",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
-      "model": "AllenAI: Olmo 3.1 32B Instruct",
-      "company": "AllenAI",
       "reason": "unverified"
     },
     {
@@ -774,50 +678,8 @@
     },
     {
       "country": "中国",
-      "model": "AllenAI: Olmo 3.1 32B Think",
-      "company": "AllenAI",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
-      "model": "Black Forest Labs: FLUX.2 Max",
-      "company": "Black Forest Labs",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
       "model": "Xiaomi: MiMo-V2-Flash",
-      "company": "Xiaomi",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
-      "model": "NVIDIA: Nemotron 3 Nano 30B A3B (free)",
-      "company": "NVIDIA",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
-      "model": "NVIDIA: Nemotron 3 Nano 30B A3B",
-      "company": "NVIDIA",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
-      "model": "Sourceful: Riverflow V2 Max Preview",
-      "company": "Sourceful",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
-      "model": "Sourceful: Riverflow V2 Standard Preview",
-      "company": "Sourceful",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
-      "model": "Sourceful: Riverflow V2 Fast Preview",
-      "company": "Sourceful",
+      "company": "小米",
       "reason": "unverified"
     },
     {
@@ -846,68 +708,14 @@
     },
     {
       "country": "中国",
-      "model": "Amazon: Nova 2 Lite",
-      "company": "Amazon",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
-      "model": "Arcee AI: Trinity Mini (free)",
-      "company": "Arcee AI",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
-      "model": "Arcee AI: Trinity Mini",
-      "company": "Arcee AI",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
       "model": "Prime Intellect: INTELLECT-3",
       "company": "Prime Intellect",
       "reason": "unverified"
     },
     {
       "country": "中国",
-      "model": "TNG: R1T Chimera",
-      "company": "TNG",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
-      "model": "Black Forest Labs: FLUX.2 Flex",
-      "company": "Black Forest Labs",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
-      "model": "Black Forest Labs: FLUX.2 Pro",
-      "company": "Black Forest Labs",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
       "model": "Bert-Nebulon Alpha",
       "company": "阿里云",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
-      "model": "AllenAI: Olmo 3 32B Think",
-      "company": "AllenAI",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
-      "model": "AllenAI: Olmo 3 7B Instruct",
-      "company": "AllenAI",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
-      "model": "AllenAI: Olmo 3 7B Think",
-      "company": "AllenAI",
       "reason": "unverified"
     },
     {
@@ -924,68 +732,20 @@
     },
     {
       "country": "中国",
-      "model": "Intfloat: E5-Large-v2",
-      "company": "Intfloat",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
-      "model": "Intfloat: E5-Base-v2",
-      "company": "Intfloat",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
-      "model": "Intfloat: Multilingual-E5-Large",
-      "company": "Intfloat",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
-      "model": "Sentence Transformers: paraphrase-MiniLM-L6-v2",
-      "company": "Sentence Transformers",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
-      "model": "Sentence Transformers: all-MiniLM-L12-v2",
-      "company": "Sentence Transformers",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
       "model": "BAAI: bge-base-en-v1.5",
-      "company": "BAAI",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
-      "model": "Sentence Transformers: multi-qa-mpnet-base-dot-v1",
-      "company": "Sentence Transformers",
+      "company": "智源",
       "reason": "unverified"
     },
     {
       "country": "中国",
       "model": "BAAI: bge-large-en-v1.5",
-      "company": "BAAI",
+      "company": "智源",
       "reason": "unverified"
     },
     {
       "country": "中国",
       "model": "BAAI: bge-m3",
-      "company": "BAAI",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
-      "model": "Sentence Transformers: all-mpnet-base-v2",
-      "company": "Sentence Transformers",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
-      "model": "Sentence Transformers: all-MiniLM-L6-v2",
-      "company": "Sentence Transformers",
+      "company": "智源",
       "reason": "unverified"
     },
     {
@@ -1026,32 +786,8 @@
     },
     {
       "country": "中国",
-      "model": "Amazon: Nova Premier 1.0",
-      "company": "Amazon",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
-      "model": "Perplexity: Sonar Pro Search",
-      "company": "Perplexity",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
       "model": "Qwen: Qwen3 Embedding 8B",
       "company": "阿里云",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
-      "model": "NVIDIA: Nemotron Nano 12B 2 VL (free)",
-      "company": "NVIDIA",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
-      "model": "NVIDIA: Nemotron Nano 12B 2 VL",
-      "company": "NVIDIA",
       "reason": "unverified"
     },
     {
@@ -1068,18 +804,6 @@
     },
     {
       "country": "中国",
-      "model": "LiquidAI: LFM2-8B-A1B",
-      "company": "LiquidAI",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
-      "model": "LiquidAI: LFM2-2.6B",
-      "company": "LiquidAI",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
       "model": "IBM: Granite 4.0 Micro",
       "company": "IBM",
       "reason": "unverified"
@@ -1092,26 +816,8 @@
     },
     {
       "country": "中国",
-      "model": "NVIDIA: Llama 3.3 Nemotron Super 49B V1.5",
-      "company": "NVIDIA",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
-      "model": "TheDrummer: Cydonia 24B V4.1",
-      "company": "TheDrummer",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
       "model": "Relace: Relace Apply 3",
       "company": "Relace",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
-      "model": "Arcee AI: AFM 4.5B",
-      "company": "Arcee AI",
       "reason": "unverified"
     },
     {
@@ -1124,18 +830,6 @@
       "country": "中国",
       "model": "Meituan: LongCat Flash Chat",
       "company": "Meituan",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
-      "model": "NVIDIA: Nemotron Nano 9B V2 (free)",
-      "company": "NVIDIA",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
-      "model": "NVIDIA: Nemotron Nano 9B V2",
-      "company": "NVIDIA",
       "reason": "unverified"
     },
     {
@@ -1230,12 +924,6 @@
     },
     {
       "country": "中国",
-      "model": "TNG: DeepSeek R1T2 Chimera",
-      "company": "TNG",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
       "model": "Morph: Morph V3 Large",
       "company": "Morph",
       "reason": "unverified"
@@ -1250,12 +938,6 @@
       "country": "中国",
       "model": "Cypher Alpha",
       "company": "阿里云",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
-      "model": "Inception: Mercury",
-      "company": "Inception",
       "reason": "unverified"
     },
     {
@@ -1296,80 +978,14 @@
     },
     {
       "country": "中国",
-      "model": "TheDrummer: Valkyrie 49B V1",
-      "company": "TheDrummer",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
       "model": "Nous: DeepHermes 3 Mistral 24B Preview",
       "company": "Nous",
       "reason": "unverified"
     },
     {
       "country": "中国",
-      "model": "Arcee AI: Caller Large",
-      "company": "Arcee AI",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
-      "model": "Arcee AI: Spotlight",
-      "company": "Arcee AI",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
-      "model": "Arcee AI: Maestro Reasoning",
-      "company": "Arcee AI",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
-      "model": "Arcee AI: Virtuoso Large",
-      "company": "Arcee AI",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
-      "model": "Arcee AI: Coder Large",
-      "company": "Arcee AI",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
-      "model": "Arcee AI: Virtuoso Medium V2",
-      "company": "Arcee AI",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
-      "model": "Arcee AI: Arcee Blitz",
-      "company": "Arcee AI",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
-      "model": "Microsoft: Phi 4 Reasoning Plus",
-      "company": "Microsoft",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
-      "model": "Microsoft: Phi 4 Reasoning",
-      "company": "Microsoft",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
       "model": "Qwen: Qwen3 0.6B",
       "company": "阿里云",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
-      "model": "Inception: Mercury Coder",
-      "company": "Inception",
       "reason": "unverified"
     },
     {
@@ -1398,12 +1014,6 @@
     },
     {
       "country": "中国",
-      "model": "TNG: DeepSeek R1T Chimera",
-      "company": "TNG",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
       "model": "THUDM: GLM Z1 Rumination 32B ",
       "company": "智谱",
       "reason": "unverified"
@@ -1418,12 +1028,6 @@
       "country": "中国",
       "model": "THUDM: GLM 4 9B",
       "company": "智谱",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
-      "model": "Microsoft: MAI DS R1",
-      "company": "Microsoft",
       "reason": "unverified"
     },
     {
@@ -1472,24 +1076,6 @@
       "country": "中国",
       "model": "Optimus Alpha",
       "company": "阿里云",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
-      "model": "NVIDIA: Llama 3.1 Nemotron Nano 8B v1",
-      "company": "NVIDIA",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
-      "model": "NVIDIA: Llama 3.3 Nemotron Super 49B v1",
-      "company": "NVIDIA",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
-      "model": "NVIDIA: Llama 3.1 Nemotron Ultra 253B v1",
-      "company": "NVIDIA",
       "reason": "unverified"
     },
     {
@@ -1560,12 +1146,6 @@
     },
     {
       "country": "中国",
-      "model": "AllenAI: Olmo 2 32B Instruct",
-      "company": "AllenAI",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
       "model": "Reka: Flash 3",
       "company": "Reka",
       "reason": "unverified"
@@ -1574,36 +1154,6 @@
       "country": "中国",
       "model": "LatitudeGames: Wayfarer Large 70B Llama 3.3",
       "company": "LatitudeGames",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
-      "model": "TheDrummer: Skyfall 36B V2",
-      "company": "TheDrummer",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
-      "model": "Microsoft: Phi 4 Multimodal Instruct",
-      "company": "Microsoft",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
-      "model": "Perplexity: Sonar Reasoning Pro",
-      "company": "Perplexity",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
-      "model": "Perplexity: Sonar Pro",
-      "company": "Perplexity",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
-      "model": "Perplexity: Sonar Deep Research",
-      "company": "Perplexity",
       "reason": "unverified"
     },
     {
@@ -1628,12 +1178,6 @@
       "country": "中国",
       "model": "Nous: DeepHermes 3 Llama 3 8B Preview",
       "company": "Nous",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
-      "model": "Perplexity: R1 1776",
-      "company": "Perplexity",
       "reason": "unverified"
     },
     {
@@ -1668,24 +1212,6 @@
     },
     {
       "country": "中国",
-      "model": "AionLabs: Aion-1.0",
-      "company": "AionLabs",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
-      "model": "AionLabs: Aion-1.0-Mini",
-      "company": "AionLabs",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
-      "model": "AionLabs: Aion-RP 1.0 (8B)",
-      "company": "AionLabs",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
       "model": "DeepSeek: R1 Distill Qwen 1.5B",
       "company": "DeepSeek",
       "reason": "unverified"
@@ -1694,18 +1220,6 @@
       "country": "中国",
       "model": "DeepSeek: R1 Distill Qwen 14B",
       "company": "DeepSeek",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
-      "model": "Perplexity: Sonar Reasoning",
-      "company": "Perplexity",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
-      "model": "Perplexity: Sonar",
-      "company": "Perplexity",
       "reason": "unverified"
     },
     {
@@ -1722,24 +1236,6 @@
     },
     {
       "country": "中国",
-      "model": "Microsoft: Phi 4",
-      "company": "Microsoft",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
-      "model": "Sao10K: Llama 3.1 70B Hanami x1",
-      "company": "Sao10K",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
-      "model": "Sao10K: Llama 3.3 Euryale 70B",
-      "company": "Sao10K",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
       "model": "Inflatebot: Mag Mell R1 12B",
       "company": "Inflatebot",
       "reason": "unverified"
@@ -1748,24 +1244,6 @@
       "country": "中国",
       "model": "EVA Llama 3.33 70B",
       "company": "阿里云",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
-      "model": "Amazon: Nova Lite 1.0",
-      "company": "Amazon",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
-      "model": "Amazon: Nova Micro 1.0",
-      "company": "Amazon",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
-      "model": "Amazon: Nova Pro 1.0",
-      "company": "Amazon",
       "reason": "unverified"
     },
     {
@@ -1812,12 +1290,6 @@
     },
     {
       "country": "中国",
-      "model": "TheDrummer: UnslopNemo 12B",
-      "company": "TheDrummer",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
       "model": "Magnum v4 72B",
       "company": "阿里云",
       "reason": "unverified"
@@ -1826,12 +1298,6 @@
       "country": "中国",
       "model": "NeverSleep: Lumimaid v0.2 70B",
       "company": "NeverSleep",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
-      "model": "NVIDIA: Llama 3.1 Nemotron 70B Instruct",
-      "company": "NVIDIA",
       "reason": "unverified"
     },
     {
@@ -1866,12 +1332,6 @@
     },
     {
       "country": "中国",
-      "model": "TheDrummer: Rocinante 12B",
-      "company": "TheDrummer",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
       "model": "NeverSleep: Lumimaid v0.2 8B",
       "company": "NeverSleep",
       "reason": "unverified"
@@ -1884,12 +1344,6 @@
     },
     {
       "country": "中国",
-      "model": "Sao10K: Llama 3.1 Euryale 70B v2.2",
-      "company": "Sao10K",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
       "model": "Lynn: Llama 3 Soliloquy 7B v3 32K",
       "company": "Lynn",
       "reason": "unverified"
@@ -1898,12 +1352,6 @@
       "country": "中国",
       "model": "Yi 1.5 34B Chat",
       "company": "阿里云",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
-      "model": "Microsoft: Phi-3.5 Mini 128K Instruct",
-      "company": "Microsoft",
       "reason": "unverified"
     },
     {
@@ -1922,12 +1370,6 @@
       "country": "中国",
       "model": "Nous: Hermes 3 405B Instruct",
       "company": "Nous",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
-      "model": "Sao10K: Llama 3 8B Lunaris",
-      "company": "Sao10K",
       "reason": "unverified"
     },
     {
@@ -1962,18 +1404,6 @@
     },
     {
       "country": "中国",
-      "model": "Perplexity: Llama 3.1 Sonar 70B Online",
-      "company": "Perplexity",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
-      "model": "Perplexity: Llama 3.1 Sonar 8B Online",
-      "company": "Perplexity",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
       "model": "Dolphin Llama 3 70B 🐬",
       "company": "阿里云",
       "reason": "unverified"
@@ -1998,32 +1428,8 @@
     },
     {
       "country": "中国",
-      "model": "Sao10K: Llama 3 Stheno 8B v3.3 32K",
-      "company": "Sao10K",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
       "model": "01.AI: Yi Large",
       "company": "零一万物",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
-      "model": "NVIDIA: Nemotron-4 340B Instruct",
-      "company": "NVIDIA",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
-      "model": "Sao10k: Llama 3 Euryale 70B v2.1",
-      "company": "Sao10k",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
-      "model": "Microsoft: Phi-3 Medium 4K Instruct",
-      "company": "Microsoft",
       "reason": "unverified"
     },
     {
@@ -2058,50 +1464,14 @@
     },
     {
       "country": "中国",
-      "model": "Microsoft: Phi-3 Mini 128K Instruct",
-      "company": "Microsoft",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
-      "model": "Microsoft: Phi-3 Medium 128K Instruct",
-      "company": "Microsoft",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
       "model": "NeverSleep: Llama 3 Lumimaid 70B",
       "company": "NeverSleep",
       "reason": "unverified"
     },
     {
       "country": "中国",
-      "model": "Perplexity: Llama3 Sonar 70B",
-      "company": "Perplexity",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
-      "model": "Perplexity: Llama3 Sonar 8B Online",
-      "company": "Perplexity",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
-      "model": "Perplexity: Llama3 Sonar 8B",
-      "company": "Perplexity",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
       "model": "DeepSeek V2.5",
       "company": "阿里云",
-      "reason": "unverified"
-    },
-    {
-      "country": "中国",
-      "model": "Perplexity: Llama3 Sonar 70B Online",
-      "company": "Perplexity",
       "reason": "unverified"
     },
     {
@@ -2507,6 +1877,24 @@
       "reason": "unverified"
     },
     {
+      "country": "德国",
+      "model": "TNG: R1T Chimera",
+      "company": "TNG",
+      "reason": "unverified"
+    },
+    {
+      "country": "德国",
+      "model": "TNG: DeepSeek R1T2 Chimera",
+      "company": "TNG",
+      "reason": "unverified"
+    },
+    {
+      "country": "德国",
+      "model": "TNG: DeepSeek R1T Chimera",
+      "company": "TNG",
+      "reason": "unverified"
+    },
+    {
       "country": "法国",
       "model": "Mistral: Mistral Small 4",
       "company": "Mistral AI",
@@ -2882,6 +2270,618 @@
       "country": "法国",
       "model": "Mistral: Mistral 7B Instruct v0.1",
       "company": "Mistral AI",
+      "reason": "unverified"
+    },
+    {
+      "country": "英国",
+      "model": "Sentence Transformers: paraphrase-MiniLM-L6-v2",
+      "company": "Sentence Transformers",
+      "reason": "unverified"
+    },
+    {
+      "country": "英国",
+      "model": "Sentence Transformers: all-MiniLM-L12-v2",
+      "company": "Sentence Transformers",
+      "reason": "unverified"
+    },
+    {
+      "country": "英国",
+      "model": "Sentence Transformers: multi-qa-mpnet-base-dot-v1",
+      "company": "Sentence Transformers",
+      "reason": "unverified"
+    },
+    {
+      "country": "英国",
+      "model": "Sentence Transformers: all-mpnet-base-v2",
+      "company": "Sentence Transformers",
+      "reason": "unverified"
+    },
+    {
+      "country": "英国",
+      "model": "Sentence Transformers: all-MiniLM-L6-v2",
+      "company": "Sentence Transformers",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "Perplexity: Embed V1 4B",
+      "company": "Perplexity",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "Perplexity: Embed V1 0.6B",
+      "company": "Perplexity",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "NVIDIA: Nemotron 3 Super (free)",
+      "company": "NVIDIA",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "NVIDIA: Nemotron 3 Super",
+      "company": "NVIDIA",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "Inception: Mercury 2",
+      "company": "Inception",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "LiquidAI: LFM2-24B-A2B",
+      "company": "LiquidAI",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "NVIDIA: Llama Nemotron Embed VL 1B V2 (free)",
+      "company": "NVIDIA",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "AionLabs: Aion-2.0",
+      "company": "AionLabs",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "Sourceful: Riverflow V2 Pro",
+      "company": "Sourceful",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "Sourceful: Riverflow V2 Fast",
+      "company": "Sourceful",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "Arcee AI: Trinity Large Preview (free)",
+      "company": "Arcee AI",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "LiquidAI: LFM2.5-1.2B-Thinking (free)",
+      "company": "LiquidAI",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "LiquidAI: LFM2.5-1.2B-Instruct (free)",
+      "company": "LiquidAI",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "Black Forest Labs: FLUX.2 Klein 4B",
+      "company": "Black Forest Labs",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "AllenAI: Molmo2 8B",
+      "company": "AllenAI",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "AllenAI: Olmo 3.1 32B Instruct",
+      "company": "AllenAI",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "AllenAI: Olmo 3.1 32B Think",
+      "company": "AllenAI",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "Black Forest Labs: FLUX.2 Max",
+      "company": "Black Forest Labs",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "NVIDIA: Nemotron 3 Nano 30B A3B (free)",
+      "company": "NVIDIA",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "NVIDIA: Nemotron 3 Nano 30B A3B",
+      "company": "NVIDIA",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "Sourceful: Riverflow V2 Max Preview",
+      "company": "Sourceful",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "Sourceful: Riverflow V2 Standard Preview",
+      "company": "Sourceful",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "Sourceful: Riverflow V2 Fast Preview",
+      "company": "Sourceful",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "Amazon: Nova 2 Lite",
+      "company": "Amazon",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "Arcee AI: Trinity Mini (free)",
+      "company": "Arcee AI",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "Arcee AI: Trinity Mini",
+      "company": "Arcee AI",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "Black Forest Labs: FLUX.2 Flex",
+      "company": "Black Forest Labs",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "Black Forest Labs: FLUX.2 Pro",
+      "company": "Black Forest Labs",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "AllenAI: Olmo 3 32B Think",
+      "company": "AllenAI",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "AllenAI: Olmo 3 7B Instruct",
+      "company": "AllenAI",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "AllenAI: Olmo 3 7B Think",
+      "company": "AllenAI",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "Intfloat: E5-Large-v2",
+      "company": "Intfloat",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "Intfloat: E5-Base-v2",
+      "company": "Intfloat",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "Intfloat: Multilingual-E5-Large",
+      "company": "Intfloat",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "Amazon: Nova Premier 1.0",
+      "company": "Amazon",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "Perplexity: Sonar Pro Search",
+      "company": "Perplexity",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "NVIDIA: Nemotron Nano 12B 2 VL (free)",
+      "company": "NVIDIA",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "NVIDIA: Nemotron Nano 12B 2 VL",
+      "company": "NVIDIA",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "LiquidAI: LFM2-8B-A1B",
+      "company": "LiquidAI",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "LiquidAI: LFM2-2.6B",
+      "company": "LiquidAI",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "NVIDIA: Llama 3.3 Nemotron Super 49B V1.5",
+      "company": "NVIDIA",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "TheDrummer: Cydonia 24B V4.1",
+      "company": "TheDrummer",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "Arcee AI: AFM 4.5B",
+      "company": "Arcee AI",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "NVIDIA: Nemotron Nano 9B V2 (free)",
+      "company": "NVIDIA",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "NVIDIA: Nemotron Nano 9B V2",
+      "company": "NVIDIA",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "Inception: Mercury",
+      "company": "Inception",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "TheDrummer: Valkyrie 49B V1",
+      "company": "TheDrummer",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "Arcee AI: Caller Large",
+      "company": "Arcee AI",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "Arcee AI: Spotlight",
+      "company": "Arcee AI",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "Arcee AI: Maestro Reasoning",
+      "company": "Arcee AI",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "Arcee AI: Virtuoso Large",
+      "company": "Arcee AI",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "Arcee AI: Coder Large",
+      "company": "Arcee AI",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "Arcee AI: Virtuoso Medium V2",
+      "company": "Arcee AI",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "Arcee AI: Arcee Blitz",
+      "company": "Arcee AI",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "Microsoft: Phi 4 Reasoning Plus",
+      "company": "Microsoft",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "Microsoft: Phi 4 Reasoning",
+      "company": "Microsoft",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "Inception: Mercury Coder",
+      "company": "Inception",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "Microsoft: MAI DS R1",
+      "company": "Microsoft",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "NVIDIA: Llama 3.1 Nemotron Nano 8B v1",
+      "company": "NVIDIA",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "NVIDIA: Llama 3.3 Nemotron Super 49B v1",
+      "company": "NVIDIA",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "NVIDIA: Llama 3.1 Nemotron Ultra 253B v1",
+      "company": "NVIDIA",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "AllenAI: Olmo 2 32B Instruct",
+      "company": "AllenAI",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "TheDrummer: Skyfall 36B V2",
+      "company": "TheDrummer",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "Microsoft: Phi 4 Multimodal Instruct",
+      "company": "Microsoft",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "Perplexity: Sonar Reasoning Pro",
+      "company": "Perplexity",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "Perplexity: Sonar Pro",
+      "company": "Perplexity",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "Perplexity: Sonar Deep Research",
+      "company": "Perplexity",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "Perplexity: R1 1776",
+      "company": "Perplexity",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "AionLabs: Aion-1.0",
+      "company": "AionLabs",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "AionLabs: Aion-1.0-Mini",
+      "company": "AionLabs",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "AionLabs: Aion-RP 1.0 (8B)",
+      "company": "AionLabs",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "Perplexity: Sonar Reasoning",
+      "company": "Perplexity",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "Perplexity: Sonar",
+      "company": "Perplexity",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "Microsoft: Phi 4",
+      "company": "Microsoft",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "Sao10K: Llama 3.1 70B Hanami x1",
+      "company": "Sao10K",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "Sao10K: Llama 3.3 Euryale 70B",
+      "company": "Sao10K",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "Amazon: Nova Lite 1.0",
+      "company": "Amazon",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "Amazon: Nova Micro 1.0",
+      "company": "Amazon",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "Amazon: Nova Pro 1.0",
+      "company": "Amazon",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "TheDrummer: UnslopNemo 12B",
+      "company": "TheDrummer",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "NVIDIA: Llama 3.1 Nemotron 70B Instruct",
+      "company": "NVIDIA",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "TheDrummer: Rocinante 12B",
+      "company": "TheDrummer",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "Sao10K: Llama 3.1 Euryale 70B v2.2",
+      "company": "Sao10K",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "Microsoft: Phi-3.5 Mini 128K Instruct",
+      "company": "Microsoft",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "Sao10K: Llama 3 8B Lunaris",
+      "company": "Sao10K",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "Perplexity: Llama 3.1 Sonar 70B Online",
+      "company": "Perplexity",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "Perplexity: Llama 3.1 Sonar 8B Online",
+      "company": "Perplexity",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "Sao10K: Llama 3 Stheno 8B v3.3 32K",
+      "company": "Sao10K",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "NVIDIA: Nemotron-4 340B Instruct",
+      "company": "NVIDIA",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "Sao10k: Llama 3 Euryale 70B v2.1",
+      "company": "Sao10K",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "Microsoft: Phi-3 Medium 4K Instruct",
+      "company": "Microsoft",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "Microsoft: Phi-3 Mini 128K Instruct",
+      "company": "Microsoft",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "Microsoft: Phi-3 Medium 128K Instruct",
+      "company": "Microsoft",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "Perplexity: Llama3 Sonar 70B",
+      "company": "Perplexity",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "Perplexity: Llama3 Sonar 8B Online",
+      "company": "Perplexity",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "Perplexity: Llama3 Sonar 8B",
+      "company": "Perplexity",
+      "reason": "unverified"
+    },
+    {
+      "country": "美国",
+      "model": "Perplexity: Llama3 Sonar 70B Online",
+      "company": "Perplexity",
       "reason": "unverified"
     },
     {

@@ -4,7 +4,7 @@
     "flag": "🇨🇳",
     "continent": "亚洲",
     "has_models": true,
-    "model_count": 426,
+    "model_count": 321,
     "verified_model_count": 8,
     "pending_model_count": 94,
     "family_summary": [
@@ -162,7 +162,7 @@
       },
       {
         "name": "DeepSeek",
-        "company": "深度求索",
+        "company": "阿里云",
         "type": "通用大语言模型",
         "source": "manual",
         "source_id": "",
@@ -173,7 +173,7 @@
       },
       {
         "name": "DeepSeek-R1",
-        "company": "深度求索",
+        "company": "阿里云",
         "type": "推理大模型",
         "source": "manual",
         "source_id": "",
@@ -1262,47 +1262,25 @@
       },
       {
         "name": "Xiaomi: MiMo-V2-Omni",
-        "company": "Xiaomi",
+        "company": "小米",
         "type": "大语言模型",
         "source": "OpenRouter",
         "source_id": "Xiaomi: MiMo-V2-Omni",
         "company_country": "中国",
         "verified": false,
         "display_name": "MiMo-V2-Omni",
-        "family": "Xiaomi"
+        "family": "小米"
       },
       {
         "name": "Xiaomi: MiMo-V2-Pro",
-        "company": "Xiaomi",
+        "company": "小米",
         "type": "大语言模型",
         "source": "OpenRouter",
         "source_id": "Xiaomi: MiMo-V2-Pro",
         "company_country": "中国",
         "verified": false,
         "display_name": "MiMo-V2-Pro",
-        "family": "Xiaomi"
-      },
-      {
-        "name": "Perplexity: Embed V1 4B",
-        "company": "Perplexity",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Perplexity: Embed V1 4B",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Embed V1 4B",
-        "family": "Perplexity"
-      },
-      {
-        "name": "Perplexity: Embed V1 0.6B",
-        "company": "Perplexity",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Perplexity: Embed V1 0.6B",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Embed V1 0.6B",
-        "family": "Perplexity"
+        "family": "小米"
       },
       {
         "name": "Hunter Alpha",
@@ -1327,28 +1305,6 @@
         "family": "阿里云"
       },
       {
-        "name": "NVIDIA: Nemotron 3 Super (free)",
-        "company": "NVIDIA",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "NVIDIA: Nemotron 3 Super (free)",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Nemotron 3 Super",
-        "family": "NVIDIA"
-      },
-      {
-        "name": "NVIDIA: Nemotron 3 Super",
-        "company": "NVIDIA",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "NVIDIA: Nemotron 3 Super",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Nemotron 3 Super",
-        "family": "NVIDIA"
-      },
-      {
         "name": "ByteDance Seed: Seed-2.0-Lite",
         "company": "ByteDance Seed",
         "type": "大语言模型",
@@ -1360,17 +1316,6 @@
         "family": "ByteDance Seed"
       },
       {
-        "name": "Inception: Mercury 2",
-        "company": "Inception",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Inception: Mercury 2",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Mercury 2",
-        "family": "Inception"
-      },
-      {
         "name": "ByteDance Seed: Seed-2.0-Mini",
         "company": "ByteDance Seed",
         "type": "大语言模型",
@@ -1380,39 +1325,6 @@
         "verified": false,
         "display_name": "Seed-2.0-Mini",
         "family": "ByteDance Seed"
-      },
-      {
-        "name": "LiquidAI: LFM2-24B-A2B",
-        "company": "LiquidAI",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "LiquidAI: LFM2-24B-A2B",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "LFM2-24B-A2B",
-        "family": "LiquidAI"
-      },
-      {
-        "name": "NVIDIA: Llama Nemotron Embed VL 1B V2 (free)",
-        "company": "NVIDIA",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "NVIDIA: Llama Nemotron Embed VL 1B V2 (free)",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Llama Nemotron Embed VL 1B V2",
-        "family": "Llama"
-      },
-      {
-        "name": "AionLabs: Aion-2.0",
-        "company": "AionLabs",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "AionLabs: Aion-2.0",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Aion-2.0",
-        "family": "AionLabs"
       },
       {
         "name": "Aurora Alpha",
@@ -1437,28 +1349,6 @@
         "family": "阿里云"
       },
       {
-        "name": "Sourceful: Riverflow V2 Pro",
-        "company": "Sourceful",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Sourceful: Riverflow V2 Pro",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Riverflow V2 Pro",
-        "family": "Sourceful"
-      },
-      {
-        "name": "Sourceful: Riverflow V2 Fast",
-        "company": "Sourceful",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Sourceful: Riverflow V2 Fast",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Riverflow V2 Fast",
-        "family": "Sourceful"
-      },
-      {
         "name": "Free Models Router",
         "company": "阿里云",
         "type": "大语言模型",
@@ -1468,17 +1358,6 @@
         "verified": false,
         "display_name": "Free Models Router",
         "family": "阿里云"
-      },
-      {
-        "name": "Arcee AI: Trinity Large Preview (free)",
-        "company": "Arcee AI",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Arcee AI: Trinity Large Preview (free)",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Trinity Large Preview",
-        "family": "Arcee AI"
       },
       {
         "name": "Upstage: Solar Pro 3",
@@ -1501,61 +1380,6 @@
         "verified": false,
         "display_name": "Palmyra X5",
         "family": "Writer"
-      },
-      {
-        "name": "LiquidAI: LFM2.5-1.2B-Thinking (free)",
-        "company": "LiquidAI",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "LiquidAI: LFM2.5-1.2B-Thinking (free)",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "LFM2.5-1.2B-Thinking",
-        "family": "LiquidAI"
-      },
-      {
-        "name": "LiquidAI: LFM2.5-1.2B-Instruct (free)",
-        "company": "LiquidAI",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "LiquidAI: LFM2.5-1.2B-Instruct (free)",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "LFM2.5-1.2B-Instruct",
-        "family": "LiquidAI"
-      },
-      {
-        "name": "Black Forest Labs: FLUX.2 Klein 4B",
-        "company": "Black Forest Labs",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Black Forest Labs: FLUX.2 Klein 4B",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "FLUX.2 Klein 4B",
-        "family": "Black Forest Labs"
-      },
-      {
-        "name": "AllenAI: Molmo2 8B",
-        "company": "AllenAI",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "AllenAI: Molmo2 8B",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Molmo2 8B",
-        "family": "AllenAI"
-      },
-      {
-        "name": "AllenAI: Olmo 3.1 32B Instruct",
-        "company": "AllenAI",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "AllenAI: Olmo 3.1 32B Instruct",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Olmo 3.1 32B Instruct",
-        "family": "AllenAI"
       },
       {
         "name": "ByteDance Seed: Seedream 4.5",
@@ -1591,92 +1415,15 @@
         "family": "ByteDance Seed"
       },
       {
-        "name": "AllenAI: Olmo 3.1 32B Think",
-        "company": "AllenAI",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "AllenAI: Olmo 3.1 32B Think",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Olmo 3.1 32B Think",
-        "family": "AllenAI"
-      },
-      {
-        "name": "Black Forest Labs: FLUX.2 Max",
-        "company": "Black Forest Labs",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Black Forest Labs: FLUX.2 Max",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "FLUX.2 Max",
-        "family": "Black Forest Labs"
-      },
-      {
         "name": "Xiaomi: MiMo-V2-Flash",
-        "company": "Xiaomi",
+        "company": "小米",
         "type": "大语言模型",
         "source": "OpenRouter",
         "source_id": "Xiaomi: MiMo-V2-Flash",
         "company_country": "中国",
         "verified": false,
         "display_name": "MiMo-V2-Flash",
-        "family": "Xiaomi"
-      },
-      {
-        "name": "NVIDIA: Nemotron 3 Nano 30B A3B (free)",
-        "company": "NVIDIA",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "NVIDIA: Nemotron 3 Nano 30B A3B (free)",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Nemotron 3 Nano 30B A3B",
-        "family": "NVIDIA"
-      },
-      {
-        "name": "NVIDIA: Nemotron 3 Nano 30B A3B",
-        "company": "NVIDIA",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "NVIDIA: Nemotron 3 Nano 30B A3B",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Nemotron 3 Nano 30B A3B",
-        "family": "NVIDIA"
-      },
-      {
-        "name": "Sourceful: Riverflow V2 Max Preview",
-        "company": "Sourceful",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Sourceful: Riverflow V2 Max Preview",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Riverflow V2 Max Preview",
-        "family": "Sourceful"
-      },
-      {
-        "name": "Sourceful: Riverflow V2 Standard Preview",
-        "company": "Sourceful",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Sourceful: Riverflow V2 Standard Preview",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Riverflow V2 Standard Preview",
-        "family": "Sourceful"
-      },
-      {
-        "name": "Sourceful: Riverflow V2 Fast Preview",
-        "company": "Sourceful",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Sourceful: Riverflow V2 Fast Preview",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Riverflow V2 Fast Preview",
-        "family": "Sourceful"
+        "family": "小米"
       },
       {
         "name": "Relace: Relace Search",
@@ -1723,39 +1470,6 @@
         "family": "阿里云"
       },
       {
-        "name": "Amazon: Nova 2 Lite",
-        "company": "Amazon",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Amazon: Nova 2 Lite",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Nova 2 Lite",
-        "family": "Amazon"
-      },
-      {
-        "name": "Arcee AI: Trinity Mini (free)",
-        "company": "Arcee AI",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Arcee AI: Trinity Mini (free)",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Trinity Mini",
-        "family": "Arcee AI"
-      },
-      {
-        "name": "Arcee AI: Trinity Mini",
-        "company": "Arcee AI",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Arcee AI: Trinity Mini",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Trinity Mini",
-        "family": "Arcee AI"
-      },
-      {
         "name": "Prime Intellect: INTELLECT-3",
         "company": "Prime Intellect",
         "type": "大语言模型",
@@ -1767,39 +1481,6 @@
         "family": "Prime Intellect"
       },
       {
-        "name": "TNG: R1T Chimera",
-        "company": "TNG",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "TNG: R1T Chimera",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "R1T Chimera",
-        "family": "TNG"
-      },
-      {
-        "name": "Black Forest Labs: FLUX.2 Flex",
-        "company": "Black Forest Labs",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Black Forest Labs: FLUX.2 Flex",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "FLUX.2 Flex",
-        "family": "Black Forest Labs"
-      },
-      {
-        "name": "Black Forest Labs: FLUX.2 Pro",
-        "company": "Black Forest Labs",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Black Forest Labs: FLUX.2 Pro",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "FLUX.2 Pro",
-        "family": "Black Forest Labs"
-      },
-      {
         "name": "Bert-Nebulon Alpha",
         "company": "阿里云",
         "type": "大语言模型",
@@ -1809,39 +1490,6 @@
         "verified": false,
         "display_name": "Bert-Nebulon Alpha",
         "family": "阿里云"
-      },
-      {
-        "name": "AllenAI: Olmo 3 32B Think",
-        "company": "AllenAI",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "AllenAI: Olmo 3 32B Think",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Olmo 3 32B Think",
-        "family": "AllenAI"
-      },
-      {
-        "name": "AllenAI: Olmo 3 7B Instruct",
-        "company": "AllenAI",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "AllenAI: Olmo 3 7B Instruct",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Olmo 3 7B Instruct",
-        "family": "AllenAI"
-      },
-      {
-        "name": "AllenAI: Olmo 3 7B Think",
-        "company": "AllenAI",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "AllenAI: Olmo 3 7B Think",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Olmo 3 7B Think",
-        "family": "AllenAI"
       },
       {
         "name": "Thenlper: GTE-Base",
@@ -1866,125 +1514,37 @@
         "family": "Thenlper"
       },
       {
-        "name": "Intfloat: E5-Large-v2",
-        "company": "Intfloat",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Intfloat: E5-Large-v2",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "E5-Large-v2",
-        "family": "Intfloat"
-      },
-      {
-        "name": "Intfloat: E5-Base-v2",
-        "company": "Intfloat",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Intfloat: E5-Base-v2",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "E5-Base-v2",
-        "family": "Intfloat"
-      },
-      {
-        "name": "Intfloat: Multilingual-E5-Large",
-        "company": "Intfloat",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Intfloat: Multilingual-E5-Large",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Multilingual-E5-Large",
-        "family": "Intfloat"
-      },
-      {
-        "name": "Sentence Transformers: paraphrase-MiniLM-L6-v2",
-        "company": "Sentence Transformers",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Sentence Transformers: paraphrase-MiniLM-L6-v2",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "paraphrase-MiniLM-L6-v2",
-        "family": "Sentence Transformers"
-      },
-      {
-        "name": "Sentence Transformers: all-MiniLM-L12-v2",
-        "company": "Sentence Transformers",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Sentence Transformers: all-MiniLM-L12-v2",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "all-MiniLM-L12-v2",
-        "family": "Sentence Transformers"
-      },
-      {
         "name": "BAAI: bge-base-en-v1.5",
-        "company": "BAAI",
+        "company": "智源",
         "type": "大语言模型",
         "source": "OpenRouter",
         "source_id": "BAAI: bge-base-en-v1.5",
         "company_country": "中国",
         "verified": false,
         "display_name": "bge-base-en-v1.5",
-        "family": "BAAI"
-      },
-      {
-        "name": "Sentence Transformers: multi-qa-mpnet-base-dot-v1",
-        "company": "Sentence Transformers",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Sentence Transformers: multi-qa-mpnet-base-dot-v1",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "multi-qa-mpnet-base-dot-v1",
-        "family": "Sentence Transformers"
+        "family": "智源"
       },
       {
         "name": "BAAI: bge-large-en-v1.5",
-        "company": "BAAI",
+        "company": "智源",
         "type": "大语言模型",
         "source": "OpenRouter",
         "source_id": "BAAI: bge-large-en-v1.5",
         "company_country": "中国",
         "verified": false,
         "display_name": "bge-large-en-v1.5",
-        "family": "BAAI"
+        "family": "智源"
       },
       {
         "name": "BAAI: bge-m3",
-        "company": "BAAI",
+        "company": "智源",
         "type": "大语言模型",
         "source": "OpenRouter",
         "source_id": "BAAI: bge-m3",
         "company_country": "中国",
         "verified": false,
         "display_name": "bge-m3",
-        "family": "BAAI"
-      },
-      {
-        "name": "Sentence Transformers: all-mpnet-base-v2",
-        "company": "Sentence Transformers",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Sentence Transformers: all-mpnet-base-v2",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "all-mpnet-base-v2",
-        "family": "Sentence Transformers"
-      },
-      {
-        "name": "Sentence Transformers: all-MiniLM-L6-v2",
-        "company": "Sentence Transformers",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Sentence Transformers: all-MiniLM-L6-v2",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "all-MiniLM-L6-v2",
-        "family": "Sentence Transformers"
+        "family": "智源"
       },
       {
         "name": "Sherlock Dash Alpha",
@@ -2053,28 +1613,6 @@
         "family": "Qwen"
       },
       {
-        "name": "Amazon: Nova Premier 1.0",
-        "company": "Amazon",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Amazon: Nova Premier 1.0",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Nova Premier 1.0",
-        "family": "Amazon"
-      },
-      {
-        "name": "Perplexity: Sonar Pro Search",
-        "company": "Perplexity",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Perplexity: Sonar Pro Search",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Sonar Pro Search",
-        "family": "Perplexity"
-      },
-      {
         "name": "Qwen: Qwen3 Embedding 8B",
         "company": "阿里云",
         "type": "大语言模型",
@@ -2084,28 +1622,6 @@
         "verified": false,
         "display_name": "Qwen3 Embedding 8B",
         "family": "Qwen"
-      },
-      {
-        "name": "NVIDIA: Nemotron Nano 12B 2 VL (free)",
-        "company": "NVIDIA",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "NVIDIA: Nemotron Nano 12B 2 VL (free)",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Nemotron Nano 12B 2 VL",
-        "family": "NVIDIA"
-      },
-      {
-        "name": "NVIDIA: Nemotron Nano 12B 2 VL",
-        "company": "NVIDIA",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "NVIDIA: Nemotron Nano 12B 2 VL",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Nemotron Nano 12B 2 VL",
-        "family": "NVIDIA"
       },
       {
         "name": "Qwen: Qwen3 Embedding 4B",
@@ -2130,28 +1646,6 @@
         "family": "阿里云"
       },
       {
-        "name": "LiquidAI: LFM2-8B-A1B",
-        "company": "LiquidAI",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "LiquidAI: LFM2-8B-A1B",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "LFM2-8B-A1B",
-        "family": "LiquidAI"
-      },
-      {
-        "name": "LiquidAI: LFM2-2.6B",
-        "company": "LiquidAI",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "LiquidAI: LFM2-2.6B",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "LFM2-2.6B",
-        "family": "LiquidAI"
-      },
-      {
         "name": "IBM: Granite 4.0 Micro",
         "company": "IBM",
         "type": "大语言模型",
@@ -2174,28 +1668,6 @@
         "family": "Llama"
       },
       {
-        "name": "NVIDIA: Llama 3.3 Nemotron Super 49B V1.5",
-        "company": "NVIDIA",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "NVIDIA: Llama 3.3 Nemotron Super 49B V1.5",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Llama 3.3 Nemotron Super 49B V1.5",
-        "family": "Llama"
-      },
-      {
-        "name": "TheDrummer: Cydonia 24B V4.1",
-        "company": "TheDrummer",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "TheDrummer: Cydonia 24B V4.1",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Cydonia 24B V4.1",
-        "family": "TheDrummer"
-      },
-      {
         "name": "Relace: Relace Apply 3",
         "company": "Relace",
         "type": "大语言模型",
@@ -2205,17 +1677,6 @@
         "verified": false,
         "display_name": "Relace Apply 3",
         "family": "Relace"
-      },
-      {
-        "name": "Arcee AI: AFM 4.5B",
-        "company": "Arcee AI",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Arcee AI: AFM 4.5B",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "AFM 4.5B",
-        "family": "Arcee AI"
       },
       {
         "name": "OpenGVLab: InternVL3 78B",
@@ -2238,28 +1699,6 @@
         "verified": false,
         "display_name": "LongCat Flash Chat",
         "family": "Meituan"
-      },
-      {
-        "name": "NVIDIA: Nemotron Nano 9B V2 (free)",
-        "company": "NVIDIA",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "NVIDIA: Nemotron Nano 9B V2 (free)",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Nemotron Nano 9B V2",
-        "family": "NVIDIA"
-      },
-      {
-        "name": "NVIDIA: Nemotron Nano 9B V2",
-        "company": "NVIDIA",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "NVIDIA: Nemotron Nano 9B V2",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Nemotron Nano 9B V2",
-        "family": "NVIDIA"
       },
       {
         "name": "Sonoma Dusk Alpha",
@@ -2427,17 +1866,6 @@
         "family": "Venice"
       },
       {
-        "name": "TNG: DeepSeek R1T2 Chimera",
-        "company": "TNG",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "TNG: DeepSeek R1T2 Chimera",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "DeepSeek R1T2 Chimera",
-        "family": "DeepSeek"
-      },
-      {
         "name": "Morph: Morph V3 Large",
         "company": "Morph",
         "type": "大语言模型",
@@ -2469,17 +1897,6 @@
         "verified": false,
         "display_name": "Cypher Alpha",
         "family": "阿里云"
-      },
-      {
-        "name": "Inception: Mercury",
-        "company": "Inception",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Inception: Mercury",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Mercury",
-        "family": "Inception"
       },
       {
         "name": "Morph: Fast Apply",
@@ -2548,17 +1965,6 @@
         "family": "Sarvam AI"
       },
       {
-        "name": "TheDrummer: Valkyrie 49B V1",
-        "company": "TheDrummer",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "TheDrummer: Valkyrie 49B V1",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Valkyrie 49B V1",
-        "family": "TheDrummer"
-      },
-      {
         "name": "Nous: DeepHermes 3 Mistral 24B Preview",
         "company": "Nous",
         "type": "大语言模型",
@@ -2570,105 +1976,6 @@
         "family": "Mistral"
       },
       {
-        "name": "Arcee AI: Caller Large",
-        "company": "Arcee AI",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Arcee AI: Caller Large",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Caller Large",
-        "family": "Arcee AI"
-      },
-      {
-        "name": "Arcee AI: Spotlight",
-        "company": "Arcee AI",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Arcee AI: Spotlight",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Spotlight",
-        "family": "Arcee AI"
-      },
-      {
-        "name": "Arcee AI: Maestro Reasoning",
-        "company": "Arcee AI",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Arcee AI: Maestro Reasoning",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Maestro Reasoning",
-        "family": "Arcee AI"
-      },
-      {
-        "name": "Arcee AI: Virtuoso Large",
-        "company": "Arcee AI",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Arcee AI: Virtuoso Large",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Virtuoso Large",
-        "family": "Arcee AI"
-      },
-      {
-        "name": "Arcee AI: Coder Large",
-        "company": "Arcee AI",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Arcee AI: Coder Large",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Coder Large",
-        "family": "Arcee AI"
-      },
-      {
-        "name": "Arcee AI: Virtuoso Medium V2",
-        "company": "Arcee AI",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Arcee AI: Virtuoso Medium V2",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Virtuoso Medium V2",
-        "family": "Arcee AI"
-      },
-      {
-        "name": "Arcee AI: Arcee Blitz",
-        "company": "Arcee AI",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Arcee AI: Arcee Blitz",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Arcee Blitz",
-        "family": "Arcee AI"
-      },
-      {
-        "name": "Microsoft: Phi 4 Reasoning Plus",
-        "company": "Microsoft",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Microsoft: Phi 4 Reasoning Plus",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Phi 4 Reasoning Plus",
-        "family": "Microsoft"
-      },
-      {
-        "name": "Microsoft: Phi 4 Reasoning",
-        "company": "Microsoft",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Microsoft: Phi 4 Reasoning",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Phi 4 Reasoning",
-        "family": "Microsoft"
-      },
-      {
         "name": "Qwen: Qwen3 0.6B",
         "company": "阿里云",
         "type": "大语言模型",
@@ -2678,17 +1985,6 @@
         "verified": false,
         "display_name": "Qwen3 0.6B",
         "family": "Qwen"
-      },
-      {
-        "name": "Inception: Mercury Coder",
-        "company": "Inception",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Inception: Mercury Coder",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Mercury Coder",
-        "family": "Inception"
       },
       {
         "name": "Qwen: Qwen3 1.7B",
@@ -2735,17 +2031,6 @@
         "family": "DeepSeek"
       },
       {
-        "name": "TNG: DeepSeek R1T Chimera",
-        "company": "TNG",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "TNG: DeepSeek R1T Chimera",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "DeepSeek R1T Chimera",
-        "family": "DeepSeek"
-      },
-      {
         "name": "THUDM: GLM Z1 Rumination 32B ",
         "company": "智谱",
         "type": "大语言模型",
@@ -2777,17 +2062,6 @@
         "verified": false,
         "display_name": "GLM 4 9B",
         "family": "GLM"
-      },
-      {
-        "name": "Microsoft: MAI DS R1",
-        "company": "Microsoft",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Microsoft: MAI DS R1",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "MAI DS R1",
-        "family": "Microsoft"
       },
       {
         "name": "THUDM: GLM Z1 32B",
@@ -2876,39 +2150,6 @@
         "verified": false,
         "display_name": "Optimus Alpha",
         "family": "阿里云"
-      },
-      {
-        "name": "NVIDIA: Llama 3.1 Nemotron Nano 8B v1",
-        "company": "NVIDIA",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "NVIDIA: Llama 3.1 Nemotron Nano 8B v1",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Llama 3.1 Nemotron Nano 8B v1",
-        "family": "Llama"
-      },
-      {
-        "name": "NVIDIA: Llama 3.3 Nemotron Super 49B v1",
-        "company": "NVIDIA",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "NVIDIA: Llama 3.3 Nemotron Super 49B v1",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Llama 3.3 Nemotron Super 49B v1",
-        "family": "Llama"
-      },
-      {
-        "name": "NVIDIA: Llama 3.1 Nemotron Ultra 253B v1",
-        "company": "NVIDIA",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "NVIDIA: Llama 3.1 Nemotron Ultra 253B v1",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Llama 3.1 Nemotron Ultra 253B v1",
-        "family": "Llama"
       },
       {
         "name": "Swallow: Llama 3.1 Swallow 8B Instruct V0.3",
@@ -3032,17 +2273,6 @@
         "family": "SteelSkull"
       },
       {
-        "name": "AllenAI: Olmo 2 32B Instruct",
-        "company": "AllenAI",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "AllenAI: Olmo 2 32B Instruct",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Olmo 2 32B Instruct",
-        "family": "AllenAI"
-      },
-      {
         "name": "Reka: Flash 3",
         "company": "Reka",
         "type": "大语言模型",
@@ -3063,61 +2293,6 @@
         "verified": false,
         "display_name": "Wayfarer Large 70B Llama 3.3",
         "family": "Llama"
-      },
-      {
-        "name": "TheDrummer: Skyfall 36B V2",
-        "company": "TheDrummer",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "TheDrummer: Skyfall 36B V2",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Skyfall 36B V2",
-        "family": "TheDrummer"
-      },
-      {
-        "name": "Microsoft: Phi 4 Multimodal Instruct",
-        "company": "Microsoft",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Microsoft: Phi 4 Multimodal Instruct",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Phi 4 Multimodal Instruct",
-        "family": "Microsoft"
-      },
-      {
-        "name": "Perplexity: Sonar Reasoning Pro",
-        "company": "Perplexity",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Perplexity: Sonar Reasoning Pro",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Sonar Reasoning Pro",
-        "family": "Perplexity"
-      },
-      {
-        "name": "Perplexity: Sonar Pro",
-        "company": "Perplexity",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Perplexity: Sonar Pro",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Sonar Pro",
-        "family": "Perplexity"
-      },
-      {
-        "name": "Perplexity: Sonar Deep Research",
-        "company": "Perplexity",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Perplexity: Sonar Deep Research",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Sonar Deep Research",
-        "family": "Perplexity"
       },
       {
         "name": "DeepSeek: DeepSeek R1 Zero",
@@ -3162,17 +2337,6 @@
         "verified": false,
         "display_name": "DeepHermes 3 Llama 3 8B Preview",
         "family": "Llama"
-      },
-      {
-        "name": "Perplexity: R1 1776",
-        "company": "Perplexity",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Perplexity: R1 1776",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "R1 1776",
-        "family": "Perplexity"
       },
       {
         "name": "Dolphin3.0 R1 Mistral 24B",
@@ -3230,39 +2394,6 @@
         "family": "Llama"
       },
       {
-        "name": "AionLabs: Aion-1.0",
-        "company": "AionLabs",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "AionLabs: Aion-1.0",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Aion-1.0",
-        "family": "AionLabs"
-      },
-      {
-        "name": "AionLabs: Aion-1.0-Mini",
-        "company": "AionLabs",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "AionLabs: Aion-1.0-Mini",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Aion-1.0-Mini",
-        "family": "AionLabs"
-      },
-      {
-        "name": "AionLabs: Aion-RP 1.0 (8B)",
-        "company": "AionLabs",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "AionLabs: Aion-RP 1.0 (8B)",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Aion-RP 1.0 (8B)",
-        "family": "AionLabs"
-      },
-      {
         "name": "DeepSeek: R1 Distill Qwen 1.5B",
         "company": "DeepSeek",
         "type": "大语言模型",
@@ -3283,28 +2414,6 @@
         "verified": false,
         "display_name": "R1 Distill Qwen 14B",
         "family": "Qwen"
-      },
-      {
-        "name": "Perplexity: Sonar Reasoning",
-        "company": "Perplexity",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Perplexity: Sonar Reasoning",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Sonar Reasoning",
-        "family": "Perplexity"
-      },
-      {
-        "name": "Perplexity: Sonar",
-        "company": "Perplexity",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Perplexity: Sonar",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Sonar",
-        "family": "Perplexity"
       },
       {
         "name": "Liquid: LFM 7B",
@@ -3329,39 +2438,6 @@
         "family": "Liquid"
       },
       {
-        "name": "Microsoft: Phi 4",
-        "company": "Microsoft",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Microsoft: Phi 4",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Phi 4",
-        "family": "Microsoft"
-      },
-      {
-        "name": "Sao10K: Llama 3.1 70B Hanami x1",
-        "company": "Sao10K",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Sao10K: Llama 3.1 70B Hanami x1",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Llama 3.1 70B Hanami x1",
-        "family": "Llama"
-      },
-      {
-        "name": "Sao10K: Llama 3.3 Euryale 70B",
-        "company": "Sao10K",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Sao10K: Llama 3.3 Euryale 70B",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Llama 3.3 Euryale 70B",
-        "family": "Llama"
-      },
-      {
         "name": "Inflatebot: Mag Mell R1 12B",
         "company": "Inflatebot",
         "type": "大语言模型",
@@ -3382,39 +2458,6 @@
         "verified": false,
         "display_name": "EVA Llama 3.33 70B",
         "family": "Llama"
-      },
-      {
-        "name": "Amazon: Nova Lite 1.0",
-        "company": "Amazon",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Amazon: Nova Lite 1.0",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Nova Lite 1.0",
-        "family": "Amazon"
-      },
-      {
-        "name": "Amazon: Nova Micro 1.0",
-        "company": "Amazon",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Amazon: Nova Micro 1.0",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Nova Micro 1.0",
-        "family": "Amazon"
-      },
-      {
-        "name": "Amazon: Nova Pro 1.0",
-        "company": "Amazon",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Amazon: Nova Pro 1.0",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Nova Pro 1.0",
-        "family": "Amazon"
       },
       {
         "name": "Qwen: QwQ 32B Preview",
@@ -3494,17 +2537,6 @@
         "family": "Qwen"
       },
       {
-        "name": "TheDrummer: UnslopNemo 12B",
-        "company": "TheDrummer",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "TheDrummer: UnslopNemo 12B",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "UnslopNemo 12B",
-        "family": "TheDrummer"
-      },
-      {
         "name": "Magnum v4 72B",
         "company": "阿里云",
         "type": "大语言模型",
@@ -3525,17 +2557,6 @@
         "verified": false,
         "display_name": "Lumimaid v0.2 70B",
         "family": "NeverSleep"
-      },
-      {
-        "name": "NVIDIA: Llama 3.1 Nemotron 70B Instruct",
-        "company": "NVIDIA",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "NVIDIA: Llama 3.1 Nemotron 70B Instruct",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Llama 3.1 Nemotron 70B Instruct",
-        "family": "Llama"
       },
       {
         "name": "Inflection: Inflection 3 Productivity",
@@ -3593,17 +2614,6 @@
         "family": "Liquid"
       },
       {
-        "name": "TheDrummer: Rocinante 12B",
-        "company": "TheDrummer",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "TheDrummer: Rocinante 12B",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Rocinante 12B",
-        "family": "TheDrummer"
-      },
-      {
         "name": "NeverSleep: Lumimaid v0.2 8B",
         "company": "NeverSleep",
         "type": "大语言模型",
@@ -3626,17 +2636,6 @@
         "family": "阿里云"
       },
       {
-        "name": "Sao10K: Llama 3.1 Euryale 70B v2.2",
-        "company": "Sao10K",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Sao10K: Llama 3.1 Euryale 70B v2.2",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Llama 3.1 Euryale 70B v2.2",
-        "family": "Llama"
-      },
-      {
         "name": "Lynn: Llama 3 Soliloquy 7B v3 32K",
         "company": "Lynn",
         "type": "大语言模型",
@@ -3657,17 +2656,6 @@
         "verified": false,
         "display_name": "Yi 1.5 34B Chat",
         "family": "阿里云"
-      },
-      {
-        "name": "Microsoft: Phi-3.5 Mini 128K Instruct",
-        "company": "Microsoft",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Microsoft: Phi-3.5 Mini 128K Instruct",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Phi-3.5 Mini 128K Instruct",
-        "family": "Microsoft"
       },
       {
         "name": "Nous: Hermes 3 70B Instruct",
@@ -3701,17 +2689,6 @@
         "verified": false,
         "display_name": "Hermes 3 405B Instruct",
         "family": "Nous"
-      },
-      {
-        "name": "Sao10K: Llama 3 8B Lunaris",
-        "company": "Sao10K",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Sao10K: Llama 3 8B Lunaris",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Llama 3 8B Lunaris",
-        "family": "Llama"
       },
       {
         "name": "Aetherwiing: Starcannon 12B",
@@ -3769,28 +2746,6 @@
         "family": "零一万物"
       },
       {
-        "name": "Perplexity: Llama 3.1 Sonar 70B Online",
-        "company": "Perplexity",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Perplexity: Llama 3.1 Sonar 70B Online",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Llama 3.1 Sonar 70B Online",
-        "family": "Llama"
-      },
-      {
-        "name": "Perplexity: Llama 3.1 Sonar 8B Online",
-        "company": "Perplexity",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Perplexity: Llama 3.1 Sonar 8B Online",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Llama 3.1 Sonar 8B Online",
-        "family": "Llama"
-      },
-      {
         "name": "Dolphin Llama 3 70B 🐬",
         "company": "阿里云",
         "type": "大语言模型",
@@ -3835,17 +2790,6 @@
         "family": "阿里云"
       },
       {
-        "name": "Sao10K: Llama 3 Stheno 8B v3.3 32K",
-        "company": "Sao10K",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Sao10K: Llama 3 Stheno 8B v3.3 32K",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Llama 3 Stheno 8B v3.3 32K",
-        "family": "Llama"
-      },
-      {
         "name": "01.AI: Yi Large",
         "company": "零一万物",
         "type": "大语言模型",
@@ -3855,39 +2799,6 @@
         "verified": false,
         "display_name": "Yi Large",
         "family": "零一万物"
-      },
-      {
-        "name": "NVIDIA: Nemotron-4 340B Instruct",
-        "company": "NVIDIA",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "NVIDIA: Nemotron-4 340B Instruct",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Nemotron-4 340B Instruct",
-        "family": "NVIDIA"
-      },
-      {
-        "name": "Sao10k: Llama 3 Euryale 70B v2.1",
-        "company": "Sao10k",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Sao10k: Llama 3 Euryale 70B v2.1",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Llama 3 Euryale 70B v2.1",
-        "family": "Llama"
-      },
-      {
-        "name": "Microsoft: Phi-3 Medium 4K Instruct",
-        "company": "Microsoft",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Microsoft: Phi-3 Medium 4K Instruct",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Phi-3 Medium 4K Instruct",
-        "family": "Microsoft"
       },
       {
         "name": "StarCoder2 15B Instruct",
@@ -3945,28 +2856,6 @@
         "family": "Llama"
       },
       {
-        "name": "Microsoft: Phi-3 Mini 128K Instruct",
-        "company": "Microsoft",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Microsoft: Phi-3 Mini 128K Instruct",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Phi-3 Mini 128K Instruct",
-        "family": "Microsoft"
-      },
-      {
-        "name": "Microsoft: Phi-3 Medium 128K Instruct",
-        "company": "Microsoft",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Microsoft: Phi-3 Medium 128K Instruct",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Phi-3 Medium 128K Instruct",
-        "family": "Microsoft"
-      },
-      {
         "name": "NeverSleep: Llama 3 Lumimaid 70B",
         "company": "NeverSleep",
         "type": "大语言模型",
@@ -3975,39 +2864,6 @@
         "company_country": "中国",
         "verified": false,
         "display_name": "Llama 3 Lumimaid 70B",
-        "family": "Llama"
-      },
-      {
-        "name": "Perplexity: Llama3 Sonar 70B",
-        "company": "Perplexity",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Perplexity: Llama3 Sonar 70B",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Llama3 Sonar 70B",
-        "family": "Llama"
-      },
-      {
-        "name": "Perplexity: Llama3 Sonar 8B Online",
-        "company": "Perplexity",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Perplexity: Llama3 Sonar 8B Online",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Llama3 Sonar 8B Online",
-        "family": "Llama"
-      },
-      {
-        "name": "Perplexity: Llama3 Sonar 8B",
-        "company": "Perplexity",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Perplexity: Llama3 Sonar 8B",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Llama3 Sonar 8B",
         "family": "Llama"
       },
       {
@@ -4020,17 +2876,6 @@
         "verified": false,
         "display_name": "DeepSeek V2.5",
         "family": "DeepSeek"
-      },
-      {
-        "name": "Perplexity: Llama3 Sonar 70B Online",
-        "company": "Perplexity",
-        "type": "大语言模型",
-        "source": "OpenRouter",
-        "source_id": "Perplexity: Llama3 Sonar 70B Online",
-        "company_country": "中国",
-        "verified": false,
-        "display_name": "Llama3 Sonar 70B Online",
-        "family": "Llama"
       },
       {
         "name": "LLaVA v1.6 34B",
@@ -4960,7 +3805,7 @@
     "flag": "🇩🇪",
     "continent": "欧洲",
     "has_models": true,
-    "model_count": 1,
+    "model_count": 4,
     "verified_model_count": 1,
     "pending_model_count": 0,
     "family_summary": [
@@ -4972,6 +3817,39 @@
       }
     ],
     "models": [
+      {
+        "name": "TNG: R1T Chimera",
+        "company": "TNG",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "TNG: R1T Chimera",
+        "company_country": "德国",
+        "verified": false,
+        "display_name": "R1T Chimera",
+        "family": "TNG"
+      },
+      {
+        "name": "TNG: DeepSeek R1T2 Chimera",
+        "company": "TNG",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "TNG: DeepSeek R1T2 Chimera",
+        "company_country": "德国",
+        "verified": false,
+        "display_name": "DeepSeek R1T2 Chimera",
+        "family": "DeepSeek"
+      },
+      {
+        "name": "TNG: DeepSeek R1T Chimera",
+        "company": "TNG",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "TNG: DeepSeek R1T Chimera",
+        "company_country": "德国",
+        "verified": false,
+        "display_name": "DeepSeek R1T Chimera",
+        "family": "DeepSeek"
+      },
       {
         "name": "Teuken",
         "company": "Aleph Alpha",
@@ -5743,7 +4621,7 @@
     "flag": "🇬🇧",
     "continent": "欧洲",
     "has_models": true,
-    "model_count": 1,
+    "model_count": 6,
     "verified_model_count": 1,
     "pending_model_count": 0,
     "family_summary": [
@@ -5755,6 +4633,61 @@
       }
     ],
     "models": [
+      {
+        "name": "Sentence Transformers: paraphrase-MiniLM-L6-v2",
+        "company": "Sentence Transformers",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Sentence Transformers: paraphrase-MiniLM-L6-v2",
+        "company_country": "英国",
+        "verified": false,
+        "display_name": "paraphrase-MiniLM-L6-v2",
+        "family": "Sentence Transformers"
+      },
+      {
+        "name": "Sentence Transformers: all-MiniLM-L12-v2",
+        "company": "Sentence Transformers",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Sentence Transformers: all-MiniLM-L12-v2",
+        "company_country": "英国",
+        "verified": false,
+        "display_name": "all-MiniLM-L12-v2",
+        "family": "Sentence Transformers"
+      },
+      {
+        "name": "Sentence Transformers: multi-qa-mpnet-base-dot-v1",
+        "company": "Sentence Transformers",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Sentence Transformers: multi-qa-mpnet-base-dot-v1",
+        "company_country": "英国",
+        "verified": false,
+        "display_name": "multi-qa-mpnet-base-dot-v1",
+        "family": "Sentence Transformers"
+      },
+      {
+        "name": "Sentence Transformers: all-mpnet-base-v2",
+        "company": "Sentence Transformers",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Sentence Transformers: all-mpnet-base-v2",
+        "company_country": "英国",
+        "verified": false,
+        "display_name": "all-mpnet-base-v2",
+        "family": "Sentence Transformers"
+      },
+      {
+        "name": "Sentence Transformers: all-MiniLM-L6-v2",
+        "company": "Sentence Transformers",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Sentence Transformers: all-MiniLM-L6-v2",
+        "company_country": "英国",
+        "verified": false,
+        "display_name": "all-MiniLM-L6-v2",
+        "family": "Sentence Transformers"
+      },
       {
         "name": "Phoenix",
         "company": "Arondite / 本地生态",
@@ -5773,7 +4706,7 @@
     "flag": "🇺🇸",
     "continent": "北美洲",
     "has_models": true,
-    "model_count": 316,
+    "model_count": 413,
     "verified_model_count": 6,
     "pending_model_count": 113,
     "family_summary": [
@@ -5827,6 +4760,1073 @@
       }
     ],
     "models": [
+      {
+        "name": "Perplexity: Embed V1 4B",
+        "company": "Perplexity",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Perplexity: Embed V1 4B",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Embed V1 4B",
+        "family": "Perplexity"
+      },
+      {
+        "name": "Perplexity: Embed V1 0.6B",
+        "company": "Perplexity",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Perplexity: Embed V1 0.6B",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Embed V1 0.6B",
+        "family": "Perplexity"
+      },
+      {
+        "name": "NVIDIA: Nemotron 3 Super (free)",
+        "company": "NVIDIA",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "NVIDIA: Nemotron 3 Super (free)",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Nemotron 3 Super",
+        "family": "NVIDIA"
+      },
+      {
+        "name": "NVIDIA: Nemotron 3 Super",
+        "company": "NVIDIA",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "NVIDIA: Nemotron 3 Super",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Nemotron 3 Super",
+        "family": "NVIDIA"
+      },
+      {
+        "name": "Inception: Mercury 2",
+        "company": "Inception",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Inception: Mercury 2",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Mercury 2",
+        "family": "Inception"
+      },
+      {
+        "name": "LiquidAI: LFM2-24B-A2B",
+        "company": "LiquidAI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "LiquidAI: LFM2-24B-A2B",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "LFM2-24B-A2B",
+        "family": "LiquidAI"
+      },
+      {
+        "name": "NVIDIA: Llama Nemotron Embed VL 1B V2 (free)",
+        "company": "NVIDIA",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "NVIDIA: Llama Nemotron Embed VL 1B V2 (free)",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Llama Nemotron Embed VL 1B V2",
+        "family": "Llama"
+      },
+      {
+        "name": "AionLabs: Aion-2.0",
+        "company": "AionLabs",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "AionLabs: Aion-2.0",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Aion-2.0",
+        "family": "AionLabs"
+      },
+      {
+        "name": "Sourceful: Riverflow V2 Pro",
+        "company": "Sourceful",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Sourceful: Riverflow V2 Pro",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Riverflow V2 Pro",
+        "family": "Sourceful"
+      },
+      {
+        "name": "Sourceful: Riverflow V2 Fast",
+        "company": "Sourceful",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Sourceful: Riverflow V2 Fast",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Riverflow V2 Fast",
+        "family": "Sourceful"
+      },
+      {
+        "name": "Arcee AI: Trinity Large Preview (free)",
+        "company": "Arcee AI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Arcee AI: Trinity Large Preview (free)",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Trinity Large Preview",
+        "family": "Arcee AI"
+      },
+      {
+        "name": "LiquidAI: LFM2.5-1.2B-Thinking (free)",
+        "company": "LiquidAI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "LiquidAI: LFM2.5-1.2B-Thinking (free)",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "LFM2.5-1.2B-Thinking",
+        "family": "LiquidAI"
+      },
+      {
+        "name": "LiquidAI: LFM2.5-1.2B-Instruct (free)",
+        "company": "LiquidAI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "LiquidAI: LFM2.5-1.2B-Instruct (free)",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "LFM2.5-1.2B-Instruct",
+        "family": "LiquidAI"
+      },
+      {
+        "name": "Black Forest Labs: FLUX.2 Klein 4B",
+        "company": "Black Forest Labs",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Black Forest Labs: FLUX.2 Klein 4B",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "FLUX.2 Klein 4B",
+        "family": "Black Forest Labs"
+      },
+      {
+        "name": "AllenAI: Molmo2 8B",
+        "company": "AllenAI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "AllenAI: Molmo2 8B",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Molmo2 8B",
+        "family": "AllenAI"
+      },
+      {
+        "name": "AllenAI: Olmo 3.1 32B Instruct",
+        "company": "AllenAI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "AllenAI: Olmo 3.1 32B Instruct",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Olmo 3.1 32B Instruct",
+        "family": "AllenAI"
+      },
+      {
+        "name": "AllenAI: Olmo 3.1 32B Think",
+        "company": "AllenAI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "AllenAI: Olmo 3.1 32B Think",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Olmo 3.1 32B Think",
+        "family": "AllenAI"
+      },
+      {
+        "name": "Black Forest Labs: FLUX.2 Max",
+        "company": "Black Forest Labs",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Black Forest Labs: FLUX.2 Max",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "FLUX.2 Max",
+        "family": "Black Forest Labs"
+      },
+      {
+        "name": "NVIDIA: Nemotron 3 Nano 30B A3B (free)",
+        "company": "NVIDIA",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "NVIDIA: Nemotron 3 Nano 30B A3B (free)",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Nemotron 3 Nano 30B A3B",
+        "family": "NVIDIA"
+      },
+      {
+        "name": "NVIDIA: Nemotron 3 Nano 30B A3B",
+        "company": "NVIDIA",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "NVIDIA: Nemotron 3 Nano 30B A3B",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Nemotron 3 Nano 30B A3B",
+        "family": "NVIDIA"
+      },
+      {
+        "name": "Sourceful: Riverflow V2 Max Preview",
+        "company": "Sourceful",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Sourceful: Riverflow V2 Max Preview",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Riverflow V2 Max Preview",
+        "family": "Sourceful"
+      },
+      {
+        "name": "Sourceful: Riverflow V2 Standard Preview",
+        "company": "Sourceful",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Sourceful: Riverflow V2 Standard Preview",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Riverflow V2 Standard Preview",
+        "family": "Sourceful"
+      },
+      {
+        "name": "Sourceful: Riverflow V2 Fast Preview",
+        "company": "Sourceful",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Sourceful: Riverflow V2 Fast Preview",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Riverflow V2 Fast Preview",
+        "family": "Sourceful"
+      },
+      {
+        "name": "Amazon: Nova 2 Lite",
+        "company": "Amazon",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Amazon: Nova 2 Lite",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Nova 2 Lite",
+        "family": "Amazon"
+      },
+      {
+        "name": "Arcee AI: Trinity Mini (free)",
+        "company": "Arcee AI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Arcee AI: Trinity Mini (free)",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Trinity Mini",
+        "family": "Arcee AI"
+      },
+      {
+        "name": "Arcee AI: Trinity Mini",
+        "company": "Arcee AI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Arcee AI: Trinity Mini",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Trinity Mini",
+        "family": "Arcee AI"
+      },
+      {
+        "name": "Black Forest Labs: FLUX.2 Flex",
+        "company": "Black Forest Labs",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Black Forest Labs: FLUX.2 Flex",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "FLUX.2 Flex",
+        "family": "Black Forest Labs"
+      },
+      {
+        "name": "Black Forest Labs: FLUX.2 Pro",
+        "company": "Black Forest Labs",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Black Forest Labs: FLUX.2 Pro",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "FLUX.2 Pro",
+        "family": "Black Forest Labs"
+      },
+      {
+        "name": "AllenAI: Olmo 3 32B Think",
+        "company": "AllenAI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "AllenAI: Olmo 3 32B Think",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Olmo 3 32B Think",
+        "family": "AllenAI"
+      },
+      {
+        "name": "AllenAI: Olmo 3 7B Instruct",
+        "company": "AllenAI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "AllenAI: Olmo 3 7B Instruct",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Olmo 3 7B Instruct",
+        "family": "AllenAI"
+      },
+      {
+        "name": "AllenAI: Olmo 3 7B Think",
+        "company": "AllenAI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "AllenAI: Olmo 3 7B Think",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Olmo 3 7B Think",
+        "family": "AllenAI"
+      },
+      {
+        "name": "Intfloat: E5-Large-v2",
+        "company": "Intfloat",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Intfloat: E5-Large-v2",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "E5-Large-v2",
+        "family": "Intfloat"
+      },
+      {
+        "name": "Intfloat: E5-Base-v2",
+        "company": "Intfloat",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Intfloat: E5-Base-v2",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "E5-Base-v2",
+        "family": "Intfloat"
+      },
+      {
+        "name": "Intfloat: Multilingual-E5-Large",
+        "company": "Intfloat",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Intfloat: Multilingual-E5-Large",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Multilingual-E5-Large",
+        "family": "Intfloat"
+      },
+      {
+        "name": "Amazon: Nova Premier 1.0",
+        "company": "Amazon",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Amazon: Nova Premier 1.0",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Nova Premier 1.0",
+        "family": "Amazon"
+      },
+      {
+        "name": "Perplexity: Sonar Pro Search",
+        "company": "Perplexity",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Perplexity: Sonar Pro Search",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Sonar Pro Search",
+        "family": "Perplexity"
+      },
+      {
+        "name": "NVIDIA: Nemotron Nano 12B 2 VL (free)",
+        "company": "NVIDIA",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "NVIDIA: Nemotron Nano 12B 2 VL (free)",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Nemotron Nano 12B 2 VL",
+        "family": "NVIDIA"
+      },
+      {
+        "name": "NVIDIA: Nemotron Nano 12B 2 VL",
+        "company": "NVIDIA",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "NVIDIA: Nemotron Nano 12B 2 VL",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Nemotron Nano 12B 2 VL",
+        "family": "NVIDIA"
+      },
+      {
+        "name": "LiquidAI: LFM2-8B-A1B",
+        "company": "LiquidAI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "LiquidAI: LFM2-8B-A1B",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "LFM2-8B-A1B",
+        "family": "LiquidAI"
+      },
+      {
+        "name": "LiquidAI: LFM2-2.6B",
+        "company": "LiquidAI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "LiquidAI: LFM2-2.6B",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "LFM2-2.6B",
+        "family": "LiquidAI"
+      },
+      {
+        "name": "NVIDIA: Llama 3.3 Nemotron Super 49B V1.5",
+        "company": "NVIDIA",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "NVIDIA: Llama 3.3 Nemotron Super 49B V1.5",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Llama 3.3 Nemotron Super 49B V1.5",
+        "family": "Llama"
+      },
+      {
+        "name": "TheDrummer: Cydonia 24B V4.1",
+        "company": "TheDrummer",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "TheDrummer: Cydonia 24B V4.1",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Cydonia 24B V4.1",
+        "family": "TheDrummer"
+      },
+      {
+        "name": "Arcee AI: AFM 4.5B",
+        "company": "Arcee AI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Arcee AI: AFM 4.5B",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "AFM 4.5B",
+        "family": "Arcee AI"
+      },
+      {
+        "name": "NVIDIA: Nemotron Nano 9B V2 (free)",
+        "company": "NVIDIA",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "NVIDIA: Nemotron Nano 9B V2 (free)",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Nemotron Nano 9B V2",
+        "family": "NVIDIA"
+      },
+      {
+        "name": "NVIDIA: Nemotron Nano 9B V2",
+        "company": "NVIDIA",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "NVIDIA: Nemotron Nano 9B V2",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Nemotron Nano 9B V2",
+        "family": "NVIDIA"
+      },
+      {
+        "name": "Inception: Mercury",
+        "company": "Inception",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Inception: Mercury",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Mercury",
+        "family": "Inception"
+      },
+      {
+        "name": "TheDrummer: Valkyrie 49B V1",
+        "company": "TheDrummer",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "TheDrummer: Valkyrie 49B V1",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Valkyrie 49B V1",
+        "family": "TheDrummer"
+      },
+      {
+        "name": "Arcee AI: Caller Large",
+        "company": "Arcee AI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Arcee AI: Caller Large",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Caller Large",
+        "family": "Arcee AI"
+      },
+      {
+        "name": "Arcee AI: Spotlight",
+        "company": "Arcee AI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Arcee AI: Spotlight",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Spotlight",
+        "family": "Arcee AI"
+      },
+      {
+        "name": "Arcee AI: Maestro Reasoning",
+        "company": "Arcee AI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Arcee AI: Maestro Reasoning",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Maestro Reasoning",
+        "family": "Arcee AI"
+      },
+      {
+        "name": "Arcee AI: Virtuoso Large",
+        "company": "Arcee AI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Arcee AI: Virtuoso Large",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Virtuoso Large",
+        "family": "Arcee AI"
+      },
+      {
+        "name": "Arcee AI: Coder Large",
+        "company": "Arcee AI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Arcee AI: Coder Large",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Coder Large",
+        "family": "Arcee AI"
+      },
+      {
+        "name": "Arcee AI: Virtuoso Medium V2",
+        "company": "Arcee AI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Arcee AI: Virtuoso Medium V2",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Virtuoso Medium V2",
+        "family": "Arcee AI"
+      },
+      {
+        "name": "Arcee AI: Arcee Blitz",
+        "company": "Arcee AI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Arcee AI: Arcee Blitz",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Arcee Blitz",
+        "family": "Arcee AI"
+      },
+      {
+        "name": "Microsoft: Phi 4 Reasoning Plus",
+        "company": "Microsoft",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Microsoft: Phi 4 Reasoning Plus",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Phi 4 Reasoning Plus",
+        "family": "Microsoft"
+      },
+      {
+        "name": "Microsoft: Phi 4 Reasoning",
+        "company": "Microsoft",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Microsoft: Phi 4 Reasoning",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Phi 4 Reasoning",
+        "family": "Microsoft"
+      },
+      {
+        "name": "Inception: Mercury Coder",
+        "company": "Inception",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Inception: Mercury Coder",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Mercury Coder",
+        "family": "Inception"
+      },
+      {
+        "name": "Microsoft: MAI DS R1",
+        "company": "Microsoft",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Microsoft: MAI DS R1",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "MAI DS R1",
+        "family": "Microsoft"
+      },
+      {
+        "name": "NVIDIA: Llama 3.1 Nemotron Nano 8B v1",
+        "company": "NVIDIA",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "NVIDIA: Llama 3.1 Nemotron Nano 8B v1",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Llama 3.1 Nemotron Nano 8B v1",
+        "family": "Llama"
+      },
+      {
+        "name": "NVIDIA: Llama 3.3 Nemotron Super 49B v1",
+        "company": "NVIDIA",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "NVIDIA: Llama 3.3 Nemotron Super 49B v1",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Llama 3.3 Nemotron Super 49B v1",
+        "family": "Llama"
+      },
+      {
+        "name": "NVIDIA: Llama 3.1 Nemotron Ultra 253B v1",
+        "company": "NVIDIA",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "NVIDIA: Llama 3.1 Nemotron Ultra 253B v1",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Llama 3.1 Nemotron Ultra 253B v1",
+        "family": "Llama"
+      },
+      {
+        "name": "AllenAI: Olmo 2 32B Instruct",
+        "company": "AllenAI",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "AllenAI: Olmo 2 32B Instruct",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Olmo 2 32B Instruct",
+        "family": "AllenAI"
+      },
+      {
+        "name": "TheDrummer: Skyfall 36B V2",
+        "company": "TheDrummer",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "TheDrummer: Skyfall 36B V2",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Skyfall 36B V2",
+        "family": "TheDrummer"
+      },
+      {
+        "name": "Microsoft: Phi 4 Multimodal Instruct",
+        "company": "Microsoft",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Microsoft: Phi 4 Multimodal Instruct",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Phi 4 Multimodal Instruct",
+        "family": "Microsoft"
+      },
+      {
+        "name": "Perplexity: Sonar Reasoning Pro",
+        "company": "Perplexity",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Perplexity: Sonar Reasoning Pro",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Sonar Reasoning Pro",
+        "family": "Perplexity"
+      },
+      {
+        "name": "Perplexity: Sonar Pro",
+        "company": "Perplexity",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Perplexity: Sonar Pro",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Sonar Pro",
+        "family": "Perplexity"
+      },
+      {
+        "name": "Perplexity: Sonar Deep Research",
+        "company": "Perplexity",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Perplexity: Sonar Deep Research",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Sonar Deep Research",
+        "family": "Perplexity"
+      },
+      {
+        "name": "Perplexity: R1 1776",
+        "company": "Perplexity",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Perplexity: R1 1776",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "R1 1776",
+        "family": "Perplexity"
+      },
+      {
+        "name": "AionLabs: Aion-1.0",
+        "company": "AionLabs",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "AionLabs: Aion-1.0",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Aion-1.0",
+        "family": "AionLabs"
+      },
+      {
+        "name": "AionLabs: Aion-1.0-Mini",
+        "company": "AionLabs",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "AionLabs: Aion-1.0-Mini",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Aion-1.0-Mini",
+        "family": "AionLabs"
+      },
+      {
+        "name": "AionLabs: Aion-RP 1.0 (8B)",
+        "company": "AionLabs",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "AionLabs: Aion-RP 1.0 (8B)",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Aion-RP 1.0 (8B)",
+        "family": "AionLabs"
+      },
+      {
+        "name": "Perplexity: Sonar Reasoning",
+        "company": "Perplexity",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Perplexity: Sonar Reasoning",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Sonar Reasoning",
+        "family": "Perplexity"
+      },
+      {
+        "name": "Perplexity: Sonar",
+        "company": "Perplexity",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Perplexity: Sonar",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Sonar",
+        "family": "Perplexity"
+      },
+      {
+        "name": "Microsoft: Phi 4",
+        "company": "Microsoft",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Microsoft: Phi 4",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Phi 4",
+        "family": "Microsoft"
+      },
+      {
+        "name": "Sao10K: Llama 3.1 70B Hanami x1",
+        "company": "Sao10K",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Sao10K: Llama 3.1 70B Hanami x1",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Llama 3.1 70B Hanami x1",
+        "family": "Llama"
+      },
+      {
+        "name": "Sao10K: Llama 3.3 Euryale 70B",
+        "company": "Sao10K",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Sao10K: Llama 3.3 Euryale 70B",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Llama 3.3 Euryale 70B",
+        "family": "Llama"
+      },
+      {
+        "name": "Amazon: Nova Lite 1.0",
+        "company": "Amazon",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Amazon: Nova Lite 1.0",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Nova Lite 1.0",
+        "family": "Amazon"
+      },
+      {
+        "name": "Amazon: Nova Micro 1.0",
+        "company": "Amazon",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Amazon: Nova Micro 1.0",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Nova Micro 1.0",
+        "family": "Amazon"
+      },
+      {
+        "name": "Amazon: Nova Pro 1.0",
+        "company": "Amazon",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Amazon: Nova Pro 1.0",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Nova Pro 1.0",
+        "family": "Amazon"
+      },
+      {
+        "name": "TheDrummer: UnslopNemo 12B",
+        "company": "TheDrummer",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "TheDrummer: UnslopNemo 12B",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "UnslopNemo 12B",
+        "family": "TheDrummer"
+      },
+      {
+        "name": "NVIDIA: Llama 3.1 Nemotron 70B Instruct",
+        "company": "NVIDIA",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "NVIDIA: Llama 3.1 Nemotron 70B Instruct",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Llama 3.1 Nemotron 70B Instruct",
+        "family": "Llama"
+      },
+      {
+        "name": "TheDrummer: Rocinante 12B",
+        "company": "TheDrummer",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "TheDrummer: Rocinante 12B",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Rocinante 12B",
+        "family": "TheDrummer"
+      },
+      {
+        "name": "Sao10K: Llama 3.1 Euryale 70B v2.2",
+        "company": "Sao10K",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Sao10K: Llama 3.1 Euryale 70B v2.2",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Llama 3.1 Euryale 70B v2.2",
+        "family": "Llama"
+      },
+      {
+        "name": "Microsoft: Phi-3.5 Mini 128K Instruct",
+        "company": "Microsoft",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Microsoft: Phi-3.5 Mini 128K Instruct",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Phi-3.5 Mini 128K Instruct",
+        "family": "Microsoft"
+      },
+      {
+        "name": "Sao10K: Llama 3 8B Lunaris",
+        "company": "Sao10K",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Sao10K: Llama 3 8B Lunaris",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Llama 3 8B Lunaris",
+        "family": "Llama"
+      },
+      {
+        "name": "Perplexity: Llama 3.1 Sonar 70B Online",
+        "company": "Perplexity",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Perplexity: Llama 3.1 Sonar 70B Online",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Llama 3.1 Sonar 70B Online",
+        "family": "Llama"
+      },
+      {
+        "name": "Perplexity: Llama 3.1 Sonar 8B Online",
+        "company": "Perplexity",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Perplexity: Llama 3.1 Sonar 8B Online",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Llama 3.1 Sonar 8B Online",
+        "family": "Llama"
+      },
+      {
+        "name": "Sao10K: Llama 3 Stheno 8B v3.3 32K",
+        "company": "Sao10K",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Sao10K: Llama 3 Stheno 8B v3.3 32K",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Llama 3 Stheno 8B v3.3 32K",
+        "family": "Llama"
+      },
+      {
+        "name": "NVIDIA: Nemotron-4 340B Instruct",
+        "company": "NVIDIA",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "NVIDIA: Nemotron-4 340B Instruct",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Nemotron-4 340B Instruct",
+        "family": "NVIDIA"
+      },
+      {
+        "name": "Sao10k: Llama 3 Euryale 70B v2.1",
+        "company": "Sao10K",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Sao10k: Llama 3 Euryale 70B v2.1",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Llama 3 Euryale 70B v2.1",
+        "family": "Llama"
+      },
+      {
+        "name": "Microsoft: Phi-3 Medium 4K Instruct",
+        "company": "Microsoft",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Microsoft: Phi-3 Medium 4K Instruct",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Phi-3 Medium 4K Instruct",
+        "family": "Microsoft"
+      },
+      {
+        "name": "Microsoft: Phi-3 Mini 128K Instruct",
+        "company": "Microsoft",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Microsoft: Phi-3 Mini 128K Instruct",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Phi-3 Mini 128K Instruct",
+        "family": "Microsoft"
+      },
+      {
+        "name": "Microsoft: Phi-3 Medium 128K Instruct",
+        "company": "Microsoft",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Microsoft: Phi-3 Medium 128K Instruct",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Phi-3 Medium 128K Instruct",
+        "family": "Microsoft"
+      },
+      {
+        "name": "Perplexity: Llama3 Sonar 70B",
+        "company": "Perplexity",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Perplexity: Llama3 Sonar 70B",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Llama3 Sonar 70B",
+        "family": "Llama"
+      },
+      {
+        "name": "Perplexity: Llama3 Sonar 8B Online",
+        "company": "Perplexity",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Perplexity: Llama3 Sonar 8B Online",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Llama3 Sonar 8B Online",
+        "family": "Llama"
+      },
+      {
+        "name": "Perplexity: Llama3 Sonar 8B",
+        "company": "Perplexity",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Perplexity: Llama3 Sonar 8B",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Llama3 Sonar 8B",
+        "family": "Llama"
+      },
+      {
+        "name": "Perplexity: Llama3 Sonar 70B Online",
+        "company": "Perplexity",
+        "type": "大语言模型",
+        "source": "OpenRouter",
+        "source_id": "Perplexity: Llama3 Sonar 70B Online",
+        "company_country": "美国",
+        "verified": false,
+        "display_name": "Llama3 Sonar 70B Online",
+        "family": "Llama"
+      },
       {
         "name": "OpenAI: Sora 2 Pro (experimental)",
         "company": "OpenAI",
